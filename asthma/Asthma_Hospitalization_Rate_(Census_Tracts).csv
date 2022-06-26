@@ -1,0 +1,1250 @@
+﻿OBJECTID,TRACT_FIPS,ASTHMA_ADJRATE,ASTHMA_L95CI,ASTHMA_U95CI,ASTHMA_STATEADJRATE,ASTHMA_SL95CI,ASTHMA_SU95CI,TRACT_NAME,COUNTY_NAME,ASTHMA_DISPLAY
+1,08043979000,527.94,356.66,699.23,637.8,634.79,640.81,"Census Tract 9790, Fremont County, Colorado",FREMONT,Not Different Than State Average
+2,08045951600,266.94,189.53,344.35,637.8,634.79,640.81,"Census Tract 9516, Garfield County, Colorado",GARFIELD,Lower Than State Average
+3,08069002803,0,0,0,637.8,634.79,640.81,"Census Tract 28.03, Larimer County, Colorado",LARIMER,No Events or Data Suppressed
+4,08125963200,350.95,281.08,420.83,637.8,634.79,640.81,"Census Tract 9632, Yuma County, Colorado",YUMA,Lower Than State Average
+5,08069002401,1002.35,285.47,1719.23,637.8,634.79,640.81,"Census Tract 24.01, Larimer County, Colorado",LARIMER,Not Different Than State Average
+6,08069002402,645.92,476.5,815.34,637.8,634.79,640.81,"Census Tract 24.02, Larimer County, Colorado",LARIMER,Not Different Than State Average
+7,08103951200,234.94,147.08,322.8,637.8,634.79,640.81,"Census Tract 9512, Rio Blanco County, Colorado",RIO BLANCO,Lower Than State Average
+8,08103951100,171.05,112.7,229.41,637.8,634.79,640.81,"Census Tract 9511, Rio Blanco County, Colorado",RIO BLANCO,Lower Than State Average
+9,08049000201,272.05,196.87,347.22,637.8,634.79,640.81,"Census Tract 2.01, Grand County, Colorado",GRAND,Lower Than State Average
+10,08049000202,82.95,50.98,114.91,637.8,634.79,640.81,"Census Tract 2.02, Grand County, Colorado",GRAND,Lower Than State Average
+11,08049000100,278.39,180.65,376.14,637.8,634.79,640.81,"Census Tract 1, Grand County, Colorado",GRAND,Lower Than State Average
+12,08081000600,326.75,175.88,477.61,637.8,634.79,640.81,"Census Tract 6, Moffat County, Colorado",MOFFAT,Lower Than State Average
+13,08081000500,464.79,367.18,562.39,637.8,634.79,640.81,"Census Tract 5, Moffat County, Colorado",MOFFAT,Lower Than State Average
+14,08081000400,557.91,455.73,660.08,637.8,634.79,640.81,"Census Tract 4, Moffat County, Colorado",MOFFAT,Not Different Than State Average
+15,08081000300,432.46,322.57,542.35,637.8,634.79,640.81,"Census Tract 3, Moffat County, Colorado",MOFFAT,Lower Than State Average
+16,08057955600,272.54,151.03,394.05,637.8,634.79,640.81,"Census Tract 9556, Jackson County, Colorado",JACKSON,Lower Than State Average
+17,08121924100,460.64,316.18,605.09,637.8,634.79,640.81,"Census Tract 9241, Washington County, Colorado",WASHINGTON,Lower Than State Average
+18,08107000800,280.11,179.02,381.2,637.8,634.79,640.81,"Census Tract 8, Routt County, Colorado",ROUTT,Lower Than State Average
+19,08107000700,200.34,141.98,258.7,637.8,634.79,640.81,"Census Tract 7, Routt County, Colorado",ROUTT,Lower Than State Average
+20,08107000500,249.62,174.8,324.43,637.8,634.79,640.81,"Census Tract 5, Routt County, Colorado",ROUTT,Lower Than State Average
+21,08107000200,166.22,84.86,247.58,637.8,634.79,640.81,"Census Tract 2, Routt County, Colorado",ROUTT,Lower Than State Average
+22,08107000400,195.87,120.98,270.75,637.8,634.79,640.81,"Census Tract 4, Routt County, Colorado",ROUTT,Lower Than State Average
+23,08107000600,214.49,128.01,300.98,637.8,634.79,640.81,"Census Tract 6, Routt County, Colorado",ROUTT,Lower Than State Average
+24,08107000300,115.33,48.24,182.43,637.8,634.79,640.81,"Census Tract 3, Routt County, Colorado",ROUTT,Lower Than State Average
+25,08107000100,91.2,40.96,161.28,637.8,634.79,640.81,"Census Tract 1, Routt County, Colorado",ROUTT,Lower Than State Average
+26,08051963900,174.2,72.24,320.2,637.8,634.79,640.81,"Census Tract 9639, Gunnison County, Colorado",GUNNISON,Lower Than State Average
+27,08051963700,321.96,242.85,401.06,637.8,634.79,640.81,"Census Tract 9637, Gunnison County, Colorado",GUNNISON,Lower Than State Average
+28,08051963600,204.34,142.55,266.12,637.8,634.79,640.81,"Census Tract 9636, Gunnison County, Colorado",GUNNISON,Lower Than State Average
+29,08051963800,95.17,42.78,147.57,637.8,634.79,640.81,"Census Tract 9638, Gunnison County, Colorado",GUNNISON,Lower Than State Average
+30,08021974900,462.42,362.05,562.79,637.8,634.79,640.81,"Census Tract 9749, Conejos County, Colorado",CONEJOS,Lower Than State Average
+31,08021974800,115.28,66.79,163.78,637.8,634.79,640.81,"Census Tract 9748, Conejos County, Colorado",CONEJOS,Lower Than State Average
+32,08037000703,116.87,57.32,176.42,637.8,634.79,640.81,"Census Tract 7.03, Eagle County, Colorado",EAGLE,Lower Than State Average
+33,08037000301,471.68,275.02,668.34,637.8,634.79,640.81,"Census Tract 3.01, Eagle County, Colorado",EAGLE,Not Different Than State Average
+34,08037000702,560.54,197.56,923.51,637.8,634.79,640.81,"Census Tract 7.02, Eagle County, Colorado",EAGLE,Not Different Than State Average
+35,08037000402,252.1,140.18,364.02,637.8,634.79,640.81,"Census Tract 4.02, Eagle County, Colorado",EAGLE,Lower Than State Average
+36,08037000501,0,0,0,637.8,634.79,640.81,"Census Tract 5.01, Eagle County, Colorado",EAGLE,No Events or Data Suppressed
+37,08037000502,,,,637.8,634.79,640.81,"Census Tract 5.02, Eagle County, Colorado",EAGLE,No Events or Data Suppressed
+38,08037000302,105.65,53.62,157.68,637.8,634.79,640.81,"Census Tract 3.02, Eagle County, Colorado",EAGLE,Lower Than State Average
+39,08037000403,166.65,120.6,212.7,637.8,634.79,640.81,"Census Tract 4.03, Eagle County, Colorado",EAGLE,Lower Than State Average
+40,08037000701,31.84,4.28,84.95,637.8,634.79,640.81,"Census Tract 7.01, Eagle County, Colorado",EAGLE,Lower Than State Average
+41,08037000401,93.12,36.58,149.65,637.8,634.79,640.81,"Census Tract 4.01, Eagle County, Colorado",EAGLE,Lower Than State Average
+42,08037000503,354.95,203.81,506.09,637.8,634.79,640.81,"Census Tract 5.03, Eagle County, Colorado",EAGLE,Lower Than State Average
+43,08037000100,322.57,180.92,464.22,637.8,634.79,640.81,"Census Tract 1, Eagle County, Colorado",EAGLE,Lower Than State Average
+44,08037000600,182.23,99.29,290.11,637.8,634.79,640.81,"Census Tract 6, Eagle County, Colorado",EAGLE,Lower Than State Average
+45,08037000200,166.42,103.17,229.67,637.8,634.79,640.81,"Census Tract 2, Eagle County, Colorado",EAGLE,Lower Than State Average
+46,08045951901,406.9,308.29,505.51,637.8,634.79,640.81,"Census Tract 9519.01, Garfield County, Colorado",GARFIELD,Lower Than State Average
+47,08045951701,332.04,242.88,421.19,637.8,634.79,640.81,"Census Tract 9517.01, Garfield County, Colorado",GARFIELD,Lower Than State Average
+48,08045951902,440.88,359.96,521.8,637.8,634.79,640.81,"Census Tract 9519.02, Garfield County, Colorado",GARFIELD,Lower Than State Average
+49,08045951702,492.47,390.19,594.75,637.8,634.79,640.81,"Census Tract 9517.02, Garfield County, Colorado",GARFIELD,Lower Than State Average
+50,08045952001,311.86,241.01,382.7,637.8,634.79,640.81,"Census Tract 9520.01, Garfield County, Colorado",GARFIELD,Lower Than State Average
+51,08045952002,543.56,464.65,622.47,637.8,634.79,640.81,"Census Tract 9520.02, Garfield County, Colorado",GARFIELD,Lower Than State Average
+52,08045951803,296.24,209.13,383.36,637.8,634.79,640.81,"Census Tract 9518.03, Garfield County, Colorado",GARFIELD,Lower Than State Average
+53,08045951804,312.2,232.33,392.07,637.8,634.79,640.81,"Census Tract 9518.04, Garfield County, Colorado",GARFIELD,Lower Than State Average
+54,08045951802,220.97,152.35,289.58,637.8,634.79,640.81,"Census Tract 9518.02, Garfield County, Colorado",GARFIELD,Lower Than State Average
+55,08045952100,394.69,329.63,459.76,637.8,634.79,640.81,"Census Tract 9521, Garfield County, Colorado",GARFIELD,Lower Than State Average
+56,08067970704,386.26,275.06,497.47,637.8,634.79,640.81,"Census Tract 9707.04, La Plata County, Colorado",LA PLATA,Lower Than State Average
+57,08067970703,291.31,225.38,357.24,637.8,634.79,640.81,"Census Tract 9707.03, La Plata County, Colorado",LA PLATA,Lower Than State Average
+58,08067970701,152.38,105.15,199.61,637.8,634.79,640.81,"Census Tract 9707.01, La Plata County, Colorado",LA PLATA,Lower Than State Average
+59,08067940300,336.2,270.24,402.15,637.8,634.79,640.81,"Census Tract 9403, La Plata County, Colorado",LA PLATA,Lower Than State Average
+60,08097000500,281.29,114.82,447.76,637.8,634.79,640.81,"Census Tract 5, Pitkin County, Colorado",PITKIN,Lower Than State Average
+61,08097000401,306.89,198.67,415.11,637.8,634.79,640.81,"Census Tract 4.01, Pitkin County, Colorado",PITKIN,Lower Than State Average
+62,08097000402,171.55,107.97,235.12,637.8,634.79,640.81,"Census Tract 4.02, Pitkin County, Colorado",PITKIN,Lower Than State Average
+63,08097000100,204.2,152.23,256.18,637.8,634.79,640.81,"Census Tract 1, Pitkin County, Colorado",PITKIN,Lower Than State Average
+64,08117000402,151.67,81.01,222.34,637.8,634.79,640.81,"Census Tract 4.02, Summit County, Colorado",SUMMIT,Lower Than State Average
+65,08117000401,111.2,28.86,193.54,637.8,634.79,640.81,"Census Tract 4.01, Summit County, Colorado",SUMMIT,Lower Than State Average
+66,08117000100,90.14,60.22,120.06,637.8,634.79,640.81,"Census Tract 1, Summit County, Colorado",SUMMIT,Lower Than State Average
+67,08117000200,263.13,195.59,330.67,637.8,634.79,640.81,"Census Tract 2, Summit County, Colorado",SUMMIT,Lower Than State Average
+68,08117000300,164.68,104.08,225.28,637.8,634.79,640.81,"Census Tract 3, Summit County, Colorado",SUMMIT,Lower Than State Average
+69,08067971100,438.48,336.13,540.83,637.8,634.79,640.81,"Census Tract 9711, La Plata County, Colorado",LA PLATA,Lower Than State Average
+70,08067971000,296.39,205.45,387.33,637.8,634.79,640.81,"Census Tract 9710, La Plata County, Colorado",LA PLATA,Lower Than State Average
+71,08067970900,298.77,216.31,381.22,637.8,634.79,640.81,"Census Tract 9709, La Plata County, Colorado",LA PLATA,Lower Than State Average
+72,08067970800,308.91,237.29,380.53,637.8,634.79,640.81,"Census Tract 9708, La Plata County, Colorado",LA PLATA,Lower Than State Average
+73,08067940400,295.14,231.23,359.04,637.8,634.79,640.81,"Census Tract 9404, La Plata County, Colorado",LA PLATA,Lower Than State Average
+74,08067970600,402.93,343.5,462.36,637.8,634.79,640.81,"Census Tract 9706, La Plata County, Colorado",LA PLATA,Lower Than State Average
+75,08065961900,178.87,85.39,272.36,637.8,634.79,640.81,"Census Tract 9619, Lake County, Colorado",LAKE,Lower Than State Average
+76,08065961700,309.24,221.03,397.46,637.8,634.79,640.81,"Census Tract 9617, Lake County, Colorado",LAKE,Lower Than State Average
+77,08029965100,407.82,323.13,492.51,637.8,634.79,640.81,"Census Tract 9651, Delta County, Colorado",DELTA,Lower Than State Average
+78,08029965200,313.93,232.57,395.28,637.8,634.79,640.81,"Census Tract 9652, Delta County, Colorado",DELTA,Lower Than State Average
+79,08029964600,181.58,117.12,246.04,637.8,634.79,640.81,"Census Tract 9646, Delta County, Colorado",DELTA,Lower Than State Average
+80,08029965000,322.14,244.94,399.34,637.8,634.79,640.81,"Census Tract 9650, Delta County, Colorado",DELTA,Lower Than State Average
+81,08029964900,448.83,353.6,544.06,637.8,634.79,640.81,"Census Tract 9649, Delta County, Colorado",DELTA,Lower Than State Average
+82,08029964800,203.01,135.25,270.78,637.8,634.79,640.81,"Census Tract 9648, Delta County, Colorado",DELTA,Lower Than State Average
+83,08029964700,371.75,273.27,470.24,637.8,634.79,640.81,"Census Tract 9647, Delta County, Colorado",DELTA,Lower Than State Average
+84,08003960300,504.98,414.72,595.24,637.8,634.79,640.81,"Census Tract 9603, Alamosa County, Colorado",ALAMOSA,Lower Than State Average
+85,08003960200,518.93,430.26,607.59,637.8,634.79,640.81,"Census Tract 9602, Alamosa County, Colorado",ALAMOSA,Lower Than State Average
+86,08113968102,139.48,55.5,223.47,637.8,634.79,640.81,"Census Tract 9681.02, San Miguel County, Colorado",SAN MIGUEL,Lower Than State Average
+87,08113968101,,,,637.8,634.79,640.81,"Census Tract 9681.01, San Miguel County, Colorado",SAN MIGUEL,No Events or Data Suppressed
+88,08113968103,39.03,9.99,87.12,637.8,634.79,640.81,"Census Tract 9681.03, San Miguel County, Colorado",SAN MIGUEL,Lower Than State Average
+89,08113968200,127.52,58.22,196.81,637.8,634.79,640.81,"Census Tract 9682, San Miguel County, Colorado",SAN MIGUEL,Lower Than State Average
+90,08079973600,116.51,35.96,243.01,637.8,634.79,640.81,"Census Tract 9736, Mineral County, Colorado",MINERAL,Lower Than State Average
+91,08083941100,253.66,139.63,367.69,637.8,634.79,640.81,"Census Tract 9411, Montezuma County, Colorado",MONTEZUMA,Lower Than State Average
+92,08083969400,339.21,258.51,419.9,637.8,634.79,640.81,"Census Tract 9694, Montezuma County, Colorado",MONTEZUMA,Lower Than State Average
+93,08083969100,199.82,136.99,262.66,637.8,634.79,640.81,"Census Tract 9691, Montezuma County, Colorado",MONTEZUMA,Lower Than State Average
+94,08083969200,171.04,97.7,244.39,637.8,634.79,640.81,"Census Tract 9692, Montezuma County, Colorado",MONTEZUMA,Lower Than State Average
+95,08083969000,193.69,122.3,265.08,637.8,634.79,640.81,"Census Tract 9690, Montezuma County, Colorado",MONTEZUMA,Lower Than State Average
+96,08083969600,309.37,235.17,383.56,637.8,634.79,640.81,"Census Tract 9696, Montezuma County, Colorado",MONTEZUMA,Lower Than State Average
+97,08083969300,544.67,450.65,638.69,637.8,634.79,640.81,"Census Tract 9693, Montezuma County, Colorado",MONTEZUMA,Not Different Than State Average
+98,08003960000,231.75,113.31,350.2,637.8,634.79,640.81,"Census Tract 9600, Alamosa County, Colorado",ALAMOSA,Lower Than State Average
+99,08003960100,177.72,99.24,256.2,637.8,634.79,640.81,"Census Tract 9601, Alamosa County, Colorado",ALAMOSA,Lower Than State Average
+100,08091967600,126.44,82.12,170.75,637.8,634.79,640.81,"Census Tract 9676, Ouray County, Colorado",OURAY,Lower Than State Average
+101,08033000100,111.56,52.38,192.82,637.8,634.79,640.81,"Census Tract 1, Dolores County, Colorado",DOLORES,Lower Than State Average
+102,08109977600,131.68,70.4,192.95,637.8,634.79,640.81,"Census Tract 9776, Saguache County, Colorado",SAGUACHE,Lower Than State Average
+103,08109977700,193.09,122.02,264.16,637.8,634.79,640.81,"Census Tract 9777, Saguache County, Colorado",SAGUACHE,Lower Than State Average
+104,08105976700,577.13,482.85,671.4,637.8,634.79,640.81,"Census Tract 9767, Rio Grande County, Colorado",RIO GRANDE,Not Different Than State Average
+105,08105977000,249.95,187.3,312.6,637.8,634.79,640.81,"Census Tract 9770, Rio Grande County, Colorado",RIO GRANDE,Lower Than State Average
+106,08105976800,634.71,468.5,800.92,637.8,634.79,640.81,"Census Tract 9768, Rio Grande County, Colorado",RIO GRANDE,Not Different Than State Average
+107,08077001706,1043.64,912.72,1174.55,637.8,634.79,640.81,"Census Tract 17.06, Mesa County, Colorado",MESA,Higher Than State Average
+108,08077001707,628.71,531.46,725.97,637.8,634.79,640.81,"Census Tract 17.07, Mesa County, Colorado",MESA,Not Different Than State Average
+109,08077001001,594.68,466.74,722.63,637.8,634.79,640.81,"Census Tract 10.01, Mesa County, Colorado",MESA,Not Different Than State Average
+110,08077000602,856.44,714.36,998.52,637.8,634.79,640.81,"Census Tract 6.02, Mesa County, Colorado",MESA,Higher Than State Average
+111,08077000500,1506.09,1109.4,1902.77,637.8,634.79,640.81,"Census Tract 5, Mesa County, Colorado",MESA,Higher Than State Average
+112,08077000400,511.46,405.42,617.51,637.8,634.79,640.81,"Census Tract 4, Mesa County, Colorado",MESA,Lower Than State Average
+113,08077001302,529.64,438.98,620.31,637.8,634.79,640.81,"Census Tract 13.02, Mesa County, Colorado",MESA,Lower Than State Average
+114,08077001102,686.42,575.8,797.05,637.8,634.79,640.81,"Census Tract 11.02, Mesa County, Colorado",MESA,Not Different Than State Average
+115,08077000300,1238.42,967.52,1509.32,637.8,634.79,640.81,"Census Tract 3, Mesa County, Colorado",MESA,Higher Than State Average
+116,08077000200,1002.32,793.37,1211.27,637.8,634.79,640.81,"Census Tract 2, Mesa County, Colorado",MESA,Higher Than State Average
+117,08077001404,269.82,201.61,338.03,637.8,634.79,640.81,"Census Tract 14.04, Mesa County, Colorado",MESA,Lower Than State Average
+118,08077001501,569,511.31,626.68,637.8,634.79,640.81,"Census Tract 15.01, Mesa County, Colorado",MESA,Lower Than State Average
+119,08077001403,347.96,261.25,434.67,637.8,634.79,640.81,"Census Tract 14.03, Mesa County, Colorado",MESA,Lower Than State Average
+120,08077001301,675.52,592.47,758.57,637.8,634.79,640.81,"Census Tract 13.01, Mesa County, Colorado",MESA,Not Different Than State Average
+121,08077001002,389.9,324.49,455.31,637.8,634.79,640.81,"Census Tract 10.02, Mesa County, Colorado",MESA,Lower Than State Average
+122,08077000900,679.39,535.53,823.24,637.8,634.79,640.81,"Census Tract 9, Mesa County, Colorado",MESA,Not Different Than State Average
+123,08077001101,783.84,692.27,875.42,637.8,634.79,640.81,"Census Tract 11.01, Mesa County, Colorado",MESA,Higher Than State Average
+124,08077000800,603.3,529.46,677.14,637.8,634.79,640.81,"Census Tract 8, Mesa County, Colorado",MESA,Not Different Than State Average
+125,08077000700,817.37,689.71,945.04,637.8,634.79,640.81,"Census Tract 7, Mesa County, Colorado",MESA,Higher Than State Average
+126,08077001900,254.89,188.67,321.11,637.8,634.79,640.81,"Census Tract 19, Mesa County, Colorado",MESA,Lower Than State Average
+127,08077000601,737.91,613,862.83,637.8,634.79,640.81,"Census Tract 6.01, Mesa County, Colorado",MESA,Not Different Than State Average
+128,08077001402,284.83,223.38,346.27,637.8,634.79,640.81,"Census Tract 14.02, Mesa County, Colorado",MESA,Lower Than State Average
+129,08077001600,377.45,280.45,474.45,637.8,634.79,640.81,"Census Tract 16, Mesa County, Colorado",MESA,Lower Than State Average
+130,08077001502,337.83,277.77,397.9,637.8,634.79,640.81,"Census Tract 15.02, Mesa County, Colorado",MESA,Lower Than State Average
+131,08077001703,518.99,423.8,614.17,637.8,634.79,640.81,"Census Tract 17.03, Mesa County, Colorado",MESA,Lower Than State Average
+132,08077001800,220.51,143.39,297.64,637.8,634.79,640.81,"Census Tract 18, Mesa County, Colorado",MESA,Lower Than State Average
+133,08077001702,547.96,449.28,646.64,637.8,634.79,640.81,"Census Tract 17.02, Mesa County, Colorado",MESA,Not Different Than State Average
+134,08077001705,802.95,687.8,918.11,637.8,634.79,640.81,"Census Tract 17.05, Mesa County, Colorado",MESA,Higher Than State Average
+135,08077001200,401.29,253.21,549.37,637.8,634.79,640.81,"Census Tract 12, Mesa County, Colorado",MESA,Lower Than State Average
+136,08019014900,372.71,267.62,477.81,637.8,634.79,640.81,"Census Tract 149, Clear Creek County, Colorado",CLEAR CREEK,Lower Than State Average
+137,08053973100,71.7,13.17,177.01,637.8,634.79,640.81,"Census Tract 9731, Hinsdale County, Colorado",HINSDALE,Lower Than State Average
+138,08015000401,300.22,222.93,377.51,637.8,634.79,640.81,"Census Tract 4.01, Chaffee County, Colorado",CHAFFEE,Lower Than State Average
+139,08015000402,140.67,87.29,194.04,637.8,634.79,640.81,"Census Tract 4.02, Chaffee County, Colorado",CHAFFEE,Lower Than State Average
+140,08015000100,386.91,279.92,493.9,637.8,634.79,640.81,"Census Tract 1, Chaffee County, Colorado",CHAFFEE,Lower Than State Average
+141,08015000200,391.3,295.98,486.62,637.8,634.79,640.81,"Census Tract 2, Chaffee County, Colorado",CHAFFEE,Lower Than State Average
+142,08015000300,297.35,204.4,390.3,637.8,634.79,640.81,"Census Tract 3, Chaffee County, Colorado",CHAFFEE,Lower Than State Average
+143,08111972600,63.67,4.71,190.05,637.8,634.79,640.81,"Census Tract 9726, San Juan County, Colorado",SAN JUAN,Lower Than State Average
+144,08085966502,297.69,217.77,377.61,637.8,634.79,640.81,"Census Tract 9665.02, Montrose County, Colorado",MONTROSE,Lower Than State Average
+145,08085966601,344.86,259.34,430.39,637.8,634.79,640.81,"Census Tract 9666.01, Montrose County, Colorado",MONTROSE,Lower Than State Average
+146,08085966602,292.42,211.56,373.29,637.8,634.79,640.81,"Census Tract 9666.02, Montrose County, Colorado",MONTROSE,Lower Than State Average
+147,08085966201,213.87,130.63,297.1,637.8,634.79,640.81,"Census Tract 9662.01, Montrose County, Colorado",MONTROSE,Lower Than State Average
+148,08085966503,310.79,227.23,394.34,637.8,634.79,640.81,"Census Tract 9665.03, Montrose County, Colorado",MONTROSE,Lower Than State Average
+149,08085966501,324.4,191.57,457.23,637.8,634.79,640.81,"Census Tract 9665.01, Montrose County, Colorado",MONTROSE,Lower Than State Average
+150,08085966202,313.71,239.51,387.91,637.8,634.79,640.81,"Census Tract 9662.02, Montrose County, Colorado",MONTROSE,Lower Than State Average
+151,08085966100,203.85,99.03,308.66,637.8,634.79,640.81,"Census Tract 9661, Montrose County, Colorado",MONTROSE,Lower Than State Average
+152,08085966400,484.51,397.27,571.76,637.8,634.79,640.81,"Census Tract 9664, Montrose County, Colorado",MONTROSE,Lower Than State Average
+153,08085966300,492.29,408.95,575.64,637.8,634.79,640.81,"Census Tract 9663, Montrose County, Colorado",MONTROSE,Lower Than State Average
+154,08007940400,101.64,35.2,168.08,637.8,634.79,640.81,"Census Tract 9404, Archuleta County, Colorado",ARCHULETA,Lower Than State Average
+155,08007974200,290.72,224.89,356.55,637.8,634.79,640.81,"Census Tract 9742, Archuleta County, Colorado",ARCHULETA,Lower Than State Average
+156,08007974400,113.83,55.14,172.52,637.8,634.79,640.81,"Census Tract 9744, Archuleta County, Colorado",ARCHULETA,Lower Than State Average
+157,08007974300,385.17,281.74,488.6,637.8,634.79,640.81,"Census Tract 9743, Archuleta County, Colorado",ARCHULETA,Lower Than State Average
+158,08093000500,571.08,342,800.17,637.8,634.79,640.81,"Census Tract 5, Park County, Colorado",PARK,Not Different Than State Average
+159,08093000400,297.97,159.77,436.17,637.8,634.79,640.81,"Census Tract 4, Park County, Colorado",PARK,Lower Than State Average
+160,08093000100,403.25,327.41,479.09,637.8,634.79,640.81,"Census Tract 1, Park County, Colorado",PARK,Lower Than State Average
+161,08093000300,47.93,18.62,90.84,637.8,634.79,640.81,"Census Tract 3, Park County, Colorado",PARK,Lower Than State Average
+162,08093000200,362.08,258.04,466.13,637.8,634.79,640.81,"Census Tract 2, Park County, Colorado",PARK,Lower Than State Average
+163,08001009606,925.54,760.64,1090.45,637.8,634.79,640.81,"Census Tract 96.06, Adams County, Colorado",ADAMS,Higher Than State Average
+164,08001009320,1163.8,953.55,1374.05,637.8,634.79,640.81,"Census Tract 93.20, Adams County, Colorado",ADAMS,Higher Than State Average
+165,08001009409,505.07,410.76,599.38,637.8,634.79,640.81,"Census Tract 94.09, Adams County, Colorado",ADAMS,Lower Than State Average
+166,08001009322,732.02,606.62,857.42,637.8,634.79,640.81,"Census Tract 93.22, Adams County, Colorado",ADAMS,Not Different Than State Average
+167,08001009607,528.46,436.12,620.8,637.8,634.79,640.81,"Census Tract 96.07, Adams County, Colorado",ADAMS,Lower Than State Average
+168,08001009304,845.65,738.31,953,637.8,634.79,640.81,"Census Tract 93.04, Adams County, Colorado",ADAMS,Higher Than State Average
+169,08001060200,655.89,488.49,823.29,637.8,634.79,640.81,"Census Tract 602, Adams County, Colorado",ADAMS,Not Different Than State Average
+170,08001009325,672.53,571.57,773.49,637.8,634.79,640.81,"Census Tract 93.25, Adams County, Colorado",ADAMS,Not Different Than State Average
+171,08069001601,678.59,483.04,874.13,637.8,634.79,640.81,"Census Tract 16.01, Larimer County, Colorado",LARIMER,Not Different Than State Average
+172,08069001301,590.99,462.12,719.86,637.8,634.79,640.81,"Census Tract 13.01, Larimer County, Colorado",LARIMER,Not Different Than State Average
+173,08069001114,591.85,437.09,746.61,637.8,634.79,640.81,"Census Tract 11.14, Larimer County, Colorado",LARIMER,Not Different Than State Average
+174,08069001113,585.74,462.95,708.52,637.8,634.79,640.81,"Census Tract 11.13, Larimer County, Colorado",LARIMER,Not Different Than State Average
+175,08069001107,902.41,764.79,1040.04,637.8,634.79,640.81,"Census Tract 11.07, Larimer County, Colorado",LARIMER,Higher Than State Average
+176,08069001104,915.35,769.29,1061.41,637.8,634.79,640.81,"Census Tract 11.04, Larimer County, Colorado",LARIMER,Higher Than State Average
+177,08069001112,869.03,707.72,1030.34,637.8,634.79,640.81,"Census Tract 11.12, Larimer County, Colorado",LARIMER,Higher Than State Average
+178,08069001010,648.92,440.22,857.63,637.8,634.79,640.81,"Census Tract 10.10, Larimer County, Colorado",LARIMER,Not Different Than State Average
+179,08069001007,934.1,755.04,1113.17,637.8,634.79,640.81,"Census Tract 10.07, Larimer County, Colorado",LARIMER,Higher Than State Average
+180,08069000300,811.11,641.43,980.78,637.8,634.79,640.81,"Census Tract 3, Larimer County, Colorado",LARIMER,Higher Than State Average
+181,08069002700,712.19,606.56,817.82,637.8,634.79,640.81,"Census Tract 27, Larimer County, Colorado",LARIMER,Not Different Than State Average
+182,08069002600,514.32,415.83,612.8,637.8,634.79,640.81,"Census Tract 26, Larimer County, Colorado",LARIMER,Lower Than State Average
+183,08001015000,1834.87,1589.55,2080.19,637.8,634.79,640.81,"Census Tract 150, Adams County, Colorado",ADAMS,Higher Than State Average
+184,08001008538,605.47,403.72,807.21,637.8,634.79,640.81,"Census Tract 85.38, Adams County, Colorado",ADAMS,Not Different Than State Average
+185,08001009326,443.5,323.78,563.22,637.8,634.79,640.81,"Census Tract 93.26, Adams County, Colorado",ADAMS,Lower Than State Average
+186,08001009206,751.1,582.56,919.63,637.8,634.79,640.81,"Census Tract 92.06, Adams County, Colorado",ADAMS,Not Different Than State Average
+187,08001008546,444.58,348.16,541,637.8,634.79,640.81,"Census Tract 85.46, Adams County, Colorado",ADAMS,Lower Than State Average
+188,08001008526,438.26,362.82,513.7,637.8,634.79,640.81,"Census Tract 85.26, Adams County, Colorado",ADAMS,Lower Than State Average
+189,08001008901,854.64,677.4,1031.88,637.8,634.79,640.81,"Census Tract 89.01, Adams County, Colorado",ADAMS,Higher Than State Average
+190,08001009608,932.41,768.1,1096.72,637.8,634.79,640.81,"Census Tract 96.08, Adams County, Colorado",ADAMS,Higher Than State Average
+191,08001009604,1104.43,957.83,1251.03,637.8,634.79,640.81,"Census Tract 96.04, Adams County, Colorado",ADAMS,Higher Than State Average
+192,08001009202,1885.73,1420.24,2351.22,637.8,634.79,640.81,"Census Tract 92.02, Adams County, Colorado",ADAMS,Higher Than State Average
+193,08001008801,1206.94,1064.9,1348.99,637.8,634.79,640.81,"Census Tract 88.01, Adams County, Colorado",ADAMS,Higher Than State Average
+194,08001009401,736.08,631.42,840.73,637.8,634.79,640.81,"Census Tract 94.01, Adams County, Colorado",ADAMS,Not Different Than State Average
+195,08001009406,715.62,602.6,828.64,637.8,634.79,640.81,"Census Tract 94.06, Adams County, Colorado",ADAMS,Not Different Than State Average
+196,08001008542,561.92,482.65,641.19,637.8,634.79,640.81,"Census Tract 85.42, Adams County, Colorado",ADAMS,Not Different Than State Average
+197,08001008536,684.23,530,838.46,637.8,634.79,640.81,"Census Tract 85.36, Adams County, Colorado",ADAMS,Not Different Than State Average
+198,08001008539,674.92,542.92,806.92,637.8,634.79,640.81,"Census Tract 85.39, Adams County, Colorado",ADAMS,Not Different Than State Average
+199,08001009327,678.4,558.36,798.45,637.8,634.79,640.81,"Census Tract 93.27, Adams County, Colorado",ADAMS,Not Different Than State Average
+200,08001009207,1319.46,750.63,1888.29,637.8,634.79,640.81,"Census Tract 92.07, Adams County, Colorado",ADAMS,Higher Than State Average
+201,08001008548,489.76,311.09,668.43,637.8,634.79,640.81,"Census Tract 85.48, Adams County, Colorado",ADAMS,Not Different Than State Average
+202,08001060100,575,479.56,670.44,637.8,634.79,640.81,"Census Tract 601, Adams County, Colorado",ADAMS,Not Different Than State Average
+203,08001009410,599.13,468.57,729.69,637.8,634.79,640.81,"Census Tract 94.10, Adams County, Colorado",ADAMS,Not Different Than State Average
+204,08001008802,803.89,672.62,935.16,637.8,634.79,640.81,"Census Tract 88.02, Adams County, Colorado",ADAMS,Higher Than State Average
+205,08001008529,846.92,744.25,949.58,637.8,634.79,640.81,"Census Tract 85.29, Adams County, Colorado",ADAMS,Higher Than State Average
+206,08001008534,829.14,653.36,1004.93,637.8,634.79,640.81,"Census Tract 85.34, Adams County, Colorado",ADAMS,Higher Than State Average
+207,08001009103,828.2,672.93,983.46,637.8,634.79,640.81,"Census Tract 91.03, Adams County, Colorado",ADAMS,Higher Than State Average
+208,08001008603,852.31,662.86,1041.76,637.8,634.79,640.81,"Census Tract 86.03, Adams County, Colorado",ADAMS,Higher Than State Average
+209,08001009408,427.48,342.45,512.51,637.8,634.79,640.81,"Census Tract 94.08, Adams County, Colorado",ADAMS,Lower Than State Average
+210,08001008524,525.31,435.53,615.09,637.8,634.79,640.81,"Census Tract 85.24, Adams County, Colorado",ADAMS,Lower Than State Average
+211,08001008508,744.85,607.79,881.91,637.8,634.79,640.81,"Census Tract 85.08, Adams County, Colorado",ADAMS,Not Different Than State Average
+212,08001008401,710.03,581.42,838.64,637.8,634.79,640.81,"Census Tract 84.01, Adams County, Colorado",ADAMS,Not Different Than State Average
+213,08001008523,613.23,529.78,696.69,637.8,634.79,640.81,"Census Tract 85.23, Adams County, Colorado",ADAMS,Not Different Than State Average
+214,08001008402,878.25,735.5,1021.01,637.8,634.79,640.81,"Census Tract 84.02, Adams County, Colorado",ADAMS,Higher Than State Average
+215,08069002802,481.93,392.41,571.46,637.8,634.79,640.81,"Census Tract 28.02, Larimer County, Colorado",LARIMER,Lower Than State Average
+216,08069002503,593.4,440.56,746.25,637.8,634.79,640.81,"Census Tract 25.03, Larimer County, Colorado",LARIMER,Not Different Than State Average
+217,08069001608,544.83,433.28,656.39,637.8,634.79,640.81,"Census Tract 16.08, Larimer County, Colorado",LARIMER,Not Different Than State Average
+218,08069001607,538.32,424.21,652.42,637.8,634.79,640.81,"Census Tract 16.07, Larimer County, Colorado",LARIMER,Not Different Than State Average
+219,08125963100,360.34,277.35,443.34,637.8,634.79,640.81,"Census Tract 9631, Yuma County, Colorado",YUMA,Lower Than State Average
+220,08001008547,472.46,352,592.92,637.8,634.79,640.81,"Census Tract 85.47, Adams County, Colorado",ADAMS,Lower Than State Average
+221,08001008543,551.98,479.21,624.74,637.8,634.79,640.81,"Census Tract 85.43, Adams County, Colorado",ADAMS,Lower Than State Average
+222,08001008544,516.16,413.66,618.65,637.8,634.79,640.81,"Census Tract 85.44, Adams County, Colorado",ADAMS,Lower Than State Average
+223,08001008545,729.85,586.03,873.68,637.8,634.79,640.81,"Census Tract 85.45, Adams County, Colorado",ADAMS,Not Different Than State Average
+224,08001060000,566.2,443.53,688.87,637.8,634.79,640.81,"Census Tract 600, Adams County, Colorado",ADAMS,Not Different Than State Average
+225,08001061200,369.18,222.3,516.05,637.8,634.79,640.81,"Census Tract 612, Adams County, Colorado",ADAMS,Lower Than State Average
+226,08001008549,555.4,405.43,705.36,637.8,634.79,640.81,"Census Tract 85.49, Adams County, Colorado",ADAMS,Not Different Than State Average
+227,08001008551,360.6,222.24,498.96,637.8,634.79,640.81,"Census Tract 85.51, Adams County, Colorado",ADAMS,Lower Than State Average
+228,08069001606,440.58,326.36,554.8,637.8,634.79,640.81,"Census Tract 16.06, Larimer County, Colorado",LARIMER,Lower Than State Average
+229,08069000505,1234.99,1003.04,1466.95,637.8,634.79,640.81,"Census Tract 5.05, Larimer County, Colorado",LARIMER,Higher Than State Average
+230,08069000202,739.81,550.72,928.91,637.8,634.79,640.81,"Census Tract 2.02, Larimer County, Colorado",LARIMER,Not Different Than State Average
+231,08069001307,915.92,787.96,1043.87,637.8,634.79,640.81,"Census Tract 13.07, Larimer County, Colorado",LARIMER,Higher Than State Average
+232,08069002801,289.95,215.74,364.15,637.8,634.79,640.81,"Census Tract 28.01, Larimer County, Colorado",LARIMER,Lower Than State Average
+233,08069001808,383.34,305.33,461.34,637.8,634.79,640.81,"Census Tract 18.08, Larimer County, Colorado",LARIMER,Lower Than State Average
+234,08069001605,828.17,615.75,1040.58,637.8,634.79,640.81,"Census Tract 16.05, Larimer County, Colorado",LARIMER,Not Different Than State Average
+235,08069002502,631.5,554.61,708.39,637.8,634.79,640.81,"Census Tract 25.02, Larimer County, Colorado",LARIMER,Not Different Than State Average
+236,08069002501,670.27,594.62,745.93,637.8,634.79,640.81,"Census Tract 25.01, Larimer County, Colorado",LARIMER,Not Different Than State Average
+237,08069002011,598.52,500.12,696.92,637.8,634.79,640.81,"Census Tract 20.11, Larimer County, Colorado",LARIMER,Not Different Than State Average
+238,08001008550,590.84,500.07,681.61,637.8,634.79,640.81,"Census Tract 85.50, Adams County, Colorado",ADAMS,Not Different Than State Average
+239,08001008541,414.13,331.07,497.19,637.8,634.79,640.81,"Census Tract 85.41, Adams County, Colorado",ADAMS,Lower Than State Average
+240,08001008540,416.12,344.59,487.64,637.8,634.79,640.81,"Census Tract 85.40, Adams County, Colorado",ADAMS,Lower Than State Average
+241,08001008535,635.52,516.72,754.31,637.8,634.79,640.81,"Census Tract 85.35, Adams County, Colorado",ADAMS,Not Different Than State Average
+242,08001008537,571.25,467.89,674.62,637.8,634.79,640.81,"Census Tract 85.37, Adams County, Colorado",ADAMS,Not Different Than State Average
+243,08001008606,574.68,483.79,665.58,637.8,634.79,640.81,"Census Tract 86.06, Adams County, Colorado",ADAMS,Not Different Than State Average
+244,08001988700,,,,637.8,634.79,640.81,"Census Tract 9887, Adams County, Colorado",ADAMS,No Events or Data Suppressed
+245,08001009104,712.17,556.61,867.74,637.8,634.79,640.81,"Census Tract 91.04, Adams County, Colorado",ADAMS,Not Different Than State Average
+246,08069002010,575.19,410.35,740.03,637.8,634.79,640.81,"Census Tract 20.10, Larimer County, Colorado",LARIMER,Not Different Than State Average
+247,08069001809,823.19,728.91,917.48,637.8,634.79,640.81,"Census Tract 18.09, Larimer County, Colorado",LARIMER,Higher Than State Average
+248,08069001709,577.56,523.04,632.08,637.8,634.79,640.81,"Census Tract 17.09, Larimer County, Colorado",LARIMER,Lower Than State Average
+249,08069001708,745.82,606.22,885.42,637.8,634.79,640.81,"Census Tract 17.08, Larimer County, Colorado",LARIMER,Not Different Than State Average
+250,08069001308,688.68,589.72,787.64,637.8,634.79,640.81,"Census Tract 13.08, Larimer County, Colorado",LARIMER,Not Different Than State Average
+251,08069000802,1089.48,800.81,1378.14,637.8,634.79,640.81,"Census Tract 8.02, Larimer County, Colorado",LARIMER,Higher Than State Average
+252,08069000801,952.15,698.3,1206,637.8,634.79,640.81,"Census Tract 8.01, Larimer County, Colorado",LARIMER,Higher Than State Average
+253,08069000506,800.55,614.93,986.17,637.8,634.79,640.81,"Census Tract 5.06, Larimer County, Colorado",LARIMER,Not Different Than State Average
+254,08069000504,531.64,334.59,728.69,637.8,634.79,640.81,"Census Tract 5.04, Larimer County, Colorado",LARIMER,Not Different Than State Average
+255,08069000503,828.91,623.65,1034.18,637.8,634.79,640.81,"Census Tract 5.03, Larimer County, Colorado",LARIMER,Not Different Than State Average
+256,08069000402,838.91,650.44,1027.37,637.8,634.79,640.81,"Census Tract 4.02, Larimer County, Colorado",LARIMER,Higher Than State Average
+257,08069000401,916.38,668.99,1163.78,637.8,634.79,640.81,"Census Tract 4.01, Larimer County, Colorado",LARIMER,Higher Than State Average
+258,08069000201,268.38,132.7,404.05,637.8,634.79,640.81,"Census Tract 2.01, Larimer County, Colorado",LARIMER,Lower Than State Average
+259,08069001902,769.93,657.9,881.96,637.8,634.79,640.81,"Census Tract 19.02, Larimer County, Colorado",LARIMER,Higher Than State Average
+260,08001008604,494.56,369.48,619.63,637.8,634.79,640.81,"Census Tract 86.04, Adams County, Colorado",ADAMS,Lower Than State Average
+261,08001008605,726.78,582.94,870.62,637.8,634.79,640.81,"Census Tract 86.05, Adams County, Colorado",ADAMS,Not Different Than State Average
+262,08001009553,691.59,552.88,830.31,637.8,634.79,640.81,"Census Tract 95.53, Adams County, Colorado",ADAMS,Not Different Than State Average
+263,08001008706,1196.3,1050.51,1342.08,637.8,634.79,640.81,"Census Tract 87.06, Adams County, Colorado",ADAMS,Higher Than State Average
+264,08001009101,751.11,633.51,868.72,637.8,634.79,640.81,"Census Tract 91.01, Adams County, Colorado",ADAMS,Not Different Than State Average
+265,08001009002,814.34,702.55,926.13,637.8,634.79,640.81,"Census Tract 90.02, Adams County, Colorado",ADAMS,Higher Than State Average
+266,08069002007,788.15,660.79,915.52,637.8,634.79,640.81,"Census Tract 20.07, Larimer County, Colorado",LARIMER,Higher Than State Average
+267,08069002005,803.89,692.4,915.37,637.8,634.79,640.81,"Census Tract 20.05, Larimer County, Colorado",LARIMER,Higher Than State Average
+268,08069002008,595.37,487.34,703.4,637.8,634.79,640.81,"Census Tract 20.08, Larimer County, Colorado",LARIMER,Not Different Than State Average
+269,08069001903,300.33,213.28,387.38,637.8,634.79,640.81,"Census Tract 19.03, Larimer County, Colorado",LARIMER,Lower Than State Average
+270,08069001804,830.36,702.03,958.68,637.8,634.79,640.81,"Census Tract 18.04, Larimer County, Colorado",LARIMER,Higher Than State Average
+271,08069001901,877.79,752.79,1002.79,637.8,634.79,640.81,"Census Tract 19.01, Larimer County, Colorado",LARIMER,Higher Than State Average
+272,08069001807,655.1,552.57,757.62,637.8,634.79,640.81,"Census Tract 18.07, Larimer County, Colorado",LARIMER,Not Different Than State Average
+273,08001009308,694.6,582.27,806.93,637.8,634.79,640.81,"Census Tract 93.08, Adams County, Colorado",ADAMS,Not Different Than State Average
+274,08001009001,1316.71,1159.54,1473.88,637.8,634.79,640.81,"Census Tract 90.01, Adams County, Colorado",ADAMS,Higher Than State Average
+275,08001009306,1300.09,1023.95,1576.23,637.8,634.79,640.81,"Census Tract 93.06, Adams County, Colorado",ADAMS,Higher Than State Average
+276,08001009318,1027.85,863.82,1191.88,637.8,634.79,640.81,"Census Tract 93.18, Adams County, Colorado",ADAMS,Higher Than State Average
+277,08001008705,962.48,839.06,1085.91,637.8,634.79,640.81,"Census Tract 87.05, Adams County, Colorado",ADAMS,Higher Than State Average
+278,08001008533,611.21,523.32,699.1,637.8,634.79,640.81,"Census Tract 85.33, Adams County, Colorado",ADAMS,Not Different Than State Average
+279,08001009204,705.21,610.24,800.19,637.8,634.79,640.81,"Census Tract 92.04, Adams County, Colorado",ADAMS,Not Different Than State Average
+280,08001008507,784.94,686.02,883.86,637.8,634.79,640.81,"Census Tract 85.07, Adams County, Colorado",ADAMS,Higher Than State Average
+281,08069001707,734.12,613.67,854.57,637.8,634.79,640.81,"Census Tract 17.07, Larimer County, Colorado",LARIMER,Not Different Than State Average
+282,08069001806,527.66,453.86,601.46,637.8,634.79,640.81,"Census Tract 18.06, Larimer County, Colorado",LARIMER,Lower Than State Average
+283,08069001704,838.41,754.21,922.61,637.8,634.79,640.81,"Census Tract 17.04, Larimer County, Colorado",LARIMER,Higher Than State Average
+284,08069001706,829.3,728,930.6,637.8,634.79,640.81,"Census Tract 17.06, Larimer County, Colorado",LARIMER,Higher Than State Average
+285,08069001109,650.35,540.99,759.7,637.8,634.79,640.81,"Census Tract 11.09, Larimer County, Colorado",LARIMER,Not Different Than State Average
+286,08069001106,817.68,692.11,943.24,637.8,634.79,640.81,"Census Tract 11.06, Larimer County, Colorado",LARIMER,Higher Than State Average
+287,08069001111,693.38,467.21,919.55,637.8,634.79,640.81,"Census Tract 11.11, Larimer County, Colorado",LARIMER,Not Different Than State Average
+288,08001009203,1034.15,868.99,1199.31,637.8,634.79,640.81,"Census Tract 92.03, Adams County, Colorado",ADAMS,Higher Than State Average
+289,08001008505,1025.12,911.32,1138.92,637.8,634.79,640.81,"Census Tract 85.05, Adams County, Colorado",ADAMS,Higher Than State Average
+290,08001008506,802.28,701.06,903.5,637.8,634.79,640.81,"Census Tract 85.06, Adams County, Colorado",ADAMS,Higher Than State Average
+291,08001009501,773.63,634.96,912.3,637.8,634.79,640.81,"Census Tract 95.01, Adams County, Colorado",ADAMS,Not Different Than State Average
+292,08001009502,1206.53,1046.64,1366.42,637.8,634.79,640.81,"Census Tract 95.02, Adams County, Colorado",ADAMS,Higher Than State Average
+293,08001009309,593.97,483.6,704.33,637.8,634.79,640.81,"Census Tract 93.09, Adams County, Colorado",ADAMS,Not Different Than State Average
+294,08001009310,822.87,713.89,931.84,637.8,634.79,640.81,"Census Tract 93.10, Adams County, Colorado",ADAMS,Higher Than State Average
+295,08001009319,2119.11,1802.77,2435.44,637.8,634.79,640.81,"Census Tract 93.19, Adams County, Colorado",ADAMS,Higher Than State Average
+296,08069001110,771.7,625.63,917.77,637.8,634.79,640.81,"Census Tract 11.10, Larimer County, Colorado",LARIMER,Not Different Than State Average
+297,08069001008,288.78,163.99,413.57,637.8,634.79,640.81,"Census Tract 10.08, Larimer County, Colorado",LARIMER,Lower Than State Average
+298,08069001004,1397.57,1209.02,1586.11,637.8,634.79,640.81,"Census Tract 10.04, Larimer County, Colorado",LARIMER,Higher Than State Average
+299,08069001003,1262.42,1109.56,1415.28,637.8,634.79,640.81,"Census Tract 10.03, Larimer County, Colorado",LARIMER,Higher Than State Average
+300,08069000902,563.22,444.27,682.17,637.8,634.79,640.81,"Census Tract 9.02, Larimer County, Colorado",LARIMER,Not Different Than State Average
+301,08069001603,1045.92,912.65,1179.19,637.8,634.79,640.81,"Census Tract 16.03, Larimer County, Colorado",LARIMER,Higher Than State Average
+302,08069000901,759.34,655.12,863.55,637.8,634.79,640.81,"Census Tract 9.01, Larimer County, Colorado",LARIMER,Higher Than State Average
+303,08069001304,1289.06,1082.81,1495.32,637.8,634.79,640.81,"Census Tract 13.04, Larimer County, Colorado",LARIMER,Higher Than State Average
+304,08069000700,482.16,283.36,680.96,637.8,634.79,640.81,"Census Tract 7, Larimer County, Colorado",LARIMER,Not Different Than State Average
+305,08001009316,639.27,556.31,722.23,637.8,634.79,640.81,"Census Tract 93.16, Adams County, Colorado",ADAMS,Not Different Than State Average
+306,08001009603,785.19,679.4,890.99,637.8,634.79,640.81,"Census Tract 96.03, Adams County, Colorado",ADAMS,Higher Than State Average
+307,08001009321,1106.05,933.8,1278.3,637.8,634.79,640.81,"Census Tract 93.21, Adams County, Colorado",ADAMS,Higher Than State Average
+308,08001009407,1441.25,1036.57,1845.93,637.8,634.79,640.81,"Census Tract 94.07, Adams County, Colorado",ADAMS,Higher Than State Average
+309,08001009323,950.3,790.73,1109.87,637.8,634.79,640.81,"Census Tract 93.23, Adams County, Colorado",ADAMS,Higher Than State Average
+310,08001009411,671.68,525.04,818.32,637.8,634.79,640.81,"Census Tract 94.11, Adams County, Colorado",ADAMS,Not Different Than State Average
+311,08001009307,897.94,757.82,1038.06,637.8,634.79,640.81,"Census Tract 93.07, Adams County, Colorado",ADAMS,Higher Than State Average
+312,08069000600,398.17,37.21,759.14,637.8,634.79,640.81,"Census Tract 6, Larimer County, Colorado",LARIMER,Not Different Than State Average
+313,08069001009,624.48,532.14,716.81,637.8,634.79,640.81,"Census Tract 10.09, Larimer County, Colorado",LARIMER,Not Different Than State Average
+314,08069000100,1648.7,1376.14,1921.26,637.8,634.79,640.81,"Census Tract 1, Larimer County, Colorado",LARIMER,Higher Than State Average
+315,08069002300,567.85,443.08,692.62,637.8,634.79,640.81,"Census Tract 23, Larimer County, Colorado",LARIMER,Not Different Than State Average
+316,08069001602,581.7,484.61,678.79,637.8,634.79,640.81,"Census Tract 16.02, Larimer County, Colorado",LARIMER,Not Different Than State Average
+317,08069001306,1639.43,1386.96,1891.91,637.8,634.79,640.81,"Census Tract 13.06, Larimer County, Colorado",LARIMER,Higher Than State Average
+318,08069001305,1820.06,1553.74,2086.38,637.8,634.79,640.81,"Census Tract 13.05, Larimer County, Colorado",LARIMER,Higher Than State Average
+319,08059010209,681.12,574.23,788.01,637.8,634.79,640.81,"Census Tract 102.09, Jefferson County, Colorado",JEFFERSON,Not Different Than State Average
+320,08059010305,1145.82,976.12,1315.52,637.8,634.79,640.81,"Census Tract 103.05, Jefferson County, Colorado",JEFFERSON,Higher Than State Average
+321,08059009832,692.68,529.33,856.03,637.8,634.79,640.81,"Census Tract 98.32, Jefferson County, Colorado",JEFFERSON,Not Different Than State Average
+322,08059009833,589.11,494.13,684.09,637.8,634.79,640.81,"Census Tract 98.33, Jefferson County, Colorado",JEFFERSON,Not Different Than State Average
+323,08059009834,670.19,563.96,776.41,637.8,634.79,640.81,"Census Tract 98.34, Jefferson County, Colorado",JEFFERSON,Not Different Than State Average
+324,08059009831,610.56,370.47,850.64,637.8,634.79,640.81,"Census Tract 98.31, Jefferson County, Colorado",JEFFERSON,Not Different Than State Average
+325,08059010210,558.18,454.25,662.12,637.8,634.79,640.81,"Census Tract 102.10, Jefferson County, Colorado",JEFFERSON,Not Different Than State Average
+326,08059010206,708.01,589.48,826.53,637.8,634.79,640.81,"Census Tract 102.06, Jefferson County, Colorado",JEFFERSON,Not Different Than State Average
+327,08059009835,581.58,470.23,692.94,637.8,634.79,640.81,"Census Tract 98.35, Jefferson County, Colorado",JEFFERSON,Not Different Than State Average
+328,08059009828,743.03,638.22,847.84,637.8,634.79,640.81,"Census Tract 98.28, Jefferson County, Colorado",JEFFERSON,Not Different Than State Average
+329,08059010205,588.57,432.99,744.16,637.8,634.79,640.81,"Census Tract 102.05, Jefferson County, Colorado",JEFFERSON,Not Different Than State Average
+330,08059010303,921.11,803.72,1038.51,637.8,634.79,640.81,"Census Tract 103.03, Jefferson County, Colorado",JEFFERSON,Higher Than State Average
+331,08087000600,572.23,482.23,662.23,637.8,634.79,640.81,"Census Tract 6, Morgan County, Colorado",MORGAN,Not Different Than State Average
+332,08087000200,278.35,189.17,367.52,637.8,634.79,640.81,"Census Tract 2, Morgan County, Colorado",MORGAN,Lower Than State Average
+333,08087000100,467.53,348.67,586.39,637.8,634.79,640.81,"Census Tract 1, Morgan County, Colorado",MORGAN,Lower Than State Average
+334,08087000500,503.63,359.59,647.67,637.8,634.79,640.81,"Census Tract 5, Morgan County, Colorado",MORGAN,Not Different Than State Average
+335,08087000800,524.87,361.41,688.33,637.8,634.79,640.81,"Census Tract 8, Morgan County, Colorado",MORGAN,Not Different Than State Average
+336,08087000400,701.43,585.82,817.04,637.8,634.79,640.81,"Census Tract 4, Morgan County, Colorado",MORGAN,Not Different Than State Average
+337,08087000300,527.35,390.77,663.93,637.8,634.79,640.81,"Census Tract 3, Morgan County, Colorado",MORGAN,Not Different Than State Average
+338,08087000700,846.59,741.16,952.02,637.8,634.79,640.81,"Census Tract 7, Morgan County, Colorado",MORGAN,Higher Than State Average
+339,08059009830,506.84,372.29,641.38,637.8,634.79,640.81,"Census Tract 98.30, Jefferson County, Colorado",JEFFERSON,Not Different Than State Average
+340,08059009829,385.41,247.06,523.75,637.8,634.79,640.81,"Census Tract 98.29, Jefferson County, Colorado",JEFFERSON,Lower Than State Average
+341,08059010212,840.76,720.8,960.73,637.8,634.79,640.81,"Census Tract 102.12, Jefferson County, Colorado",JEFFERSON,Higher Than State Average
+342,08059009824,773.58,631.69,915.47,637.8,634.79,640.81,"Census Tract 98.24, Jefferson County, Colorado",JEFFERSON,Not Different Than State Average
+343,08059009823,699.1,559.03,839.17,637.8,634.79,640.81,"Census Tract 98.23, Jefferson County, Colorado",JEFFERSON,Not Different Than State Average
+344,08059010208,714.1,617.65,810.55,637.8,634.79,640.81,"Census Tract 102.08, Jefferson County, Colorado",JEFFERSON,Not Different Than State Average
+345,08059010213,788.91,676.5,901.31,637.8,634.79,640.81,"Census Tract 102.13, Jefferson County, Colorado",JEFFERSON,Higher Than State Average
+346,08059010304,796.91,635,958.82,637.8,634.79,640.81,"Census Tract 103.04, Jefferson County, Colorado",JEFFERSON,Not Different Than State Average
+347,08059009839,466.76,337.18,596.34,637.8,634.79,640.81,"Census Tract 98.39, Jefferson County, Colorado",JEFFERSON,Lower Than State Average
+348,08059060300,464.72,373.16,556.27,637.8,634.79,640.81,"Census Tract 603, Jefferson County, Colorado",JEFFERSON,Lower Than State Average
+349,08059060500,732.46,558.44,906.48,637.8,634.79,640.81,"Census Tract 605, Jefferson County, Colorado",JEFFERSON,Not Different Than State Average
+350,08059060400,651.61,518.48,784.75,637.8,634.79,640.81,"Census Tract 604, Jefferson County, Colorado",JEFFERSON,Not Different Than State Average
+351,08059009851,483.61,378.27,588.95,637.8,634.79,640.81,"Census Tract 98.51, Jefferson County, Colorado",JEFFERSON,Lower Than State Average
+352,08059009837,493.25,372.96,613.53,637.8,634.79,640.81,"Census Tract 98.37, Jefferson County, Colorado",JEFFERSON,Lower Than State Average
+353,08059009838,285.3,223.98,346.61,637.8,634.79,640.81,"Census Tract 98.38, Jefferson County, Colorado",JEFFERSON,Lower Than State Average
+354,08059009827,564.69,478.52,650.85,637.8,634.79,640.81,"Census Tract 98.27, Jefferson County, Colorado",JEFFERSON,Not Different Than State Average
+355,08059009815,491.22,397.36,585.09,637.8,634.79,640.81,"Census Tract 98.15, Jefferson County, Colorado",JEFFERSON,Lower Than State Average
+356,08059009808,546.79,460.97,632.6,637.8,634.79,640.81,"Census Tract 98.08, Jefferson County, Colorado",JEFFERSON,Lower Than State Average
+357,08059009840,508.7,411.74,605.66,637.8,634.79,640.81,"Census Tract 98.40, Jefferson County, Colorado",JEFFERSON,Lower Than State Average
+358,08059009836,434.82,332.16,537.48,637.8,634.79,640.81,"Census Tract 98.36, Jefferson County, Colorado",JEFFERSON,Lower Than State Average
+359,08115968300,547.86,411.43,684.29,637.8,634.79,640.81,"Census Tract 9683, Sedgwick County, Colorado",SEDGWICK,Not Different Than State Average
+360,08059010211,726.19,601.37,851.01,637.8,634.79,640.81,"Census Tract 102.11, Jefferson County, Colorado",JEFFERSON,Not Different Than State Average
+361,08059010307,995.46,860.36,1130.56,637.8,634.79,640.81,"Census Tract 103.07, Jefferson County, Colorado",JEFFERSON,Higher Than State Average
+362,08059010306,628.15,494.24,762.07,637.8,634.79,640.81,"Census Tract 103.06, Jefferson County, Colorado",JEFFERSON,Not Different Than State Average
+363,08059009841,506.68,370.35,643,637.8,634.79,640.81,"Census Tract 98.41, Jefferson County, Colorado",JEFFERSON,Not Different Than State Average
+364,08095967600,593.71,466.05,721.37,637.8,634.79,640.81,"Census Tract 9676, Phillips County, Colorado",PHILLIPS,Not Different Than State Average
+365,08095967700,574.74,380.79,768.7,637.8,634.79,640.81,"Census Tract 9677, Phillips County, Colorado",PHILLIPS,Not Different Than State Average
+366,08013013003,491.09,405.1,577.08,637.8,634.79,640.81,"Census Tract 130.03, Boulder County, Colorado",BOULDER,Lower Than State Average
+367,08013013401,692.85,564.24,821.46,637.8,634.79,640.81,"Census Tract 134.01, Boulder County, Colorado",BOULDER,Not Different Than State Average
+368,08013013503,835.58,723.71,947.45,637.8,634.79,640.81,"Census Tract 135.03, Boulder County, Colorado",BOULDER,Higher Than State Average
+369,08013013006,385.14,304.68,465.6,637.8,634.79,640.81,"Census Tract 130.06, Boulder County, Colorado",BOULDER,Lower Than State Average
+370,08013012203,478.21,348.45,607.97,637.8,634.79,640.81,"Census Tract 122.03, Boulder County, Colorado",BOULDER,Lower Than State Average
+371,08013013402,432.6,366.43,498.76,637.8,634.79,640.81,"Census Tract 134.02, Boulder County, Colorado",BOULDER,Lower Than State Average
+372,08013013210,670.98,567.31,774.65,637.8,634.79,640.81,"Census Tract 132.10, Boulder County, Colorado",BOULDER,Not Different Than State Average
+373,08013013302,562.81,467.82,657.8,637.8,634.79,640.81,"Census Tract 133.02, Boulder County, Colorado",BOULDER,Not Different Than State Average
+374,08013013307,1052.19,899.74,1204.64,637.8,634.79,640.81,"Census Tract 133.07, Boulder County, Colorado",BOULDER,Higher Than State Average
+375,08013013308,642.9,526.87,758.93,637.8,634.79,640.81,"Census Tract 133.08, Boulder County, Colorado",BOULDER,Not Different Than State Average
+376,08013012510,210.49,153.13,267.84,637.8,634.79,640.81,"Census Tract 125.10, Boulder County, Colorado",BOULDER,Lower Than State Average
+377,08013012907,538.32,433.15,643.5,637.8,634.79,640.81,"Census Tract 129.07, Boulder County, Colorado",BOULDER,Not Different Than State Average
+378,08013013305,600.17,489.12,711.21,637.8,634.79,640.81,"Census Tract 133.05, Boulder County, Colorado",BOULDER,Not Different Than State Average
+379,08013060900,483.03,381.19,584.87,637.8,634.79,640.81,"Census Tract 609, Boulder County, Colorado",BOULDER,Lower Than State Average
+380,08013012509,375.39,279.95,470.83,637.8,634.79,640.81,"Census Tract 125.09, Boulder County, Colorado",BOULDER,Lower Than State Average
+381,08013013208,543.96,462.68,625.25,637.8,634.79,640.81,"Census Tract 132.08, Boulder County, Colorado",BOULDER,Lower Than State Average
+382,08013012701,254.15,192.1,316.19,637.8,634.79,640.81,"Census Tract 127.01, Boulder County, Colorado",BOULDER,Lower Than State Average
+383,08013012507,498.92,369.9,627.94,637.8,634.79,640.81,"Census Tract 125.07, Boulder County, Colorado",BOULDER,Lower Than State Average
+384,08013012505,343.69,265.15,422.23,637.8,634.79,640.81,"Census Tract 125.05, Boulder County, Colorado",BOULDER,Lower Than State Average
+385,08013013201,523.13,320.36,725.9,637.8,634.79,640.81,"Census Tract 132.01, Boulder County, Colorado",BOULDER,Not Different Than State Average
+386,08013013211,720.92,558.6,883.23,637.8,634.79,640.81,"Census Tract 132.11, Boulder County, Colorado",BOULDER,Not Different Than State Average
+387,08013013207,646,533.43,758.58,637.8,634.79,640.81,"Census Tract 132.07, Boulder County, Colorado",BOULDER,Not Different Than State Average
+388,08013012101,317.35,233.09,401.62,637.8,634.79,640.81,"Census Tract 121.01, Boulder County, Colorado",BOULDER,Lower Than State Average
+389,08013013205,218.32,158.44,278.2,637.8,634.79,640.81,"Census Tract 132.05, Boulder County, Colorado",BOULDER,Lower Than State Average
+390,08013013306,747.8,638.09,857.52,637.8,634.79,640.81,"Census Tract 133.06, Boulder County, Colorado",BOULDER,Not Different Than State Average
+391,08013012201,263.66,163.8,363.53,637.8,634.79,640.81,"Census Tract 122.01, Boulder County, Colorado",BOULDER,Lower Than State Average
+392,08013012705,350.73,219.79,481.66,637.8,634.79,640.81,"Census Tract 127.05, Boulder County, Colorado",BOULDER,Lower Than State Average
+393,08013012708,375.25,294.55,455.96,637.8,634.79,640.81,"Census Tract 127.08, Boulder County, Colorado",BOULDER,Lower Than State Average
+394,08013013601,302.17,226.39,377.95,637.8,634.79,640.81,"Census Tract 136.01, Boulder County, Colorado",BOULDER,Lower Than State Average
+395,08013012710,284.75,202.28,367.23,637.8,634.79,640.81,"Census Tract 127.10, Boulder County, Colorado",BOULDER,Lower Than State Average
+396,08013013701,335.2,265.18,405.21,637.8,634.79,640.81,"Census Tract 137.01, Boulder County, Colorado",BOULDER,Lower Than State Average
+397,08013013702,229.29,168.97,289.6,637.8,634.79,640.81,"Census Tract 137.02, Boulder County, Colorado",BOULDER,Lower Than State Average
+398,08013013202,187.68,107.14,268.22,637.8,634.79,640.81,"Census Tract 132.02, Boulder County, Colorado",BOULDER,Lower Than State Average
+399,08013012204,526.39,321.29,731.5,637.8,634.79,640.81,"Census Tract 122.04, Boulder County, Colorado",BOULDER,Not Different Than State Average
+400,08013013602,366.9,148.05,585.76,637.8,634.79,640.81,"Census Tract 136.02, Boulder County, Colorado",BOULDER,Lower Than State Average
+401,08013012903,363.36,244.68,482.05,637.8,634.79,640.81,"Census Tract 129.03, Boulder County, Colorado",BOULDER,Lower Than State Average
+402,08013012501,321.04,217.6,424.49,637.8,634.79,640.81,"Census Tract 125.01, Boulder County, Colorado",BOULDER,Lower Than State Average
+403,08013012603,282.51,205.81,359.21,637.8,634.79,640.81,"Census Tract 126.03, Boulder County, Colorado",BOULDER,Lower Than State Average
+404,08013012511,340.97,241.7,440.23,637.8,634.79,640.81,"Census Tract 125.11, Boulder County, Colorado",BOULDER,Lower Than State Average
+405,08013012709,565.43,352,778.86,637.8,634.79,640.81,"Census Tract 127.09, Boulder County, Colorado",BOULDER,Not Different Than State Average
+406,08075966300,668.92,560.66,777.17,637.8,634.79,640.81,"Census Tract 9663, Logan County, Colorado",LOGAN,Not Different Than State Average
+407,08075966200,779.69,633.72,925.65,637.8,634.79,640.81,"Census Tract 9662, Logan County, Colorado",LOGAN,Not Different Than State Average
+408,08075966100,813.71,722.37,905.05,637.8,634.79,640.81,"Census Tract 9661, Logan County, Colorado",LOGAN,Higher Than State Average
+409,08075966000,529.7,387.57,671.83,637.8,634.79,640.81,"Census Tract 9660, Logan County, Colorado",LOGAN,Not Different Than State Average
+410,08075966400,519.5,376.33,662.67,637.8,634.79,640.81,"Census Tract 9664, Logan County, Colorado",LOGAN,Not Different Than State Average
+411,08075965900,279.39,158.71,400.07,637.8,634.79,640.81,"Census Tract 9659, Logan County, Colorado",LOGAN,Lower Than State Average
+412,08013060800,929.12,813.43,1044.8,637.8,634.79,640.81,"Census Tract 608, Boulder County, Colorado",BOULDER,Higher Than State Average
+413,08013013507,468.27,361.93,574.62,637.8,634.79,640.81,"Census Tract 135.07, Boulder County, Colorado",BOULDER,Lower Than State Average
+414,08013013505,847.59,720.28,974.9,637.8,634.79,640.81,"Census Tract 135.05, Boulder County, Colorado",BOULDER,Higher Than State Average
+415,08013013212,436.31,346.9,525.71,637.8,634.79,640.81,"Census Tract 132.12, Boulder County, Colorado",BOULDER,Lower Than State Average
+416,08013061300,357.44,207.58,507.29,637.8,634.79,640.81,"Census Tract 613, Boulder County, Colorado",BOULDER,Lower Than State Average
+417,08013061400,304.15,206.31,401.99,637.8,634.79,640.81,"Census Tract 614, Boulder County, Colorado",BOULDER,Lower Than State Average
+418,08013012607,353.87,234.51,473.22,637.8,634.79,640.81,"Census Tract 126.07, Boulder County, Colorado",BOULDER,Lower Than State Average
+419,08013013508,393.92,328.25,459.58,637.8,634.79,640.81,"Census Tract 135.08, Boulder County, Colorado",BOULDER,Lower Than State Average
+420,08013013506,490.12,391.8,588.43,637.8,634.79,640.81,"Census Tract 135.06, Boulder County, Colorado",BOULDER,Lower Than State Average
+421,08013013213,479.62,394,565.23,637.8,634.79,640.81,"Census Tract 132.13, Boulder County, Colorado",BOULDER,Lower Than State Average
+422,08013012608,347.48,223.8,471.16,637.8,634.79,640.81,"Census Tract 126.08, Boulder County, Colorado",BOULDER,Lower Than State Average
+423,08013060600,266.81,206.09,327.52,637.8,634.79,640.81,"Census Tract 606, Boulder County, Colorado",BOULDER,Lower Than State Average
+424,08013060700,382.11,262.35,501.87,637.8,634.79,640.81,"Census Tract 607, Boulder County, Colorado",BOULDER,Lower Than State Average
+425,08013013005,463.91,359.62,568.2,637.8,634.79,640.81,"Census Tract 130.05, Boulder County, Colorado",BOULDER,Lower Than State Average
+426,08013012508,536.07,384.9,687.25,637.8,634.79,640.81,"Census Tract 125.08, Boulder County, Colorado",BOULDER,Not Different Than State Average
+427,08013012605,1256.54,704.2,1808.88,637.8,634.79,640.81,"Census Tract 126.05, Boulder County, Colorado",BOULDER,Higher Than State Average
+428,08013013004,313.06,214.31,411.8,637.8,634.79,640.81,"Census Tract 130.04, Boulder County, Colorado",BOULDER,Lower Than State Average
+429,08013012401,593.43,319.67,867.2,637.8,634.79,640.81,"Census Tract 124.01, Boulder County, Colorado",BOULDER,Not Different Than State Average
+430,08013012300,53.06,14.4,91.71,637.8,634.79,640.81,"Census Tract 123, Boulder County, Colorado",BOULDER,Lower Than State Average
+431,08013012202,621.02,465.73,776.31,637.8,634.79,640.81,"Census Tract 122.02, Boulder County, Colorado",BOULDER,Not Different Than State Average
+432,08013012102,300.96,241.78,360.13,637.8,634.79,640.81,"Census Tract 121.02, Boulder County, Colorado",BOULDER,Lower Than State Average
+433,08013012105,494.91,377.86,611.95,637.8,634.79,640.81,"Census Tract 121.05, Boulder County, Colorado",BOULDER,Lower Than State Average
+434,08013012104,568.48,362.78,774.19,637.8,634.79,640.81,"Census Tract 121.04, Boulder County, Colorado",BOULDER,Not Different Than State Average
+435,08013012904,387.47,312.66,462.29,637.8,634.79,640.81,"Census Tract 129.04, Boulder County, Colorado",BOULDER,Lower Than State Average
+436,08013012707,315.36,201.16,429.55,637.8,634.79,640.81,"Census Tract 127.07, Boulder County, Colorado",BOULDER,Lower Than State Average
+437,08013012905,673.35,538.25,808.45,637.8,634.79,640.81,"Census Tract 129.05, Boulder County, Colorado",BOULDER,Not Different Than State Average
+438,08013012103,225.67,161.04,290.29,637.8,634.79,640.81,"Census Tract 121.03, Boulder County, Colorado",BOULDER,Lower Than State Average
+439,08013012800,408.52,352.54,464.51,637.8,634.79,640.81,"Census Tract 128, Boulder County, Colorado",BOULDER,Lower Than State Average
+440,08123001412,719.69,585.2,854.19,637.8,634.79,640.81,"Census Tract 14.12, Weld County, Colorado",WELD,Not Different Than State Average
+441,08123001407,801.8,593.09,1010.5,637.8,634.79,640.81,"Census Tract 14.07, Weld County, Colorado",WELD,Not Different Than State Average
+442,08123001408,551.77,408.68,694.86,637.8,634.79,640.81,"Census Tract 14.08, Weld County, Colorado",WELD,Not Different Than State Average
+443,08123001405,615.37,489.46,741.28,637.8,634.79,640.81,"Census Tract 14.05, Weld County, Colorado",WELD,Not Different Than State Average
+444,08123001406,850.2,737.45,962.94,637.8,634.79,640.81,"Census Tract 14.06, Weld County, Colorado",WELD,Higher Than State Average
+445,08123001414,648.17,489.07,807.27,637.8,634.79,640.81,"Census Tract 14.14, Weld County, Colorado",WELD,Not Different Than State Average
+446,08123001003,1382.59,1133.82,1631.35,637.8,634.79,640.81,"Census Tract 10.03, Weld County, Colorado",WELD,Higher Than State Average
+447,08123002207,660.04,504.27,815.81,637.8,634.79,640.81,"Census Tract 22.07, Weld County, Colorado",WELD,Not Different Than State Average
+448,08123002009,635.2,411.26,859.14,637.8,634.79,640.81,"Census Tract 20.09, Weld County, Colorado",WELD,Not Different Than State Average
+449,08123001908,1026.61,772.2,1281.02,637.8,634.79,640.81,"Census Tract 19.08, Weld County, Colorado",WELD,Higher Than State Average
+450,08123002010,389.1,269.48,508.73,637.8,634.79,640.81,"Census Tract 20.10, Weld County, Colorado",WELD,Lower Than State Average
+451,08123001906,788.38,508.72,1068.04,637.8,634.79,640.81,"Census Tract 19.06, Weld County, Colorado",WELD,Not Different Than State Average
+452,08123002103,569.96,495.33,644.59,637.8,634.79,640.81,"Census Tract 21.03, Weld County, Colorado",WELD,Not Different Than State Average
+453,08123001410,558.18,438.09,678.27,637.8,634.79,640.81,"Census Tract 14.10, Weld County, Colorado",WELD,Not Different Than State Average
+454,08123002208,820.37,581.14,1059.6,637.8,634.79,640.81,"Census Tract 22.08, Weld County, Colorado",WELD,Not Different Than State Average
+455,08123001417,1155.18,916.58,1393.77,637.8,634.79,640.81,"Census Tract 14.17, Weld County, Colorado",WELD,Higher Than State Average
+456,08123001416,610.29,467.76,752.82,637.8,634.79,640.81,"Census Tract 14.16, Weld County, Colorado",WELD,Not Different Than State Average
+457,08123001005,760.78,649.17,872.4,637.8,634.79,640.81,"Census Tract 10.05, Weld County, Colorado",WELD,Higher Than State Average
+458,08123001004,1396.75,1155.97,1637.53,637.8,634.79,640.81,"Census Tract 10.04, Weld County, Colorado",WELD,Higher Than State Average
+459,08123000705,868.83,634.83,1102.83,637.8,634.79,640.81,"Census Tract 7.05, Weld County, Colorado",WELD,Not Different Than State Average
+460,08123000800,1597.84,1235.77,1959.9,637.8,634.79,640.81,"Census Tract 8, Weld County, Colorado",WELD,Higher Than State Average
+461,08123000200,859.57,581.02,1138.12,637.8,634.79,640.81,"Census Tract 2, Weld County, Colorado",WELD,Not Different Than State Average
+462,08123000100,1409.79,1166.28,1653.3,637.8,634.79,640.81,"Census Tract 1, Weld County, Colorado",WELD,Higher Than State Average
+463,08123000300,0,0,0,637.8,634.79,640.81,"Census Tract 3, Weld County, Colorado",WELD,No Events or Data Suppressed
+464,08123000900,883.24,723.94,1042.55,637.8,634.79,640.81,"Census Tract 9, Weld County, Colorado",WELD,Higher Than State Average
+465,08123000402,835.81,696.17,975.45,637.8,634.79,640.81,"Census Tract 4.02, Weld County, Colorado",WELD,Higher Than State Average
+466,08123001202,1297.95,1080.55,1515.34,637.8,634.79,640.81,"Census Tract 12.02, Weld County, Colorado",WELD,Higher Than State Average
+467,08123001300,1174.58,1060.43,1288.73,637.8,634.79,640.81,"Census Tract 13, Weld County, Colorado",WELD,Higher Than State Average
+468,08123001201,1175.91,1006.36,1345.47,637.8,634.79,640.81,"Census Tract 12.01, Weld County, Colorado",WELD,Higher Than State Average
+469,08123000502,1323.69,1125,1522.37,637.8,634.79,640.81,"Census Tract 5.02, Weld County, Colorado",WELD,Higher Than State Average
+470,08123000401,617.67,484.01,751.33,637.8,634.79,640.81,"Census Tract 4.01, Weld County, Colorado",WELD,Not Different Than State Average
+471,08123001100,900.84,771.06,1030.62,637.8,634.79,640.81,"Census Tract 11, Weld County, Colorado",WELD,Higher Than State Average
+472,08123001800,503.74,408.68,598.79,637.8,634.79,640.81,"Census Tract 18, Weld County, Colorado",WELD,Lower Than State Average
+473,08123000600,876.6,555.41,1197.79,637.8,634.79,640.81,"Census Tract 6, Weld County, Colorado",WELD,Not Different Than State Average
+474,08123001700,484.38,397.97,570.79,637.8,634.79,640.81,"Census Tract 17, Weld County, Colorado",WELD,Lower Than State Average
+475,08123001404,825.33,687.17,963.49,637.8,634.79,640.81,"Census Tract 14.04, Weld County, Colorado",WELD,Higher Than State Average
+476,08123002502,367.33,297.74,436.92,637.8,634.79,640.81,"Census Tract 25.02, Weld County, Colorado",WELD,Lower Than State Average
+477,08123001902,718.73,627.51,809.96,637.8,634.79,640.81,"Census Tract 19.02, Weld County, Colorado",WELD,Not Different Than State Average
+478,08123001500,801.37,706.51,896.23,637.8,634.79,640.81,"Census Tract 15, Weld County, Colorado",WELD,Higher Than State Average
+479,08123002300,590.27,498.37,682.18,637.8,634.79,640.81,"Census Tract 23, Weld County, Colorado",WELD,Not Different Than State Average
+480,08123000701,1105.84,861.81,1349.86,637.8,634.79,640.81,"Census Tract 7.01, Weld County, Colorado",WELD,Higher Than State Average
+481,08123001600,436.11,350.95,521.28,637.8,634.79,640.81,"Census Tract 16, Weld County, Colorado",WELD,Lower Than State Average
+482,08123002501,508.52,418.2,598.83,637.8,634.79,640.81,"Census Tract 25.01, Weld County, Colorado",WELD,Lower Than State Average
+483,08123000501,948.91,780.46,1117.36,637.8,634.79,640.81,"Census Tract 5.01, Weld County, Colorado",WELD,Higher Than State Average
+484,08123002013,714.53,559.22,869.83,637.8,634.79,640.81,"Census Tract 20.13, Weld County, Colorado",WELD,Not Different Than State Average
+485,08123002012,574.78,260.79,888.78,637.8,634.79,640.81,"Census Tract 20.12, Weld County, Colorado",WELD,Not Different Than State Average
+486,08014980100,0,0,0,637.8,634.79,640.81,"Census Tract 9801, Broomfield County, Colorado",BROOMFIELD,No Events or Data Suppressed
+487,08121924200,638.96,503.62,774.31,637.8,634.79,640.81,"Census Tract 9242, Washington County, Colorado",WASHINGTON,Not Different Than State Average
+488,08123002006,1367.36,831.02,2034.32,637.8,634.79,640.81,"Census Tract 20.06, Weld County, Colorado",WELD,Higher Than State Average
+489,08123002102,632.43,563.84,701.02,637.8,634.79,640.81,"Census Tract 21.02, Weld County, Colorado",WELD,Not Different Than State Average
+490,08123002101,739.79,637.41,842.16,637.8,634.79,640.81,"Census Tract 21.01, Weld County, Colorado",WELD,Not Different Than State Average
+491,08123002210,256.17,139.01,408.75,637.8,634.79,640.81,"Census Tract 22.10, Weld County, Colorado",WELD,Lower Than State Average
+492,08123002209,537.91,365.24,710.58,637.8,634.79,640.81,"Census Tract 22.09, Weld County, Colorado",WELD,Not Different Than State Average
+493,08123002206,983.63,818.28,1148.99,637.8,634.79,640.81,"Census Tract 22.06, Weld County, Colorado",WELD,Higher Than State Average
+494,08123002205,776.28,664.36,888.2,637.8,634.79,640.81,"Census Tract 22.05, Weld County, Colorado",WELD,Higher Than State Average
+495,08014980300,0,0,0,637.8,634.79,640.81,"Census Tract 9803, Broomfield County, Colorado",BROOMFIELD,No Events or Data Suppressed
+496,08014030200,871.5,599.55,1143.44,637.8,634.79,640.81,"Census Tract 302, Broomfield County, Colorado",BROOMFIELD,Not Different Than State Average
+497,08014031100,523.89,388.11,659.66,637.8,634.79,640.81,"Census Tract 311, Broomfield County, Colorado",BROOMFIELD,Not Different Than State Average
+498,08014031300,376.13,252.99,499.27,637.8,634.79,640.81,"Census Tract 313, Broomfield County, Colorado",BROOMFIELD,Lower Than State Average
+499,08014031400,325.08,245.53,404.64,637.8,634.79,640.81,"Census Tract 314, Broomfield County, Colorado",BROOMFIELD,Lower Than State Average
+500,08014030600,872.11,714.4,1029.81,637.8,634.79,640.81,"Census Tract 306, Broomfield County, Colorado",BROOMFIELD,Higher Than State Average
+501,08014030900,382.9,314.08,451.73,637.8,634.79,640.81,"Census Tract 309, Broomfield County, Colorado",BROOMFIELD,Lower Than State Average
+502,08014030800,511.87,390.77,632.97,637.8,634.79,640.81,"Census Tract 308, Broomfield County, Colorado",BROOMFIELD,Lower Than State Average
+503,08014031000,351.09,277.19,424.99,637.8,634.79,640.81,"Census Tract 310, Broomfield County, Colorado",BROOMFIELD,Lower Than State Average
+504,08123002204,674.24,475.8,872.67,637.8,634.79,640.81,"Census Tract 22.04, Weld County, Colorado",WELD,Not Different Than State Average
+505,08123002203,665.4,456.59,874.21,637.8,634.79,640.81,"Census Tract 22.03, Weld County, Colorado",WELD,Not Different Than State Average
+506,08123002014,651.27,477.82,824.71,637.8,634.79,640.81,"Census Tract 20.14, Weld County, Colorado",WELD,Not Different Than State Average
+507,08123002017,1524.47,470.47,2578.47,637.8,634.79,640.81,"Census Tract 20.17, Weld County, Colorado",WELD,Not Different Than State Average
+508,08123002011,696.26,345.06,1047.46,637.8,634.79,640.81,"Census Tract 20.11, Weld County, Colorado",WELD,Not Different Than State Average
+509,08123002015,703.73,468.45,939.01,637.8,634.79,640.81,"Census Tract 20.15, Weld County, Colorado",WELD,Not Different Than State Average
+510,08123001907,594.92,468.65,721.18,637.8,634.79,640.81,"Census Tract 19.07, Weld County, Colorado",WELD,Not Different Than State Average
+511,08123001905,625.45,514.08,736.82,637.8,634.79,640.81,"Census Tract 19.05, Weld County, Colorado",WELD,Not Different Than State Average
+512,08123002021,554.87,312.95,796.8,637.8,634.79,640.81,"Census Tract 20.21, Weld County, Colorado",WELD,Not Different Than State Average
+513,08014030500,393.62,311.78,475.45,637.8,634.79,640.81,"Census Tract 305, Broomfield County, Colorado",BROOMFIELD,Lower Than State Average
+514,08014980200,0,0,0,637.8,634.79,640.81,"Census Tract 9802, Broomfield County, Colorado",BROOMFIELD,No Events or Data Suppressed
+515,08014030300,943.01,803.74,1082.27,637.8,634.79,640.81,"Census Tract 303, Broomfield County, Colorado",BROOMFIELD,Higher Than State Average
+516,08014030000,515.64,409.79,621.49,637.8,634.79,640.81,"Census Tract 300, Broomfield County, Colorado",BROOMFIELD,Lower Than State Average
+517,08014030100,695.27,543.4,847.13,637.8,634.79,640.81,"Census Tract 301, Broomfield County, Colorado",BROOMFIELD,Not Different Than State Average
+518,08014030400,582.66,463.6,701.71,637.8,634.79,640.81,"Census Tract 304, Broomfield County, Colorado",BROOMFIELD,Not Different Than State Average
+519,08014031200,664.52,539.91,789.13,637.8,634.79,640.81,"Census Tract 312, Broomfield County, Colorado",BROOMFIELD,Not Different Than State Average
+520,08014030700,729.1,574.32,883.87,637.8,634.79,640.81,"Census Tract 307, Broomfield County, Colorado",BROOMFIELD,Not Different Than State Average
+521,08123002020,419.29,317.44,521.13,637.8,634.79,640.81,"Census Tract 20.20, Weld County, Colorado",WELD,Lower Than State Average
+522,08123002016,416.78,315.19,518.37,637.8,634.79,640.81,"Census Tract 20.16, Weld County, Colorado",WELD,Lower Than State Average
+523,08123002018,1092.68,646.24,1539.12,637.8,634.79,640.81,"Census Tract 20.18, Weld County, Colorado",WELD,Higher Than State Average
+524,08123002019,656.4,541.56,771.25,637.8,634.79,640.81,"Census Tract 20.19, Weld County, Colorado",WELD,Not Different Than State Average
+525,08123002008,324.65,241.29,408,637.8,634.79,640.81,"Census Tract 20.08, Weld County, Colorado",WELD,Lower Than State Average
+526,08123002007,439.21,360.25,518.17,637.8,634.79,640.81,"Census Tract 20.07, Weld County, Colorado",WELD,Lower Than State Average
+527,08123002005,877.81,348.7,1406.92,637.8,634.79,640.81,"Census Tract 20.05, Weld County, Colorado",WELD,Not Different Than State Average
+528,08123002004,721.01,602.62,839.39,637.8,634.79,640.81,"Census Tract 20.04, Weld County, Colorado",WELD,Not Different Than State Average
+529,08123000704,1178.11,636.59,1719.64,637.8,634.79,640.81,"Census Tract 7.04, Weld County, Colorado",WELD,Not Different Than State Average
+530,08123000703,1061.04,915.66,1206.43,637.8,634.79,640.81,"Census Tract 7.03, Weld County, Colorado",WELD,Higher Than State Average
+531,08123001006,1021.8,882.81,1160.8,637.8,634.79,640.81,"Census Tract 10.06, Weld County, Colorado",WELD,Higher Than State Average
+532,08123001413,760.09,607.52,912.66,637.8,634.79,640.81,"Census Tract 14.13, Weld County, Colorado",WELD,Not Different Than State Average
+533,08123001415,694.54,559.21,829.88,637.8,634.79,640.81,"Census Tract 14.15, Weld County, Colorado",WELD,Not Different Than State Average
+534,08123001409,951.55,803.01,1100.09,637.8,634.79,640.81,"Census Tract 14.09, Weld County, Colorado",WELD,Higher Than State Average
+535,08123001411,769.15,596.29,942.02,637.8,634.79,640.81,"Census Tract 14.11, Weld County, Colorado",WELD,Not Different Than State Average
+536,08047013800,414.72,305.02,524.43,637.8,634.79,640.81,"Census Tract 138, Gilpin County, Colorado",GILPIN,Lower Than State Average
+537,08031980000,867,568.47,1165.52,637.8,634.79,640.81,"Census Tract 9800, Denver County, Colorado",DENVER,Not Different Than State Average
+538,08071000800,260.93,166.39,355.47,637.8,634.79,640.81,"Census Tract 8, Las Animas County, Colorado",LAS ANIMAS,Lower Than State Average
+539,08071000100,621.14,489.9,752.39,637.8,634.79,640.81,"Census Tract 1, Las Animas County, Colorado",LAS ANIMAS,Not Different Than State Average
+540,08071000200,670.71,498.04,843.37,637.8,634.79,640.81,"Census Tract 2, Las Animas County, Colorado",LAS ANIMAS,Not Different Than State Average
+541,08071000300,228.59,109.99,347.19,637.8,634.79,640.81,"Census Tract 3, Las Animas County, Colorado",LAS ANIMAS,Lower Than State Average
+542,08071000500,810.88,626.5,995.27,637.8,634.79,640.81,"Census Tract 5, Las Animas County, Colorado",LAS ANIMAS,Not Different Than State Average
+543,08071000400,689.51,518.85,860.18,637.8,634.79,640.81,"Census Tract 4, Las Animas County, Colorado",LAS ANIMAS,Not Different Than State Average
+544,08043979400,425.2,317.55,532.86,637.8,634.79,640.81,"Census Tract 9794, Fremont County, Colorado",FREMONT,Lower Than State Average
+545,08043980200,0,0,0,637.8,634.79,640.81,"Census Tract 9802, Fremont County, Colorado",FREMONT,No Events or Data Suppressed
+546,08043979100,719.53,572.87,866.18,637.8,634.79,640.81,"Census Tract 9791, Fremont County, Colorado",FREMONT,Not Different Than State Average
+547,08043978100,851.46,709.23,993.68,637.8,634.79,640.81,"Census Tract 9781, Fremont County, Colorado",FREMONT,Higher Than State Average
+548,08043978200,686.45,564.33,808.56,637.8,634.79,640.81,"Census Tract 9782, Fremont County, Colorado",FREMONT,Not Different Than State Average
+549,08043980300,0,0,0,637.8,634.79,640.81,"Census Tract 9803, Fremont County, Colorado",FREMONT,No Events or Data Suppressed
+550,08043979200,493.27,291.75,694.78,637.8,634.79,640.81,"Census Tract 9792, Fremont County, Colorado",FREMONT,Not Different Than State Average
+551,08043978800,827.01,635.84,1018.19,637.8,634.79,640.81,"Census Tract 9788, Fremont County, Colorado",FREMONT,Not Different Than State Average
+552,08043980100,0,0,0,637.8,634.79,640.81,"Census Tract 9801, Fremont County, Colorado",FREMONT,No Events or Data Suppressed
+553,08043978600,632.03,511.79,752.27,637.8,634.79,640.81,"Census Tract 9786, Fremont County, Colorado",FREMONT,Not Different Than State Average
+554,08043978300,979.26,843.69,1114.83,637.8,634.79,640.81,"Census Tract 9783, Fremont County, Colorado",FREMONT,Higher Than State Average
+555,08043978500,829.5,706.9,952.09,637.8,634.79,640.81,"Census Tract 9785, Fremont County, Colorado",FREMONT,Higher Than State Average
+556,08043978400,650.19,515.55,784.83,637.8,634.79,640.81,"Census Tract 9784, Fremont County, Colorado",FREMONT,Not Different Than State Average
+557,08001008709,1045.83,939.34,1152.32,637.8,634.79,640.81,"Census Tract 87.09, Adams County, Colorado",ADAMS,Higher Than State Average
+558,08001009751,711.97,587.32,836.62,637.8,634.79,640.81,"Census Tract 97.51, Adams County, Colorado",ADAMS,Not Different Than State Average
+559,08001009752,542.76,426.13,659.38,637.8,634.79,640.81,"Census Tract 97.52, Adams County, Colorado",ADAMS,Not Different Than State Average
+560,08001007801,1458.21,1218.99,1697.43,637.8,634.79,640.81,"Census Tract 78.01, Adams County, Colorado",ADAMS,Higher Than State Average
+561,08001008309,1264.85,1066.48,1463.23,637.8,634.79,640.81,"Census Tract 83.09, Adams County, Colorado",ADAMS,Higher Than State Average
+562,08001008308,1494.92,1334,1655.83,637.8,634.79,640.81,"Census Tract 83.08, Adams County, Colorado",ADAMS,Higher Than State Average
+563,08001008100,2535.84,1901.54,3170.14,637.8,634.79,640.81,"Census Tract 81, Adams County, Colorado",ADAMS,Higher Than State Average
+564,08001008000,1128.1,1003.06,1253.13,637.8,634.79,640.81,"Census Tract 80, Adams County, Colorado",ADAMS,Higher Than State Average
+565,08001008353,1025.2,905.98,1144.43,637.8,634.79,640.81,"Census Tract 83.53, Adams County, Colorado",ADAMS,Higher Than State Average
+566,08001007900,1672.6,1429.22,1915.98,637.8,634.79,640.81,"Census Tract 79, Adams County, Colorado",ADAMS,Higher Than State Average
+567,08027970100,583.74,426.48,741,637.8,634.79,640.81,"Census Tract 9701, Custer County, Colorado",CUSTER,Not Different Than State Average
+568,08025969600,416.06,338.09,494.03,637.8,634.79,640.81,"Census Tract 9696, Crowley County, Colorado",CROWLEY,Lower Than State Average
+569,08089968100,965.22,771.67,1158.77,637.8,634.79,640.81,"Census Tract 9681, Otero County, Colorado",OTERO,Higher Than State Average
+570,08089968200,837.2,667.56,1006.84,637.8,634.79,640.81,"Census Tract 9682, Otero County, Colorado",OTERO,Higher Than State Average
+571,08089968400,624.11,405.51,842.71,637.8,634.79,640.81,"Census Tract 9684, Otero County, Colorado",OTERO,Not Different Than State Average
+572,08089968300,846.39,711.28,981.51,637.8,634.79,640.81,"Census Tract 9683, Otero County, Colorado",OTERO,Higher Than State Average
+573,08089968600,1230.67,1087.63,1373.72,637.8,634.79,640.81,"Census Tract 9686, Otero County, Colorado",OTERO,Higher Than State Average
+574,08089968000,637.21,460.85,813.56,637.8,634.79,640.81,"Census Tract 9680, Otero County, Colorado",OTERO,Not Different Than State Average
+575,08089968500,516.63,370.5,662.76,637.8,634.79,640.81,"Census Tract 9685, Otero County, Colorado",OTERO,Not Different Than State Average
+576,08011966700,781.48,674.59,888.36,637.8,634.79,640.81,"Census Tract 9667, Bent County, Colorado",BENT,Higher Than State Average
+577,08017960600,173.01,88.43,257.6,637.8,634.79,640.81,"Census Tract 9606, Cheyenne County, Colorado",CHEYENNE,Lower Than State Average
+578,08039961209,636.81,461.5,812.12,637.8,634.79,640.81,"Census Tract 9612.09, Elbert County, Colorado",ELBERT,Not Different Than State Average
+579,08039961208,342.87,246.08,439.66,637.8,634.79,640.81,"Census Tract 9612.08, Elbert County, Colorado",ELBERT,Lower Than State Average
+580,08039961207,923.96,762.86,1085.06,637.8,634.79,640.81,"Census Tract 9612.07, Elbert County, Colorado",ELBERT,Higher Than State Average
+581,08039961206,510.81,390,631.61,637.8,634.79,640.81,"Census Tract 9612.06, Elbert County, Colorado",ELBERT,Lower Than State Average
+582,08039961205,531.84,375.24,688.44,637.8,634.79,640.81,"Census Tract 9612.05, Elbert County, Colorado",ELBERT,Not Different Than State Average
+583,08039961204,619.37,509.53,729.22,637.8,634.79,640.81,"Census Tract 9612.04, Elbert County, Colorado",ELBERT,Not Different Than State Average
+584,08039961100,833.84,629.57,1038.11,637.8,634.79,640.81,"Census Tract 9611, Elbert County, Colorado",ELBERT,Not Different Than State Average
+585,08001007802,1367.93,1181.42,1554.44,637.8,634.79,640.81,"Census Tract 78.02, Adams County, Colorado",ADAMS,Higher Than State Average
+586,08023972700,218.54,108.66,328.43,637.8,634.79,640.81,"Census Tract 9727, Costilla County, Colorado",COSTILLA,Lower Than State Average
+587,08023972600,179.69,85.97,273.4,637.8,634.79,640.81,"Census Tract 9726, Costilla County, Colorado",COSTILLA,Lower Than State Average
+588,08001008200,1022.6,901.23,1143.98,637.8,634.79,640.81,"Census Tract 82, Adams County, Colorado",ADAMS,Higher Than State Average
+589,08059010406,827.8,591.87,1063.73,637.8,634.79,640.81,"Census Tract 104.06, Jefferson County, Colorado",JEFFERSON,Not Different Than State Average
+590,08059011100,1050.95,933.12,1168.78,637.8,634.79,640.81,"Census Tract 111, Jefferson County, Colorado",JEFFERSON,Higher Than State Average
+591,08059011723,636.03,514.44,757.61,637.8,634.79,640.81,"Census Tract 117.23, Jefferson County, Colorado",JEFFERSON,Not Different Than State Average
+592,08059012057,827.98,709.87,946.08,637.8,634.79,640.81,"Census Tract 120.57, Jefferson County, Colorado",JEFFERSON,Higher Than State Average
+593,08099000700,312.19,204.84,419.53,637.8,634.79,640.81,"Census Tract 7, Prowers County, Colorado",PROWERS,Lower Than State Average
+594,08059012050,604.38,491.8,716.97,637.8,634.79,640.81,"Census Tract 120.50, Jefferson County, Colorado",JEFFERSON,Not Different Than State Average
+595,08059011724,667.28,534.71,799.86,637.8,634.79,640.81,"Census Tract 117.24, Jefferson County, Colorado",JEFFERSON,Not Different Than State Average
+596,08059009807,607.93,448.18,767.68,637.8,634.79,640.81,"Census Tract 98.07, Jefferson County, Colorado",JEFFERSON,Not Different Than State Average
+597,08059009806,428.33,332.68,523.97,637.8,634.79,640.81,"Census Tract 98.06, Jefferson County, Colorado",JEFFERSON,Lower Than State Average
+598,08059010402,1088.85,964.22,1213.49,637.8,634.79,640.81,"Census Tract 104.02, Jefferson County, Colorado",JEFFERSON,Higher Than State Average
+599,08059011729,740.94,608.03,873.85,637.8,634.79,640.81,"Census Tract 117.29, Jefferson County, Colorado",JEFFERSON,Not Different Than State Average
+600,08059010000,706.78,546.25,867.31,637.8,634.79,640.81,"Census Tract 100, Jefferson County, Colorado",JEFFERSON,Not Different Than State Average
+601,08059012041,769.27,667.27,871.26,637.8,634.79,640.81,"Census Tract 120.41, Jefferson County, Colorado",JEFFERSON,Higher Than State Average
+602,08073961700,327.42,240.5,414.34,637.8,634.79,640.81,"Census Tract 9617, Lincoln County, Colorado",LINCOLN,Lower Than State Average
+603,08073961800,566.2,374.91,757.49,637.8,634.79,640.81,"Census Tract 9618, Lincoln County, Colorado",LINCOLN,Not Different Than State Average
+604,08059980400,130.25,57.42,232.43,637.8,634.79,640.81,"Census Tract 9804, Jefferson County, Colorado",JEFFERSON,Lower Than State Average
+605,08059015800,591.75,480.09,703.42,637.8,634.79,640.81,"Census Tract 158, Jefferson County, Colorado",JEFFERSON,Not Different Than State Average
+606,08059011401,1109.28,915.24,1303.32,637.8,634.79,640.81,"Census Tract 114.01, Jefferson County, Colorado",JEFFERSON,Higher Than State Average
+607,08059012059,860.12,653.3,1066.93,637.8,634.79,640.81,"Census Tract 120.59, Jefferson County, Colorado",JEFFERSON,Higher Than State Average
+608,08059009849,575.22,479.73,670.71,637.8,634.79,640.81,"Census Tract 98.49, Jefferson County, Colorado",JEFFERSON,Not Different Than State Average
+609,08059012060,574.2,442.64,705.76,637.8,634.79,640.81,"Census Tract 120.60, Jefferson County, Colorado",JEFFERSON,Not Different Than State Average
+610,08059011805,752.27,595.44,909.11,637.8,634.79,640.81,"Census Tract 118.05, Jefferson County, Colorado",JEFFERSON,Not Different Than State Average
+611,08059011806,828.64,709.24,948.05,637.8,634.79,640.81,"Census Tract 118.06, Jefferson County, Colorado",JEFFERSON,Higher Than State Average
+612,08059011733,805.46,563.5,1047.41,637.8,634.79,640.81,"Census Tract 117.33, Jefferson County, Colorado",JEFFERSON,Not Different Than State Average
+613,08099000200,464.44,340.09,588.8,637.8,634.79,640.81,"Census Tract 2, Prowers County, Colorado",PROWERS,Lower Than State Average
+614,08099000100,208.53,98.53,318.52,637.8,634.79,640.81,"Census Tract 1, Prowers County, Colorado",PROWERS,Lower Than State Average
+615,08099000300,674.35,559.14,789.55,637.8,634.79,640.81,"Census Tract 3, Prowers County, Colorado",PROWERS,Not Different Than State Average
+616,08099000600,201.32,102.14,300.51,637.8,634.79,640.81,"Census Tract 6, Prowers County, Colorado",PROWERS,Lower Than State Average
+617,08059011732,306.6,234.95,378.25,637.8,634.79,640.81,"Census Tract 117.32, Jefferson County, Colorado",JEFFERSON,Lower Than State Average
+618,08059011402,962.84,827.47,1098.2,637.8,634.79,640.81,"Census Tract 114.02, Jefferson County, Colorado",JEFFERSON,Higher Than State Average
+619,08059015900,837.29,698.08,976.5,637.8,634.79,640.81,"Census Tract 159, Jefferson County, Colorado",JEFFERSON,Higher Than State Average
+620,08059009850,514.02,373.68,654.37,637.8,634.79,640.81,"Census Tract 98.50, Jefferson County, Colorado",JEFFERSON,Not Different Than State Average
+621,08059009852,627.1,491.32,762.87,637.8,634.79,640.81,"Census Tract 98.52, Jefferson County, Colorado",JEFFERSON,Not Different Than State Average
+622,08059012047,688.76,570.23,807.3,637.8,634.79,640.81,"Census Tract 120.47, Jefferson County, Colorado",JEFFERSON,Not Different Than State Average
+623,08059011712,465.01,373.78,556.25,637.8,634.79,640.81,"Census Tract 117.12, Jefferson County, Colorado",JEFFERSON,Lower Than State Average
+624,08059010901,825.99,699.2,952.79,637.8,634.79,640.81,"Census Tract 109.01, Jefferson County, Colorado",JEFFERSON,Higher Than State Average
+625,08059012032,612.25,393.06,831.45,637.8,634.79,640.81,"Census Tract 120.32, Jefferson County, Colorado",JEFFERSON,Not Different Than State Average
+626,08059012033,508.99,374.14,643.85,637.8,634.79,640.81,"Census Tract 120.33, Jefferson County, Colorado",JEFFERSON,Not Different Than State Average
+627,08059009843,523.22,449.94,596.51,637.8,634.79,640.81,"Census Tract 98.43, Jefferson County, Colorado",JEFFERSON,Lower Than State Average
+628,08059012027,230.07,155.39,304.75,637.8,634.79,640.81,"Census Tract 120.27, Jefferson County, Colorado",JEFFERSON,Lower Than State Average
+629,08059010405,709.68,561.86,857.49,637.8,634.79,640.81,"Census Tract 104.05, Jefferson County, Colorado",JEFFERSON,Not Different Than State Average
+630,08059012026,238.13,154.81,321.46,637.8,634.79,640.81,"Census Tract 120.26, Jefferson County, Colorado",JEFFERSON,Lower Than State Average
+631,08059012035,499.43,362.98,635.89,637.8,634.79,640.81,"Census Tract 120.35, Jefferson County, Colorado",JEFFERSON,Not Different Than State Average
+632,08059012037,408.86,303.79,513.93,637.8,634.79,640.81,"Census Tract 120.37, Jefferson County, Colorado",JEFFERSON,Lower Than State Average
+633,08059012031,372.15,284.69,459.61,637.8,634.79,640.81,"Census Tract 120.31, Jefferson County, Colorado",JEFFERSON,Lower Than State Average
+634,08059012030,735.1,535.6,934.6,637.8,634.79,640.81,"Census Tract 120.30, Jefferson County, Colorado",JEFFERSON,Not Different Than State Average
+635,08059009900,725.73,456.94,994.51,637.8,634.79,640.81,"Census Tract 99, Jefferson County, Colorado",JEFFERSON,Not Different Than State Average
+636,08059009846,272.96,197.09,348.84,637.8,634.79,640.81,"Census Tract 98.46, Jefferson County, Colorado",JEFFERSON,Lower Than State Average
+637,08059009847,330.88,210.72,451.03,637.8,634.79,640.81,"Census Tract 98.47, Jefferson County, Colorado",JEFFERSON,Lower Than State Average
+638,08059012023,656.32,528.08,784.57,637.8,634.79,640.81,"Census Tract 120.23, Jefferson County, Colorado",JEFFERSON,Not Different Than State Average
+639,08059012048,467.71,346.04,589.38,637.8,634.79,640.81,"Census Tract 120.48, Jefferson County, Colorado",JEFFERSON,Lower Than State Average
+640,08059009848,414.38,269.6,559.16,637.8,634.79,640.81,"Census Tract 98.48, Jefferson County, Colorado",JEFFERSON,Lower Than State Average
+641,08059009845,407.65,305.59,509.7,637.8,634.79,640.81,"Census Tract 98.45, Jefferson County, Colorado",JEFFERSON,Lower Than State Average
+642,08059009842,376.37,289.63,463.11,637.8,634.79,640.81,"Census Tract 98.42, Jefferson County, Colorado",JEFFERSON,Lower Than State Average
+643,08059012042,642.39,506.4,778.37,637.8,634.79,640.81,"Census Tract 120.42, Jefferson County, Colorado",JEFFERSON,Not Different Than State Average
+644,08059012058,488.52,365.99,611.06,637.8,634.79,640.81,"Census Tract 120.58, Jefferson County, Colorado",JEFFERSON,Lower Than State Average
+645,08059011720,519.94,424.39,615.5,637.8,634.79,640.81,"Census Tract 117.20, Jefferson County, Colorado",JEFFERSON,Lower Than State Average
+646,08059012054,658.09,526.36,789.82,637.8,634.79,640.81,"Census Tract 120.54, Jefferson County, Colorado",JEFFERSON,Not Different Than State Average
+647,08059011803,724.14,620.24,828.05,637.8,634.79,640.81,"Census Tract 118.03, Jefferson County, Colorado",JEFFERSON,Not Different Than State Average
+648,08059011602,1261.05,1104.33,1417.76,637.8,634.79,640.81,"Census Tract 116.02, Jefferson County, Colorado",JEFFERSON,Higher Than State Average
+649,08059010603,643.99,523.48,764.5,637.8,634.79,640.81,"Census Tract 106.03, Jefferson County, Colorado",JEFFERSON,Not Different Than State Average
+650,08059012039,599.84,500.79,698.9,637.8,634.79,640.81,"Census Tract 120.39, Jefferson County, Colorado",JEFFERSON,Not Different Than State Average
+651,08059010100,980.41,783.45,1177.37,637.8,634.79,640.81,"Census Tract 101, Jefferson County, Colorado",JEFFERSON,Higher Than State Average
+652,08059012036,419.63,314.13,525.13,637.8,634.79,640.81,"Census Tract 120.36, Jefferson County, Colorado",JEFFERSON,Lower Than State Average
+653,08059012051,588.87,473.09,704.66,637.8,634.79,640.81,"Census Tract 120.51, Jefferson County, Colorado",JEFFERSON,Not Different Than State Average
+654,08059012055,616.92,501.11,732.74,637.8,634.79,640.81,"Census Tract 120.55, Jefferson County, Colorado",JEFFERSON,Not Different Than State Average
+655,08059012052,1054.97,805.93,1304.01,637.8,634.79,640.81,"Census Tract 120.52, Jefferson County, Colorado",JEFFERSON,Higher Than State Average
+656,08059012046,880.73,668.7,1092.76,637.8,634.79,640.81,"Census Tract 120.46, Jefferson County, Colorado",JEFFERSON,Higher Than State Average
+657,08059012024,493.36,402.07,584.65,637.8,634.79,640.81,"Census Tract 120.24, Jefferson County, Colorado",JEFFERSON,Lower Than State Average
+658,08059012022,570.93,472.88,668.97,637.8,634.79,640.81,"Census Tract 120.22, Jefferson County, Colorado",JEFFERSON,Not Different Than State Average
+659,08059012045,582.9,461.41,704.38,637.8,634.79,640.81,"Census Tract 120.45, Jefferson County, Colorado",JEFFERSON,Not Different Than State Average
+660,08059011904,1064.57,842.63,1286.5,637.8,634.79,640.81,"Census Tract 119.04, Jefferson County, Colorado",JEFFERSON,Higher Than State Average
+661,08059011728,534.82,410.31,659.34,637.8,634.79,640.81,"Census Tract 117.28, Jefferson County, Colorado",JEFFERSON,Not Different Than State Average
+662,08059011702,747.37,642.37,852.37,637.8,634.79,640.81,"Census Tract 117.02, Jefferson County, Colorado",JEFFERSON,Higher Than State Average
+663,08059011701,594.48,497.49,691.48,637.8,634.79,640.81,"Census Tract 117.01, Jefferson County, Colorado",JEFFERSON,Not Different Than State Average
+664,08059012049,518.25,415.79,620.71,637.8,634.79,640.81,"Census Tract 120.49, Jefferson County, Colorado",JEFFERSON,Lower Than State Average
+665,08059011730,750.63,609.02,892.23,637.8,634.79,640.81,"Census Tract 117.30, Jefferson County, Colorado",JEFFERSON,Not Different Than State Average
+666,08059011727,562.53,444.61,680.44,637.8,634.79,640.81,"Census Tract 117.27, Jefferson County, Colorado",JEFFERSON,Not Different Than State Average
+667,08059012053,708.28,593.39,823.16,637.8,634.79,640.81,"Census Tract 120.53, Jefferson County, Colorado",JEFFERSON,Not Different Than State Average
+668,08059011202,516.07,422.46,609.68,637.8,634.79,640.81,"Census Tract 112.02, Jefferson County, Colorado",JEFFERSON,Lower Than State Average
+669,08059011804,568.1,461.54,674.65,637.8,634.79,640.81,"Census Tract 118.04, Jefferson County, Colorado",JEFFERSON,Not Different Than State Average
+670,08059011708,685.72,565.96,805.48,637.8,634.79,640.81,"Census Tract 117.08, Jefferson County, Colorado",JEFFERSON,Not Different Than State Average
+671,08059980000,0,0,0,637.8,634.79,640.81,"Census Tract 9800, Jefferson County, Colorado",JEFFERSON,No Events or Data Suppressed
+672,08059011711,794.89,674.07,915.71,637.8,634.79,640.81,"Census Tract 117.11, Jefferson County, Colorado",JEFFERSON,Higher Than State Average
+673,08059011951,673.47,545.01,801.94,637.8,634.79,640.81,"Census Tract 119.51, Jefferson County, Colorado",JEFFERSON,Not Different Than State Average
+674,08059012038,649.82,512.56,787.08,637.8,634.79,640.81,"Census Tract 120.38, Jefferson County, Colorado",JEFFERSON,Not Different Than State Average
+675,08059011725,636.01,467.79,804.23,637.8,634.79,640.81,"Census Tract 117.25, Jefferson County, Colorado",JEFFERSON,Not Different Than State Average
+676,08059011721,521.14,399.3,642.97,637.8,634.79,640.81,"Census Tract 117.21, Jefferson County, Colorado",JEFFERSON,Not Different Than State Average
+677,08059012034,479.6,343.51,615.68,637.8,634.79,640.81,"Census Tract 120.34, Jefferson County, Colorado",JEFFERSON,Lower Than State Average
+678,08059011710,559.91,449.6,670.21,637.8,634.79,640.81,"Census Tract 117.10, Jefferson County, Colorado",JEFFERSON,Not Different Than State Average
+679,08059011709,791.64,646.63,936.64,637.8,634.79,640.81,"Census Tract 117.09, Jefferson County, Colorado",JEFFERSON,Higher Than State Average
+680,08059011726,372.99,304.92,441.06,637.8,634.79,640.81,"Census Tract 117.26, Jefferson County, Colorado",JEFFERSON,Lower Than State Average
+681,08059011601,797.49,663.2,931.78,637.8,634.79,640.81,"Census Tract 116.01, Jefferson County, Colorado",JEFFERSON,Higher Than State Average
+682,08059011731,477.68,381.49,573.87,637.8,634.79,640.81,"Census Tract 117.31, Jefferson County, Colorado",JEFFERSON,Lower Than State Average
+683,08059011550,1009.67,884.09,1135.25,637.8,634.79,640.81,"Census Tract 115.50, Jefferson County, Colorado",JEFFERSON,Higher Than State Average
+684,08059011300,791.39,634.15,948.64,637.8,634.79,640.81,"Census Tract 113, Jefferson County, Colorado",JEFFERSON,Not Different Than State Average
+685,08059010702,879.59,738.1,1021.09,637.8,634.79,640.81,"Census Tract 107.02, Jefferson County, Colorado",JEFFERSON,Higher Than State Average
+686,08059010701,778.34,658.1,898.57,637.8,634.79,640.81,"Census Tract 107.01, Jefferson County, Colorado",JEFFERSON,Higher Than State Average
+687,08059012043,656.56,555.58,757.54,637.8,634.79,640.81,"Census Tract 120.43, Jefferson County, Colorado",JEFFERSON,Not Different Than State Average
+688,08059010502,781.79,669.83,893.74,637.8,634.79,640.81,"Census Tract 105.02, Jefferson County, Colorado",JEFFERSON,Higher Than State Average
+689,08059010604,796.97,629.21,964.72,637.8,634.79,640.81,"Census Tract 106.04, Jefferson County, Colorado",JEFFERSON,Not Different Than State Average
+690,08059011000,770.22,669.47,870.97,637.8,634.79,640.81,"Census Tract 110, Jefferson County, Colorado",JEFFERSON,Higher Than State Average
+691,08059010902,1409.88,1180.74,1639.02,637.8,634.79,640.81,"Census Tract 109.02, Jefferson County, Colorado",JEFFERSON,Higher Than State Average
+692,08059010801,768.7,614.23,923.16,637.8,634.79,640.81,"Census Tract 108.01, Jefferson County, Colorado",JEFFERSON,Not Different Than State Average
+693,08059010504,485.12,363.79,606.45,637.8,634.79,640.81,"Census Tract 105.04, Jefferson County, Colorado",JEFFERSON,Lower Than State Average
+694,08059010503,605.59,502.8,708.38,637.8,634.79,640.81,"Census Tract 105.03, Jefferson County, Colorado",JEFFERSON,Not Different Than State Average
+695,08059010403,799.89,679.02,920.76,637.8,634.79,640.81,"Census Tract 104.03, Jefferson County, Colorado",JEFFERSON,Higher Than State Average
+696,08059012044,433.77,343.48,524.06,637.8,634.79,640.81,"Census Tract 120.44, Jefferson County, Colorado",JEFFERSON,Lower Than State Average
+697,08059010308,558.95,471.98,645.93,637.8,634.79,640.81,"Census Tract 103.08, Jefferson County, Colorado",JEFFERSON,Not Different Than State Average
+698,08035014112,521.5,409.76,633.23,637.8,634.79,640.81,"Census Tract 141.12, Douglas County, Colorado",DOUGLAS,Lower Than State Average
+699,08035014110,517.94,426.94,608.93,637.8,634.79,640.81,"Census Tract 141.10, Douglas County, Colorado",DOUGLAS,Lower Than State Average
+700,08035014109,427.78,319.7,535.85,637.8,634.79,640.81,"Census Tract 141.09, Douglas County, Colorado",DOUGLAS,Lower Than State Average
+701,08035014108,483.7,380.54,586.86,637.8,634.79,640.81,"Census Tract 141.08, Douglas County, Colorado",DOUGLAS,Lower Than State Average
+702,08035014202,705.93,501.04,910.83,637.8,634.79,640.81,"Census Tract 142.02, Douglas County, Colorado",DOUGLAS,Not Different Than State Average
+703,08035014116,377.34,287.91,466.77,637.8,634.79,640.81,"Census Tract 141.16, Douglas County, Colorado",DOUGLAS,Lower Than State Average
+704,08035014300,545.88,199.09,892.67,637.8,634.79,640.81,"Census Tract 143, Douglas County, Colorado",DOUGLAS,Not Different Than State Average
+705,08035014107,614.61,489.42,739.79,637.8,634.79,640.81,"Census Tract 141.07, Douglas County, Colorado",DOUGLAS,Not Different Than State Average
+706,08035014122,433.71,357.04,510.38,637.8,634.79,640.81,"Census Tract 141.22, Douglas County, Colorado",DOUGLAS,Lower Than State Average
+707,08035014602,448.68,324.15,573.2,637.8,634.79,640.81,"Census Tract 146.02, Douglas County, Colorado",DOUGLAS,Lower Than State Average
+708,08035013901,571.47,481.47,661.47,637.8,634.79,640.81,"Census Tract 139.01, Douglas County, Colorado",DOUGLAS,Not Different Than State Average
+709,08035014503,567.99,475.31,660.67,637.8,634.79,640.81,"Census Tract 145.03, Douglas County, Colorado",DOUGLAS,Not Different Than State Average
+710,08035013909,558.63,433.6,683.66,637.8,634.79,640.81,"Census Tract 139.09, Douglas County, Colorado",DOUGLAS,Not Different Than State Average
+711,08101003600,1352.16,1135.45,1568.86,637.8,634.79,640.81,"Census Tract 36, Pueblo County, Colorado",PUEBLO,Higher Than State Average
+712,08101003500,2742.64,1577.85,3907.44,637.8,634.79,640.81,"Census Tract 35, Pueblo County, Colorado",PUEBLO,Higher Than State Average
+713,08101002916,1102.56,925.78,1279.34,637.8,634.79,640.81,"Census Tract 29.16, Pueblo County, Colorado",PUEBLO,Higher Than State Average
+714,08101002914,572.03,455.95,688.12,637.8,634.79,640.81,"Census Tract 29.14, Pueblo County, Colorado",PUEBLO,Not Different Than State Average
+715,08063962200,470.24,301.5,638.98,637.8,634.79,640.81,"Census Tract 9622, Kit Carson County, Colorado",KIT CARSON,Not Different Than State Average
+716,08063962300,401.23,206.73,595.72,637.8,634.79,640.81,"Census Tract 9623, Kit Carson County, Colorado",KIT CARSON,Lower Than State Average
+717,08063962100,415.55,337.6,493.49,637.8,634.79,640.81,"Census Tract 9621, Kit Carson County, Colorado",KIT CARSON,Lower Than State Average
+718,08101002912,978.04,756.28,1199.8,637.8,634.79,640.81,"Census Tract 29.12, Pueblo County, Colorado",PUEBLO,Higher Than State Average
+719,08101980100,0,0,0,637.8,634.79,640.81,"Census Tract 9801, Pueblo County, Colorado",PUEBLO,No Events or Data Suppressed
+720,08101002917,577.77,444.61,710.94,637.8,634.79,640.81,"Census Tract 29.17, Pueblo County, Colorado",PUEBLO,Not Different Than State Average
+721,08101003106,848.79,586.99,1110.59,637.8,634.79,640.81,"Census Tract 31.06, Pueblo County, Colorado",PUEBLO,Not Different Than State Average
+722,08101003105,688.38,560.54,816.22,637.8,634.79,640.81,"Census Tract 31.05, Pueblo County, Colorado",PUEBLO,Not Different Than State Average
+723,08101002915,750.45,585.66,915.25,637.8,634.79,640.81,"Census Tract 29.15, Pueblo County, Colorado",PUEBLO,Not Different Than State Average
+724,08101002918,682.61,587.76,777.46,637.8,634.79,640.81,"Census Tract 29.18, Pueblo County, Colorado",PUEBLO,Not Different Than State Average
+725,08101002913,657.3,531.12,783.48,637.8,634.79,640.81,"Census Tract 29.13, Pueblo County, Colorado",PUEBLO,Not Different Than State Average
+726,08101002911,664.05,514.16,813.95,637.8,634.79,640.81,"Census Tract 29.11, Pueblo County, Colorado",PUEBLO,Not Different Than State Average
+727,08101000903,,,,637.8,634.79,640.81,"Census Tract 9.03, Pueblo County, Colorado",PUEBLO,No Events or Data Suppressed
+728,08101002600,1380.55,1199.62,1561.49,637.8,634.79,640.81,"Census Tract 26, Pueblo County, Colorado",PUEBLO,Higher Than State Average
+729,08101002801,855.93,734.78,977.08,637.8,634.79,640.81,"Census Tract 28.01, Pueblo County, Colorado",PUEBLO,Higher Than State Average
+730,08101002000,1119.14,955.96,1282.32,637.8,634.79,640.81,"Census Tract 20, Pueblo County, Colorado",PUEBLO,Higher Than State Average
+731,08101001800,985.72,799.33,1172.12,637.8,634.79,640.81,"Census Tract 18, Pueblo County, Colorado",PUEBLO,Higher Than State Average
+732,08101001900,1456.16,1152.12,1760.19,637.8,634.79,640.81,"Census Tract 19, Pueblo County, Colorado",PUEBLO,Higher Than State Average
+733,08101002400,1103.65,862.32,1344.97,637.8,634.79,640.81,"Census Tract 24, Pueblo County, Colorado",PUEBLO,Higher Than State Average
+734,08101001400,1641.48,1324.69,1958.26,637.8,634.79,640.81,"Census Tract 14, Pueblo County, Colorado",PUEBLO,Higher Than State Average
+735,08101001700,554.07,459.78,648.37,637.8,634.79,640.81,"Census Tract 17, Pueblo County, Colorado",PUEBLO,Not Different Than State Average
+736,08101000905,1159.9,903.7,1416.1,637.8,634.79,640.81,"Census Tract 9.05, Pueblo County, Colorado",PUEBLO,Higher Than State Average
+737,08101003104,570.44,430.61,710.26,637.8,634.79,640.81,"Census Tract 31.04, Pueblo County, Colorado",PUEBLO,Not Different Than State Average
+738,08101002300,1530.52,1327.11,1733.92,637.8,634.79,640.81,"Census Tract 23, Pueblo County, Colorado",PUEBLO,Higher Than State Average
+739,08101002200,1874.64,1536.64,2212.65,637.8,634.79,640.81,"Census Tract 22, Pueblo County, Colorado",PUEBLO,Higher Than State Average
+740,08101002100,1394.81,1104.82,1684.79,637.8,634.79,640.81,"Census Tract 21, Pueblo County, Colorado",PUEBLO,Higher Than State Average
+741,08101002802,1004.34,850.6,1158.08,637.8,634.79,640.81,"Census Tract 28.02, Pueblo County, Colorado",PUEBLO,Higher Than State Average
+742,08101000200,1180.04,961.63,1398.45,637.8,634.79,640.81,"Census Tract 2, Pueblo County, Colorado",PUEBLO,Higher Than State Average
+743,08101002906,573.11,461.76,684.45,637.8,634.79,640.81,"Census Tract 29.06, Pueblo County, Colorado",PUEBLO,Not Different Than State Average
+744,08101002700,1079.69,951.71,1207.67,637.8,634.79,640.81,"Census Tract 27, Pueblo County, Colorado",PUEBLO,Higher Than State Average
+745,08101001600,674.56,493.46,855.65,637.8,634.79,640.81,"Census Tract 16, Pueblo County, Colorado",PUEBLO,Not Different Than State Average
+746,08101002903,790.77,699.07,882.47,637.8,634.79,640.81,"Census Tract 29.03, Pueblo County, Colorado",PUEBLO,Higher Than State Average
+747,08101000500,1165.22,928.39,1402.05,637.8,634.79,640.81,"Census Tract 5, Pueblo County, Colorado",PUEBLO,Higher Than State Average
+748,08101000800,1440.65,1224.52,1656.77,637.8,634.79,640.81,"Census Tract 8, Pueblo County, Colorado",PUEBLO,Higher Than State Average
+749,08101002901,1484.59,1275.52,1693.66,637.8,634.79,640.81,"Census Tract 29.01, Pueblo County, Colorado",PUEBLO,Higher Than State Average
+750,08101002500,1184.17,1009.65,1358.68,637.8,634.79,640.81,"Census Tract 25, Pueblo County, Colorado",PUEBLO,Higher Than State Average
+751,08101003103,1114.11,883.23,1344.98,637.8,634.79,640.81,"Census Tract 31.03, Pueblo County, Colorado",PUEBLO,Higher Than State Average
+752,08101003001,696.3,478.23,914.38,637.8,634.79,640.81,"Census Tract 30.01, Pueblo County, Colorado",PUEBLO,Not Different Than State Average
+753,08101001000,1171.65,1033.54,1309.76,637.8,634.79,640.81,"Census Tract 10, Pueblo County, Colorado",PUEBLO,Higher Than State Average
+754,08101000904,1417.78,1143.17,1692.4,637.8,634.79,640.81,"Census Tract 9.04, Pueblo County, Colorado",PUEBLO,Higher Than State Average
+755,08101003004,471.82,366.58,577.06,637.8,634.79,640.81,"Census Tract 30.04, Pueblo County, Colorado",PUEBLO,Lower Than State Average
+756,08101001100,1592.27,1327.76,1856.77,637.8,634.79,640.81,"Census Tract 11, Pueblo County, Colorado",PUEBLO,Higher Than State Average
+757,08101000902,966.19,848.07,1084.3,637.8,634.79,640.81,"Census Tract 9.02, Pueblo County, Colorado",PUEBLO,Higher Than State Average
+758,08101003200,647.19,525.08,769.3,637.8,634.79,640.81,"Census Tract 32, Pueblo County, Colorado",PUEBLO,Not Different Than State Average
+759,08101000400,766.07,622.89,909.24,637.8,634.79,640.81,"Census Tract 4, Pueblo County, Colorado",PUEBLO,Not Different Than State Average
+760,08101002806,649.83,539.24,760.43,637.8,634.79,640.81,"Census Tract 28.06, Pueblo County, Colorado",PUEBLO,Not Different Than State Average
+761,08101000300,249.46,146.17,352.75,637.8,634.79,640.81,"Census Tract 3, Pueblo County, Colorado",PUEBLO,Lower Than State Average
+762,08101002804,409.77,317.61,501.94,637.8,634.79,640.81,"Census Tract 28.04, Pueblo County, Colorado",PUEBLO,Lower Than State Average
+763,08101001200,1360.71,1133.18,1588.24,637.8,634.79,640.81,"Census Tract 12, Pueblo County, Colorado",PUEBLO,Higher Than State Average
+764,08101000600,1453.48,1212.33,1694.63,637.8,634.79,640.81,"Census Tract 6, Pueblo County, Colorado",PUEBLO,Higher Than State Average
+765,08101002807,1021.06,881.8,1160.32,637.8,634.79,640.81,"Census Tract 28.07, Pueblo County, Colorado",PUEBLO,Higher Than State Average
+766,08101002808,473.07,365.68,580.45,637.8,634.79,640.81,"Census Tract 28.08, Pueblo County, Colorado",PUEBLO,Lower Than State Average
+767,08101001500,912.42,693.81,1131.02,637.8,634.79,640.81,"Census Tract 15, Pueblo County, Colorado",PUEBLO,Higher Than State Average
+768,08101000100,1049.75,865.21,1234.29,637.8,634.79,640.81,"Census Tract 1, Pueblo County, Colorado",PUEBLO,Higher Than State Average
+769,08035014006,617.49,484.48,750.5,637.8,634.79,640.81,"Census Tract 140.06, Douglas County, Colorado",DOUGLAS,Not Different Than State Average
+770,08035013910,448.87,369.5,528.24,637.8,634.79,640.81,"Census Tract 139.10, Douglas County, Colorado",DOUGLAS,Lower Than State Average
+771,08035014140,410.81,318.76,502.86,637.8,634.79,640.81,"Census Tract 141.40, Douglas County, Colorado",DOUGLAS,Lower Than State Average
+772,08035014132,353.07,271.51,434.62,637.8,634.79,640.81,"Census Tract 141.32, Douglas County, Colorado",DOUGLAS,Lower Than State Average
+773,08035014130,467.8,384.02,551.57,637.8,634.79,640.81,"Census Tract 141.30, Douglas County, Colorado",DOUGLAS,Lower Than State Average
+774,08035014124,591.88,478.81,704.96,637.8,634.79,640.81,"Census Tract 141.24, Douglas County, Colorado",DOUGLAS,Not Different Than State Average
+775,08035014405,602.79,510.61,694.97,637.8,634.79,640.81,"Census Tract 144.05, Douglas County, Colorado",DOUGLAS,Not Different Than State Average
+776,08035014505,553.49,456.46,650.53,637.8,634.79,640.81,"Census Tract 145.05, Douglas County, Colorado",DOUGLAS,Not Different Than State Average
+777,08035014603,571.49,479.29,663.68,637.8,634.79,640.81,"Census Tract 146.03, Douglas County, Colorado",DOUGLAS,Not Different Than State Average
+778,08035014403,507.17,421.17,593.17,637.8,634.79,640.81,"Census Tract 144.03, Douglas County, Colorado",DOUGLAS,Lower Than State Average
+779,08035014404,428.56,298.21,558.9,637.8,634.79,640.81,"Census Tract 144.04, Douglas County, Colorado",DOUGLAS,Lower Than State Average
+780,08035014128,524.81,420.79,628.83,637.8,634.79,640.81,"Census Tract 141.28, Douglas County, Colorado",DOUGLAS,Lower Than State Average
+781,08035014129,406.88,289.87,523.89,637.8,634.79,640.81,"Census Tract 141.29, Douglas County, Colorado",DOUGLAS,Lower Than State Average
+782,08035014134,562.36,452.52,672.2,637.8,634.79,640.81,"Census Tract 141.34, Douglas County, Colorado",DOUGLAS,Not Different Than State Average
+783,08035014136,515.22,422.49,607.95,637.8,634.79,640.81,"Census Tract 141.36, Douglas County, Colorado",DOUGLAS,Lower Than State Average
+784,08035014138,400.57,301.61,499.52,637.8,634.79,640.81,"Census Tract 141.38, Douglas County, Colorado",DOUGLAS,Lower Than State Average
+785,08035014139,531.55,431.24,631.87,637.8,634.79,640.81,"Census Tract 141.39, Douglas County, Colorado",DOUGLAS,Lower Than State Average
+786,08035014126,454.21,306.98,601.45,637.8,634.79,640.81,"Census Tract 141.26, Douglas County, Colorado",DOUGLAS,Lower Than State Average
+787,08035014203,567.75,473.75,661.75,637.8,634.79,640.81,"Census Tract 142.03, Douglas County, Colorado",DOUGLAS,Not Different Than State Average
+788,08035014406,556.02,488.83,623.22,637.8,634.79,640.81,"Census Tract 144.06, Douglas County, Colorado",DOUGLAS,Lower Than State Average
+789,08035014133,601.26,449.09,753.43,637.8,634.79,640.81,"Census Tract 141.33, Douglas County, Colorado",DOUGLAS,Not Different Than State Average
+790,08035014204,1274.09,884.16,1664.02,637.8,634.79,640.81,"Census Tract 142.04, Douglas County, Colorado",DOUGLAS,Higher Than State Average
+791,08035014135,335.54,221.74,449.34,637.8,634.79,640.81,"Census Tract 141.35, Douglas County, Colorado",DOUGLAS,Lower Than State Average
+792,08035014131,582.91,482.63,683.19,637.8,634.79,640.81,"Census Tract 141.31, Douglas County, Colorado",DOUGLAS,Not Different Than State Average
+793,08035014137,541.4,424.18,658.61,637.8,634.79,640.81,"Census Tract 141.37, Douglas County, Colorado",DOUGLAS,Not Different Than State Average
+794,08035014127,442.41,361.64,523.19,637.8,634.79,640.81,"Census Tract 141.27, Douglas County, Colorado",DOUGLAS,Lower Than State Average
+795,08035014125,498.64,387.93,609.34,637.8,634.79,640.81,"Census Tract 141.25, Douglas County, Colorado",DOUGLAS,Lower Than State Average
+796,08035014005,368.92,280.79,457.04,637.8,634.79,640.81,"Census Tract 140.05, Douglas County, Colorado",DOUGLAS,Lower Than State Average
+797,08035014007,841.03,654.67,1027.39,637.8,634.79,640.81,"Census Tract 140.07, Douglas County, Colorado",DOUGLAS,Higher Than State Average
+798,08035014011,504.12,385.5,622.74,637.8,634.79,640.81,"Census Tract 140.11, Douglas County, Colorado",DOUGLAS,Lower Than State Average
+799,08035014506,486.77,356.03,617.52,637.8,634.79,640.81,"Census Tract 145.06, Douglas County, Colorado",DOUGLAS,Lower Than State Average
+800,08035014604,633.31,502.31,764.3,637.8,634.79,640.81,"Census Tract 146.04, Douglas County, Colorado",DOUGLAS,Not Different Than State Average
+801,08035014013,497.16,401.94,592.38,637.8,634.79,640.81,"Census Tract 140.13, Douglas County, Colorado",DOUGLAS,Lower Than State Average
+802,08035014012,445.07,360.32,529.82,637.8,634.79,640.81,"Census Tract 140.12, Douglas County, Colorado",DOUGLAS,Lower Than State Average
+803,08035014008,500.19,414.66,585.72,637.8,634.79,640.81,"Census Tract 140.08, Douglas County, Colorado",DOUGLAS,Lower Than State Average
+804,08035014009,559.78,424.84,694.72,637.8,634.79,640.81,"Census Tract 140.09, Douglas County, Colorado",DOUGLAS,Not Different Than State Average
+805,08035014010,583.24,482.54,683.94,637.8,634.79,640.81,"Census Tract 140.10, Douglas County, Colorado",DOUGLAS,Not Different Than State Average
+806,08035013911,430.75,340.63,520.86,637.8,634.79,640.81,"Census Tract 139.11, Douglas County, Colorado",DOUGLAS,Lower Than State Average
+807,08035014123,709.66,564.04,855.29,637.8,634.79,640.81,"Census Tract 141.23, Douglas County, Colorado",DOUGLAS,Not Different Than State Average
+808,08035014504,842.05,725.84,958.25,637.8,634.79,640.81,"Census Tract 145.04, Douglas County, Colorado",DOUGLAS,Higher Than State Average
+809,08035013908,495.15,412.68,577.62,637.8,634.79,640.81,"Census Tract 139.08, Douglas County, Colorado",DOUGLAS,Lower Than State Average
+810,08035013907,634.48,524.12,744.84,637.8,634.79,640.81,"Census Tract 139.07, Douglas County, Colorado",DOUGLAS,Not Different Than State Average
+811,08035013905,1256.13,988.73,1523.54,637.8,634.79,640.81,"Census Tract 139.05, Douglas County, Colorado",DOUGLAS,Higher Than State Average
+812,08035013904,812.9,656.52,969.27,637.8,634.79,640.81,"Census Tract 139.04, Douglas County, Colorado",DOUGLAS,Higher Than State Average
+813,08035014001,634.99,513.65,756.33,637.8,634.79,640.81,"Census Tract 140.01, Douglas County, Colorado",DOUGLAS,Not Different Than State Average
+814,08035014115,387.38,292.76,482.01,637.8,634.79,640.81,"Census Tract 141.15, Douglas County, Colorado",DOUGLAS,Lower Than State Average
+815,08035014114,919.57,740.64,1098.5,637.8,634.79,640.81,"Census Tract 141.14, Douglas County, Colorado",DOUGLAS,Higher Than State Average
+816,08035014113,394.11,285.52,502.7,637.8,634.79,640.81,"Census Tract 141.13, Douglas County, Colorado",DOUGLAS,Lower Than State Average
+817,08009964600,289.35,160.52,418.18,637.8,634.79,640.81,"Census Tract 9646, Baca County, Colorado",BACA,Lower Than State Average
+818,08009964700,532.52,382.64,682.4,637.8,634.79,640.81,"Census Tract 9647, Baca County, Colorado",BACA,Not Different Than State Average
+819,08019014700,539,426.06,651.95,637.8,634.79,640.81,"Census Tract 147, Clear Creek County, Colorado",CLEAR CREEK,Not Different Than State Average
+820,08019014800,185.83,92.17,279.5,637.8,634.79,640.81,"Census Tract 148, Clear Creek County, Colorado",CLEAR CREEK,Lower Than State Average
+821,08119010202,,,,637.8,634.79,640.81,"Census Tract 102.02, Teller County, Colorado",TELLER,No Events or Data Suppressed
+822,08119010201,411.9,272.27,551.54,637.8,634.79,640.81,"Census Tract 102.01, Teller County, Colorado",TELLER,Lower Than State Average
+823,08119010105,393.77,316.96,470.59,637.8,634.79,640.81,"Census Tract 101.05, Teller County, Colorado",TELLER,Lower Than State Average
+824,08119010104,587.03,419.32,754.74,637.8,634.79,640.81,"Census Tract 101.04, Teller County, Colorado",TELLER,Not Different Than State Average
+825,08119010103,435.62,364.63,506.61,637.8,634.79,640.81,"Census Tract 101.03, Teller County, Colorado",TELLER,Lower Than State Average
+826,08119010106,310.79,233.94,387.65,637.8,634.79,640.81,"Census Tract 101.06, Teller County, Colorado",TELLER,Lower Than State Average
+827,08061960100,338.67,199.29,478.06,637.8,634.79,640.81,"Census Tract 9601, Kiowa County, Colorado",KIOWA,Lower Than State Average
+828,08031006804,535.11,392.02,678.2,637.8,634.79,640.81,"Census Tract 68.04, Denver County, Colorado",DENVER,Not Different Than State Average
+829,08031006701,578.54,369.85,787.23,637.8,634.79,640.81,"Census Tract 67.01, Denver County, Colorado",DENVER,Not Different Than State Average
+830,08031006809,670.14,583.27,757.02,637.8,634.79,640.81,"Census Tract 68.09, Denver County, Colorado",DENVER,Not Different Than State Average
+831,08031006812,536.25,421.65,650.84,637.8,634.79,640.81,"Census Tract 68.12, Denver County, Colorado",DENVER,Not Different Than State Average
+832,08031004004,552.53,399.62,705.44,637.8,634.79,640.81,"Census Tract 40.04, Denver County, Colorado",DENVER,Not Different Than State Average
+833,08031004003,770.17,613.36,926.97,637.8,634.79,640.81,"Census Tract 40.03, Denver County, Colorado",DENVER,Not Different Than State Average
+834,08031006901,914.6,803.46,1025.74,637.8,634.79,640.81,"Census Tract 69.01, Denver County, Colorado",DENVER,Higher Than State Average
+835,08031002901,451.7,335.87,567.54,637.8,634.79,640.81,"Census Tract 29.01, Denver County, Colorado",DENVER,Lower Than State Average
+836,08031002802,520.94,402.43,639.45,637.8,634.79,640.81,"Census Tract 28.02, Denver County, Colorado",DENVER,Not Different Than State Average
+837,08031002801,370.23,215.69,524.76,637.8,634.79,640.81,"Census Tract 28.01, Denver County, Colorado",DENVER,Lower Than State Average
+838,08031002803,447.67,350.88,544.46,637.8,634.79,640.81,"Census Tract 28.03, Denver County, Colorado",DENVER,Lower Than State Average
+839,08031005503,911.93,785.92,1037.94,637.8,634.79,640.81,"Census Tract 55.03, Denver County, Colorado",DENVER,Higher Than State Average
+840,08031005502,982.61,771.61,1193.61,637.8,634.79,640.81,"Census Tract 55.02, Denver County, Colorado",DENVER,Higher Than State Average
+841,08031007013,513.59,401.48,625.71,637.8,634.79,640.81,"Census Tract 70.13, Denver County, Colorado",DENVER,Lower Than State Average
+842,08031005002,938.49,835.57,1041.41,637.8,634.79,640.81,"Census Tract 50.02, Denver County, Colorado",DENVER,Higher Than State Average
+843,08031005001,629.3,490.66,767.95,637.8,634.79,640.81,"Census Tract 50.01, Denver County, Colorado",DENVER,Not Different Than State Average
+844,08031005102,618.76,499.91,737.61,637.8,634.79,640.81,"Census Tract 51.02, Denver County, Colorado",DENVER,Not Different Than State Average
+845,08031005300,877.97,627.87,1128.07,637.8,634.79,640.81,"Census Tract 53, Denver County, Colorado",DENVER,Not Different Than State Average
+846,08031004801,756.28,626.63,885.92,637.8,634.79,640.81,"Census Tract 48.01, Denver County, Colorado",DENVER,Not Different Than State Average
+847,08031001402,914.97,764.49,1065.44,637.8,634.79,640.81,"Census Tract 14.02, Denver County, Colorado",DENVER,Higher Than State Average
+848,08031001401,839.4,736.19,942.61,637.8,634.79,640.81,"Census Tract 14.01, Denver County, Colorado",DENVER,Higher Than State Average
+849,08031001302,664.51,546.77,782.25,637.8,634.79,640.81,"Census Tract 13.02, Denver County, Colorado",DENVER,Not Different Than State Average
+850,08031001301,826.17,701.44,950.9,637.8,634.79,640.81,"Census Tract 13.01, Denver County, Colorado",DENVER,Higher Than State Average
+851,08031005104,758.49,631.56,885.42,637.8,634.79,640.81,"Census Tract 51.04, Denver County, Colorado",DENVER,Not Different Than State Average
+852,08031004303,467.69,360.85,574.52,637.8,634.79,640.81,"Census Tract 43.03, Denver County, Colorado",DENVER,Lower Than State Average
+853,08031004002,432.9,334.57,531.23,637.8,634.79,640.81,"Census Tract 40.02, Denver County, Colorado",DENVER,Lower Than State Average
+854,08031004005,565.8,429.46,702.15,637.8,634.79,640.81,"Census Tract 40.05, Denver County, Colorado",DENVER,Not Different Than State Average
+855,08031003902,334.73,260.75,408.71,637.8,634.79,640.81,"Census Tract 39.02, Denver County, Colorado",DENVER,Lower Than State Average
+856,08031003004,540.6,433.21,647.99,637.8,634.79,640.81,"Census Tract 30.04, Denver County, Colorado",DENVER,Not Different Than State Average
+857,08031004603,768.47,664.27,872.68,637.8,634.79,640.81,"Census Tract 46.03, Denver County, Colorado",DENVER,Higher Than State Average
+858,08031004601,664.66,568.65,760.66,637.8,634.79,640.81,"Census Tract 46.01, Denver County, Colorado",DENVER,Not Different Than State Average
+859,08031000903,784.81,682.87,886.74,637.8,634.79,640.81,"Census Tract 9.03, Denver County, Colorado",DENVER,Higher Than State Average
+860,08031006810,764.27,657.64,870.89,637.8,634.79,640.81,"Census Tract 68.10, Denver County, Colorado",DENVER,Higher Than State Average
+861,08031012001,1123.87,871.85,1375.89,637.8,634.79,640.81,"Census Tract 120.01, Denver County, Colorado",DENVER,Higher Than State Average
+862,08031012010,448.93,367.5,530.37,637.8,634.79,640.81,"Census Tract 120.10, Denver County, Colorado",DENVER,Lower Than State Average
+863,08031012014,622.08,534.57,709.59,637.8,634.79,640.81,"Census Tract 120.14, Denver County, Colorado",DENVER,Not Different Than State Average
+864,08031004700,728.83,634.86,822.81,637.8,634.79,640.81,"Census Tract 47, Denver County, Colorado",DENVER,Not Different Than State Average
+865,08031001000,2260.36,2046.23,2474.49,637.8,634.79,640.81,"Census Tract 10, Denver County, Colorado",DENVER,Higher Than State Average
+866,08031011903,644.96,500.02,789.9,637.8,634.79,640.81,"Census Tract 119.03, Denver County, Colorado",DENVER,Not Different Than State Average
+867,08031004404,1030.99,888.09,1173.88,637.8,634.79,640.81,"Census Tract 44.04, Denver County, Colorado",DENVER,Higher Than State Average
+868,08031004403,1228.73,1051.43,1406.03,637.8,634.79,640.81,"Census Tract 44.03, Denver County, Colorado",DENVER,Higher Than State Average
+869,08031004304,655.32,562.98,747.67,637.8,634.79,640.81,"Census Tract 43.04, Denver County, Colorado",DENVER,Not Different Than State Average
+870,08031004302,473.64,329.24,618.03,637.8,634.79,640.81,"Census Tract 43.02, Denver County, Colorado",DENVER,Lower Than State Average
+871,08031004202,560.75,446.3,675.2,637.8,634.79,640.81,"Census Tract 42.02, Denver County, Colorado",DENVER,Not Different Than State Average
+872,08031004104,1145.77,980.15,1311.38,637.8,634.79,640.81,"Census Tract 41.04, Denver County, Colorado",DENVER,Higher Than State Average
+873,08031004301,1350.07,1098.32,1601.81,637.8,634.79,640.81,"Census Tract 43.01, Denver County, Colorado",DENVER,Higher Than State Average
+874,08031004201,626.19,496.28,756.1,637.8,634.79,640.81,"Census Tract 42.01, Denver County, Colorado",DENVER,Not Different Than State Average
+875,08031003703,713.94,516.63,911.24,637.8,634.79,640.81,"Census Tract 37.03, Denver County, Colorado",DENVER,Not Different Than State Average
+876,08031003300,555.76,442.57,668.95,637.8,634.79,640.81,"Census Tract 33, Denver County, Colorado",DENVER,Not Different Than State Average
+877,08031004103,908.22,767.3,1049.15,637.8,634.79,640.81,"Census Tract 41.03, Denver County, Colorado",DENVER,Higher Than State Average
+878,08031003003,380.53,249,512.06,637.8,634.79,640.81,"Census Tract 30.03, Denver County, Colorado",DENVER,Lower Than State Average
+879,08031004102,1305.68,1163.3,1448.06,637.8,634.79,640.81,"Census Tract 41.02, Denver County, Colorado",DENVER,Higher Than State Average
+880,08031004101,1725.5,1536.44,1914.55,637.8,634.79,640.81,"Census Tract 41.01, Denver County, Colorado",DENVER,Higher Than State Average
+881,08031003702,658.61,494.96,822.27,637.8,634.79,640.81,"Census Tract 37.02, Denver County, Colorado",DENVER,Not Different Than State Average
+882,08031003203,466.07,299.02,633.12,637.8,634.79,640.81,"Census Tract 32.03, Denver County, Colorado",DENVER,Lower Than State Average
+883,08031003202,658.26,487.35,829.17,637.8,634.79,640.81,"Census Tract 32.02, Denver County, Colorado",DENVER,Not Different Than State Average
+884,08031003901,328.29,247.64,408.94,637.8,634.79,640.81,"Census Tract 39.01, Denver County, Colorado",DENVER,Lower Than State Average
+885,08031003800,446.36,368.14,524.59,637.8,634.79,640.81,"Census Tract 38, Denver County, Colorado",DENVER,Lower Than State Average
+886,08031003402,410.54,314.58,506.49,637.8,634.79,640.81,"Census Tract 34.02, Denver County, Colorado",DENVER,Lower Than State Average
+887,08031003401,261.96,167.12,356.81,637.8,634.79,640.81,"Census Tract 34.01, Denver County, Colorado",DENVER,Lower Than State Average
+888,08031002902,291.91,196.45,387.36,637.8,634.79,640.81,"Census Tract 29.02, Denver County, Colorado",DENVER,Lower Than State Average
+889,08031003701,620.75,465.23,776.27,637.8,634.79,640.81,"Census Tract 37.01, Denver County, Colorado",DENVER,Not Different Than State Average
+890,08031003201,718.85,561.88,875.81,637.8,634.79,640.81,"Census Tract 32.01, Denver County, Colorado",DENVER,Not Different Than State Average
+891,08031002703,547.33,409.48,685.17,637.8,634.79,640.81,"Census Tract 27.03, Denver County, Colorado",DENVER,Not Different Than State Average
+892,08031003102,1986.92,1712.54,2261.29,637.8,634.79,640.81,"Census Tract 31.02, Denver County, Colorado",DENVER,Higher Than State Average
+893,08031003101,1049.78,774.03,1325.54,637.8,634.79,640.81,"Census Tract 31.01, Denver County, Colorado",DENVER,Higher Than State Average
+894,08031002402,907.88,685.74,1130.01,637.8,634.79,640.81,"Census Tract 24.02, Denver County, Colorado",DENVER,Higher Than State Average
+895,08031002602,1691.77,784.24,2599.31,637.8,634.79,640.81,"Census Tract 26.02, Denver County, Colorado",DENVER,Higher Than State Average
+896,08031003603,1304.19,1048.81,1559.58,637.8,634.79,640.81,"Census Tract 36.03, Denver County, Colorado",DENVER,Higher Than State Average
+897,08031003002,870.1,655.67,1084.52,637.8,634.79,640.81,"Census Tract 30.02, Denver County, Colorado",DENVER,Higher Than State Average
+898,08031003500,1113.12,991.91,1234.34,637.8,634.79,640.81,"Census Tract 35, Denver County, Colorado",DENVER,Higher Than State Average
+899,08031003602,1234.39,1076.91,1391.87,637.8,634.79,640.81,"Census Tract 36.02, Denver County, Colorado",DENVER,Higher Than State Average
+900,08031002300,830.06,701.9,958.22,637.8,634.79,640.81,"Census Tract 23, Denver County, Colorado",DENVER,Higher Than State Average
+901,08031003601,834.27,697.27,971.27,637.8,634.79,640.81,"Census Tract 36.01, Denver County, Colorado",DENVER,Higher Than State Average
+902,08031002702,494.43,344.48,644.38,637.8,634.79,640.81,"Census Tract 27.02, Denver County, Colorado",DENVER,Not Different Than State Average
+903,08031002701,838.69,575.65,1101.74,637.8,634.79,640.81,"Census Tract 27.01, Denver County, Colorado",DENVER,Not Different Than State Average
+904,08031002601,1438.67,1103.97,1773.36,637.8,634.79,640.81,"Census Tract 26.01, Denver County, Colorado",DENVER,Higher Than State Average
+905,08031002403,2082.83,1809.49,2356.17,637.8,634.79,640.81,"Census Tract 24.03, Denver County, Colorado",DENVER,Higher Than State Average
+906,08031002000,468.15,327.51,608.79,637.8,634.79,640.81,"Census Tract 20, Denver County, Colorado",DENVER,Lower Than State Average
+907,08031001800,735.92,573.2,898.63,637.8,634.79,640.81,"Census Tract 18, Denver County, Colorado",DENVER,Not Different Than State Average
+908,08031001701,531.54,427.24,635.85,637.8,634.79,640.81,"Census Tract 17.01, Denver County, Colorado",DENVER,Not Different Than State Average
+909,08031001600,1532.55,1365.47,1699.63,637.8,634.79,640.81,"Census Tract 16, Denver County, Colorado",DENVER,Higher Than State Average
+910,08031008306,1105.34,981.29,1229.39,637.8,634.79,640.81,"Census Tract 83.06, Denver County, Colorado",DENVER,Higher Than State Average
+911,08031001500,1238.47,1058.82,1418.12,637.8,634.79,640.81,"Census Tract 15, Denver County, Colorado",DENVER,Higher Than State Average
+912,08031001101,1010.61,823.43,1197.8,637.8,634.79,640.81,"Census Tract 11.01, Denver County, Colorado",DENVER,Higher Than State Average
+913,08031000402,815.43,661.11,969.75,637.8,634.79,640.81,"Census Tract 4.02, Denver County, Colorado",DENVER,Higher Than State Average
+914,08031000401,897.8,728.93,1066.66,637.8,634.79,640.81,"Census Tract 4.01, Denver County, Colorado",DENVER,Higher Than State Average
+915,08031000800,2248.99,1767.88,2730.09,637.8,634.79,640.81,"Census Tract 8, Denver County, Colorado",DENVER,Higher Than State Average
+916,08031000701,1095.98,950.93,1241.02,637.8,634.79,640.81,"Census Tract 7.01, Denver County, Colorado",DENVER,Higher Than State Average
+917,08031000502,841.55,730.64,952.46,637.8,634.79,640.81,"Census Tract 5.02, Denver County, Colorado",DENVER,Higher Than State Average
+918,08031000303,538.52,407.96,669.09,637.8,634.79,640.81,"Census Tract 3.03, Denver County, Colorado",DENVER,Not Different Than State Average
+919,08031980100,,,,637.8,634.79,640.81,"Census Tract 9801, Denver County, Colorado",DENVER,No Events or Data Suppressed
+920,08031015500,933.67,722.64,1144.69,637.8,634.79,640.81,"Census Tract 155, Denver County, Colorado",DENVER,Higher Than State Average
+921,08031000501,520.91,338.79,703.03,637.8,634.79,640.81,"Census Tract 5.01, Denver County, Colorado",DENVER,Not Different Than State Average
+922,08031000302,510.88,403.7,618.07,637.8,634.79,640.81,"Census Tract 3.02, Denver County, Colorado",DENVER,Lower Than State Average
+923,08031000202,1116.16,960.68,1271.64,637.8,634.79,640.81,"Census Tract 2.02, Denver County, Colorado",DENVER,Higher Than State Average
+924,08031000102,646.47,495.29,797.65,637.8,634.79,640.81,"Census Tract 1.02, Denver County, Colorado",DENVER,Not Different Than State Average
+925,08031000201,1003.01,848.77,1157.25,637.8,634.79,640.81,"Census Tract 2.01, Denver County, Colorado",DENVER,Higher Than State Average
+926,08031004405,735.11,649.37,820.85,637.8,634.79,640.81,"Census Tract 44.05, Denver County, Colorado",DENVER,Higher Than State Average
+927,08031004106,405.41,333.68,477.13,637.8,634.79,640.81,"Census Tract 41.06, Denver County, Colorado",DENVER,Lower Than State Average
+928,08031015600,881.86,736.6,1027.12,637.8,634.79,640.81,"Census Tract 156, Denver County, Colorado",DENVER,Higher Than State Average
+929,08031015400,661.07,547.89,774.24,637.8,634.79,640.81,"Census Tract 154, Denver County, Colorado",DENVER,Not Different Than State Average
+930,08031008390,958.18,837.97,1078.39,637.8,634.79,640.81,"Census Tract 83.90, Denver County, Colorado",DENVER,Higher Than State Average
+931,08031008391,593.27,509.48,677.06,637.8,634.79,640.81,"Census Tract 83.91, Denver County, Colorado",DENVER,Not Different Than State Average
+932,08031000301,645.48,549.65,741.3,637.8,634.79,640.81,"Census Tract 3.01, Denver County, Colorado",DENVER,Not Different Than State Average
+933,08031001901,1532.54,1319.36,1745.71,637.8,634.79,640.81,"Census Tract 19.01, Denver County, Colorado",DENVER,Higher Than State Average
+934,08031000905,915.01,773.87,1056.15,637.8,634.79,640.81,"Census Tract 9.05, Denver County, Colorado",DENVER,Higher Than State Average
+935,08031000702,1723.56,1396.66,2050.45,637.8,634.79,640.81,"Census Tract 7.02, Denver County, Colorado",DENVER,Higher Than State Average
+936,08031008389,752.58,669.03,836.13,637.8,634.79,640.81,"Census Tract 83.89, Denver County, Colorado",DENVER,Higher Than State Average
+937,08031008386,832.83,716.77,948.9,637.8,634.79,640.81,"Census Tract 83.86, Denver County, Colorado",DENVER,Higher Than State Average
+938,08031015300,743.47,603.87,883.07,637.8,634.79,640.81,"Census Tract 153, Denver County, Colorado",DENVER,Not Different Than State Average
+939,08031004306,469.17,391.83,546.51,637.8,634.79,640.81,"Census Tract 43.06, Denver County, Colorado",DENVER,Lower Than State Average
+940,08031004107,521.64,433.9,609.38,637.8,634.79,640.81,"Census Tract 41.07, Denver County, Colorado",DENVER,Lower Than State Average
+941,08031008388,525.45,451.34,599.55,637.8,634.79,640.81,"Census Tract 83.88, Denver County, Colorado",DENVER,Lower Than State Average
+942,08031001102,457.05,333.02,581.08,637.8,634.79,640.81,"Census Tract 11.02, Denver County, Colorado",DENVER,Lower Than State Average
+943,08031000600,668.76,472.79,864.74,637.8,634.79,640.81,"Census Tract 6, Denver County, Colorado",DENVER,Not Different Than State Average
+944,08031004602,819.36,710.59,928.14,637.8,634.79,640.81,"Census Tract 46.02, Denver County, Colorado",DENVER,Higher Than State Average
+945,08031001702,907.04,459.25,1354.83,637.8,634.79,640.81,"Census Tract 17.02, Denver County, Colorado",DENVER,Not Different Than State Average
+946,08031008387,726.31,609.74,842.88,637.8,634.79,640.81,"Census Tract 83.87, Denver County, Colorado",DENVER,Not Different Than State Average
+947,08031008312,952.73,842.35,1063.1,637.8,634.79,640.81,"Census Tract 83.12, Denver County, Colorado",DENVER,Higher Than State Average
+948,08031015700,995.58,880.04,1111.13,637.8,634.79,640.81,"Census Tract 157, Denver County, Colorado",DENVER,Higher Than State Average
+949,08031001902,510.21,313,755.07,637.8,634.79,640.81,"Census Tract 19.02, Denver County, Colorado",DENVER,Not Different Than State Average
+950,08031004506,806.84,673.75,939.94,637.8,634.79,640.81,"Census Tract 45.06, Denver County, Colorado",DENVER,Higher Than State Average
+951,08031011902,821.86,713.97,929.74,637.8,634.79,640.81,"Census Tract 119.02, Denver County, Colorado",DENVER,Higher Than State Average
+952,08031005200,763.97,630.4,897.53,637.8,634.79,640.81,"Census Tract 52, Denver County, Colorado",DENVER,Not Different Than State Average
+953,08031002100,1226.45,860.06,1592.85,637.8,634.79,640.81,"Census Tract 21, Denver County, Colorado",DENVER,Higher Than State Average
+954,08031000902,635.05,541.43,728.66,637.8,634.79,640.81,"Census Tract 9.02, Denver County, Colorado",DENVER,Not Different Than State Average
+955,08031000904,1302.72,1151.27,1454.18,637.8,634.79,640.81,"Census Tract 9.04, Denver County, Colorado",DENVER,Higher Than State Average
+956,08031008305,1043.28,894.08,1192.48,637.8,634.79,640.81,"Census Tract 83.05, Denver County, Colorado",DENVER,Higher Than State Average
+957,08031008304,1283.88,1109.21,1458.54,637.8,634.79,640.81,"Census Tract 83.04, Denver County, Colorado",DENVER,Higher Than State Average
+958,08031007006,573.43,402.15,744.7,637.8,634.79,640.81,"Census Tract 70.06, Denver County, Colorado",DENVER,Not Different Than State Average
+959,08031004505,759.91,628.11,891.71,637.8,634.79,640.81,"Census Tract 45.05, Denver County, Colorado",DENVER,Not Different Than State Average
+960,08031004504,850.21,699.65,1000.76,637.8,634.79,640.81,"Census Tract 45.04, Denver County, Colorado",DENVER,Higher Than State Average
+961,08031004503,884.06,729.71,1038.4,637.8,634.79,640.81,"Census Tract 45.03, Denver County, Colorado",DENVER,Higher Than State Average
+962,08031004006,485.01,390.65,579.38,637.8,634.79,640.81,"Census Tract 40.06, Denver County, Colorado",DENVER,Lower Than State Average
+963,08031003001,638.89,423.63,854.15,637.8,634.79,640.81,"Census Tract 30.01, Denver County, Colorado",DENVER,Not Different Than State Average
+964,08031001403,624.53,405.93,843.12,637.8,634.79,640.81,"Census Tract 14.03, Denver County, Colorado",DENVER,Not Different Than State Average
+965,08031006813,969.18,816.07,1122.3,637.8,634.79,640.81,"Census Tract 68.13, Denver County, Colorado",DENVER,Higher Than State Average
+966,08031006814,928.36,796.62,1060.1,637.8,634.79,640.81,"Census Tract 68.14, Denver County, Colorado",DENVER,Higher Than State Average
+967,08031006811,724.91,617.95,831.87,637.8,634.79,640.81,"Census Tract 68.11, Denver County, Colorado",DENVER,Not Different Than State Average
+968,08031007037,757.7,589.72,925.69,637.8,634.79,640.81,"Census Tract 70.37, Denver County, Colorado",DENVER,Not Different Than State Average
+969,08031007088,760.13,605.49,914.77,637.8,634.79,640.81,"Census Tract 70.88, Denver County, Colorado",DENVER,Not Different Than State Average
+970,08031007089,1793.6,1426.37,2160.84,637.8,634.79,640.81,"Census Tract 70.89, Denver County, Colorado",DENVER,Higher Than State Average
+971,08005081800,1230.76,995.69,1465.82,637.8,634.79,640.81,"Census Tract 818, Arapahoe County, Colorado",ARAPAHOE,Higher Than State Average
+972,08005007500,1038.26,851.46,1225.06,637.8,634.79,640.81,"Census Tract 75, Arapahoe County, Colorado",ARAPAHOE,Higher Than State Average
+973,08005082300,830.22,670.56,989.88,637.8,634.79,640.81,"Census Tract 823, Arapahoe County, Colorado",ARAPAHOE,Higher Than State Average
+974,08005081600,736,622.38,849.62,637.8,634.79,640.81,"Census Tract 816, Arapahoe County, Colorado",ARAPAHOE,Not Different Than State Average
+975,08005080700,1029.43,909.71,1149.15,637.8,634.79,640.81,"Census Tract 807, Arapahoe County, Colorado",ARAPAHOE,Higher Than State Average
+976,08005006808,394.3,301.7,486.9,637.8,634.79,640.81,"Census Tract 68.08, Arapahoe County, Colorado",ARAPAHOE,Lower Than State Average
+977,08005084600,750.22,642.31,858.13,637.8,634.79,640.81,"Census Tract 846, Arapahoe County, Colorado",ARAPAHOE,Higher Than State Average
+978,08005006711,449.89,353.44,546.33,637.8,634.79,640.81,"Census Tract 67.11, Arapahoe County, Colorado",ARAPAHOE,Lower Than State Average
+979,08005006815,427.28,307.91,546.65,637.8,634.79,640.81,"Census Tract 68.15, Arapahoe County, Colorado",ARAPAHOE,Lower Than State Average
+980,08005082600,1288.59,1144.11,1433.07,637.8,634.79,640.81,"Census Tract 826, Arapahoe County, Colorado",ARAPAHOE,Higher Than State Average
+981,08005080200,927.71,814.25,1041.17,637.8,634.79,640.81,"Census Tract 802, Arapahoe County, Colorado",ARAPAHOE,Higher Than State Average
+982,08041003801,472.44,206.06,738.83,637.8,634.79,640.81,"Census Tract 38.01, El Paso County, Colorado",EL PASO,Not Different Than State Average
+983,08041005111,576.43,480.22,672.63,637.8,634.79,640.81,"Census Tract 51.11, El Paso County, Colorado",EL PASO,Not Different Than State Average
+984,08041007101,723.1,583.31,862.89,637.8,634.79,640.81,"Census Tract 71.01, El Paso County, Colorado",EL PASO,Not Different Than State Average
+985,08041007201,300.76,249.74,351.79,637.8,634.79,640.81,"Census Tract 72.01, El Paso County, Colorado",EL PASO,Lower Than State Average
+986,08041006901,601.94,474.89,729,637.8,634.79,640.81,"Census Tract 69.01, El Paso County, Colorado",EL PASO,Not Different Than State Average
+987,08041006301,777.45,662.66,892.23,637.8,634.79,640.81,"Census Tract 63.01, El Paso County, Colorado",EL PASO,Higher Than State Average
+988,08041006302,712.7,536.73,888.67,637.8,634.79,640.81,"Census Tract 63.02, El Paso County, Colorado",EL PASO,Not Different Than State Average
+989,08041005110,671.74,556.58,786.91,637.8,634.79,640.81,"Census Tract 51.10, El Paso County, Colorado",EL PASO,Not Different Than State Average
+990,08041006801,580.02,446.6,713.44,637.8,634.79,640.81,"Census Tract 68.01, El Paso County, Colorado",EL PASO,Not Different Than State Average
+991,08041006802,610.3,491.67,728.93,637.8,634.79,640.81,"Census Tract 68.02, El Paso County, Colorado",EL PASO,Not Different Than State Average
+992,08041004601,1009.91,848.86,1170.96,637.8,634.79,640.81,"Census Tract 46.01, El Paso County, Colorado",EL PASO,Higher Than State Average
+993,08041004511,643.96,545.48,742.43,637.8,634.79,640.81,"Census Tract 45.11, El Paso County, Colorado",EL PASO,Not Different Than State Average
+994,08041004602,741.08,607.59,874.57,637.8,634.79,640.81,"Census Tract 46.02, El Paso County, Colorado",EL PASO,Not Different Than State Average
+995,08041007601,534.47,450.98,617.96,637.8,634.79,640.81,"Census Tract 76.01, El Paso County, Colorado",EL PASO,Lower Than State Average
+996,08041007602,436.76,327.35,546.16,637.8,634.79,640.81,"Census Tract 76.02, El Paso County, Colorado",EL PASO,Lower Than State Average
+997,08041007202,419.47,355.79,483.15,637.8,634.79,640.81,"Census Tract 72.02, El Paso County, Colorado",EL PASO,Lower Than State Average
+998,08041003802,,,,637.8,634.79,640.81,"Census Tract 38.02, El Paso County, Colorado",EL PASO,No Events or Data Suppressed
+999,08041003307,553.22,434.82,671.62,637.8,634.79,640.81,"Census Tract 33.07, El Paso County, Colorado",EL PASO,Not Different Than State Average
+1000,08041003400,481.29,358.31,604.27,637.8,634.79,640.81,"Census Tract 34, El Paso County, Colorado",EL PASO,Lower Than State Average
+1001,08041006700,444.66,367.37,521.96,637.8,634.79,640.81,"Census Tract 67, El Paso County, Colorado",EL PASO,Lower Than State Average
+1002,08041003701,418.81,354.94,482.67,637.8,634.79,640.81,"Census Tract 37.01, El Paso County, Colorado",EL PASO,Lower Than State Average
+1003,08041004100,1119.45,978.93,1259.96,637.8,634.79,640.81,"Census Tract 41, El Paso County, Colorado",EL PASO,Higher Than State Average
+1004,08041004200,881.4,745.07,1017.72,637.8,634.79,640.81,"Census Tract 42, El Paso County, Colorado",EL PASO,Higher Than State Average
+1005,08041004508,658.6,569.46,747.74,637.8,634.79,640.81,"Census Tract 45.08, El Paso County, Colorado",EL PASO,Not Different Than State Average
+1006,08041004507,802.84,659.55,946.14,637.8,634.79,640.81,"Census Tract 45.07, El Paso County, Colorado",EL PASO,Higher Than State Average
+1007,08041004506,789.29,673.71,904.87,637.8,634.79,640.81,"Census Tract 45.06, El Paso County, Colorado",EL PASO,Higher Than State Average
+1008,08041004300,668.06,575.64,760.47,637.8,634.79,640.81,"Census Tract 43, El Paso County, Colorado",EL PASO,Not Different Than State Average
+1009,08041005000,777.75,656.49,899,637.8,634.79,640.81,"Census Tract 50, El Paso County, Colorado",EL PASO,Higher Than State Average
+1010,08041006200,939.18,808,1070.37,637.8,634.79,640.81,"Census Tract 62, El Paso County, Colorado",EL PASO,Higher Than State Average
+1011,08041006100,1714.67,1447,1982.34,637.8,634.79,640.81,"Census Tract 61, El Paso County, Colorado",EL PASO,Higher Than State Average
+1012,08041006000,1004.1,893.97,1114.23,637.8,634.79,640.81,"Census Tract 60, El Paso County, Colorado",EL PASO,Higher Than State Average
+1013,08041005900,843.55,736.28,950.82,637.8,634.79,640.81,"Census Tract 59, El Paso County, Colorado",EL PASO,Higher Than State Average
+1014,08041005800,585.85,464.6,707.1,637.8,634.79,640.81,"Census Tract 58, El Paso County, Colorado",EL PASO,Not Different Than State Average
+1015,08041005700,751.58,650.33,852.82,637.8,634.79,640.81,"Census Tract 57, El Paso County, Colorado",EL PASO,Higher Than State Average
+1016,08041005602,533.05,419.25,646.85,637.8,634.79,640.81,"Census Tract 56.02, El Paso County, Colorado",EL PASO,Not Different Than State Average
+1017,08041004703,679.93,582.74,777.12,637.8,634.79,640.81,"Census Tract 47.03, El Paso County, Colorado",EL PASO,Not Different Than State Average
+1018,08041004009,1115.6,817.36,1413.85,637.8,634.79,640.81,"Census Tract 40.09, El Paso County, Colorado",EL PASO,Higher Than State Average
+1019,08041005202,1420.37,1172.72,1668.02,637.8,634.79,640.81,"Census Tract 52.02, El Paso County, Colorado",EL PASO,Higher Than State Average
+1020,08041003905,794.57,589.04,1000.11,637.8,634.79,640.81,"Census Tract 39.05, El Paso County, Colorado",EL PASO,Not Different Than State Average
+1021,08041003706,419.05,330.68,507.41,637.8,634.79,640.81,"Census Tract 37.06, El Paso County, Colorado",EL PASO,Lower Than State Average
+1022,08041003705,549.46,459.09,639.83,637.8,634.79,640.81,"Census Tract 37.05, El Paso County, Colorado",EL PASO,Not Different Than State Average
+1023,08041003000,818.68,693.85,943.51,637.8,634.79,640.81,"Census Tract 30, El Paso County, Colorado",EL PASO,Higher Than State Average
+1024,08041003303,855.83,742.13,969.54,637.8,634.79,640.81,"Census Tract 33.03, El Paso County, Colorado",EL PASO,Higher Than State Average
+1025,08041004503,617.22,534.87,699.56,637.8,634.79,640.81,"Census Tract 45.03, El Paso County, Colorado",EL PASO,Not Different Than State Average
+1026,08041002900,1135.33,1001.26,1269.39,637.8,634.79,640.81,"Census Tract 29, El Paso County, Colorado",EL PASO,Higher Than State Average
+1027,08041002000,1288.24,1159.94,1416.54,637.8,634.79,640.81,"Census Tract 20, El Paso County, Colorado",EL PASO,Higher Than State Average
+1028,08041004502,475.61,393.54,557.67,637.8,634.79,640.81,"Census Tract 45.02, El Paso County, Colorado",EL PASO,Lower Than State Average
+1029,08041001900,1144.62,1002.05,1287.19,637.8,634.79,640.81,"Census Tract 19, El Paso County, Colorado",EL PASO,Higher Than State Average
+1030,08041001800,427.07,256.11,598.03,637.8,634.79,640.81,"Census Tract 18, El Paso County, Colorado",EL PASO,Lower Than State Average
+1031,08041001700,816.01,605.51,1026.51,637.8,634.79,640.81,"Census Tract 17, El Paso County, Colorado",EL PASO,Not Different Than State Average
+1032,08041001600,414.41,208,620.82,637.8,634.79,640.81,"Census Tract 16, El Paso County, Colorado",EL PASO,Lower Than State Average
+1033,08041001500,1394.63,1102.9,1686.37,637.8,634.79,640.81,"Census Tract 15, El Paso County, Colorado",EL PASO,Higher Than State Average
+1034,08041003906,546.14,464.37,627.92,637.8,634.79,640.81,"Census Tract 39.06, El Paso County, Colorado",EL PASO,Lower Than State Average
+1035,08041001101,881.53,654.55,1108.5,637.8,634.79,640.81,"Census Tract 11.01, El Paso County, Colorado",EL PASO,Higher Than State Average
+1036,08041001000,456.45,333.99,578.9,637.8,634.79,640.81,"Census Tract 10, El Paso County, Colorado",EL PASO,Lower Than State Average
+1037,08041000900,592.55,413.42,771.69,637.8,634.79,640.81,"Census Tract 9, El Paso County, Colorado",EL PASO,Not Different Than State Average
+1038,08041005109,536.9,458.17,615.62,637.8,634.79,640.81,"Census Tract 51.09, El Paso County, Colorado",EL PASO,Lower Than State Average
+1039,08041005105,483.6,391.67,575.53,637.8,634.79,640.81,"Census Tract 51.05, El Paso County, Colorado",EL PASO,Lower Than State Average
+1040,08041005107,703.92,575.11,832.72,637.8,634.79,640.81,"Census Tract 51.07, El Paso County, Colorado",EL PASO,Not Different Than State Average
+1041,08041007102,269.3,213.74,324.86,637.8,634.79,640.81,"Census Tract 71.02, El Paso County, Colorado",EL PASO,Lower Than State Average
+1042,08041004705,651.24,551.93,750.54,637.8,634.79,640.81,"Census Tract 47.05, El Paso County, Colorado",EL PASO,Not Different Than State Average
+1043,08041005106,615,537.59,692.42,637.8,634.79,640.81,"Census Tract 51.06, El Paso County, Colorado",EL PASO,Not Different Than State Average
+1044,08041004706,537.3,433.03,641.58,637.8,634.79,640.81,"Census Tract 47.06, El Paso County, Colorado",EL PASO,Not Different Than State Average
+1045,08041006902,820.4,660.75,980.05,637.8,634.79,640.81,"Census Tract 69.02, El Paso County, Colorado",EL PASO,Higher Than State Average
+1046,08041004603,533.89,441.81,625.97,637.8,634.79,640.81,"Census Tract 46.03, El Paso County, Colorado",EL PASO,Lower Than State Average
+1047,08041004510,754.66,604.78,904.54,637.8,634.79,640.81,"Census Tract 45.10, El Paso County, Colorado",EL PASO,Not Different Than State Average
+1048,08041005108,683.34,586.28,780.41,637.8,634.79,640.81,"Census Tract 51.08, El Paso County, Colorado",EL PASO,Not Different Than State Average
+1049,08041003308,519.69,422.54,616.84,637.8,634.79,640.81,"Census Tract 33.08, El Paso County, Colorado",EL PASO,Lower Than State Average
+1050,08041003305,363.51,303.69,423.33,637.8,634.79,640.81,"Census Tract 33.05, El Paso County, Colorado",EL PASO,Lower Than State Average
+1051,08041004401,256.21,145.94,366.47,637.8,634.79,640.81,"Census Tract 44.01, El Paso County, Colorado",EL PASO,Lower Than State Average
+1052,08041004403,172.07,87.23,285.4,637.8,634.79,640.81,"Census Tract 44.03, El Paso County, Colorado",EL PASO,Lower Than State Average
+1053,08041004402,222.74,171.28,280.94,637.8,634.79,640.81,"Census Tract 44.02, El Paso County, Colorado",EL PASO,Lower Than State Average
+1054,08041003306,665.37,528.98,801.77,637.8,634.79,640.81,"Census Tract 33.06, El Paso County, Colorado",EL PASO,Not Different Than State Average
+1055,08041005104,590.19,498.01,682.38,637.8,634.79,640.81,"Census Tract 51.04, El Paso County, Colorado",EL PASO,Not Different Than State Average
+1056,08041005502,909.33,769.99,1048.66,637.8,634.79,640.81,"Census Tract 55.02, El Paso County, Colorado",EL PASO,Higher Than State Average
+1057,08041004702,597.59,419.36,775.82,637.8,634.79,640.81,"Census Tract 47.02, El Paso County, Colorado",EL PASO,Not Different Than State Average
+1058,08041000101,724.96,625.6,824.31,637.8,634.79,640.81,"Census Tract 1.01, El Paso County, Colorado",EL PASO,Not Different Than State Average
+1059,08041008000,1002.44,814.04,1190.84,637.8,634.79,640.81,"Census Tract 80, El Paso County, Colorado",EL PASO,Higher Than State Average
+1060,08041003709,494.49,412.4,576.58,637.8,634.79,640.81,"Census Tract 37.09, El Paso County, Colorado",EL PASO,Lower Than State Average
+1061,08041007400,257.62,193.24,321.99,637.8,634.79,640.81,"Census Tract 74, El Paso County, Colorado",EL PASO,Lower Than State Average
+1062,08041003707,420.44,318.96,521.92,637.8,634.79,640.81,"Census Tract 37.07, El Paso County, Colorado",EL PASO,Lower Than State Average
+1063,08041003708,367.26,268.38,466.15,637.8,634.79,640.81,"Census Tract 37.08, El Paso County, Colorado",EL PASO,Lower Than State Average
+1064,08041006502,961.69,819.4,1103.98,637.8,634.79,640.81,"Census Tract 65.02, El Paso County, Colorado",EL PASO,Higher Than State Average
+1065,08041006600,1027.05,787.03,1267.06,637.8,634.79,640.81,"Census Tract 66, El Paso County, Colorado",EL PASO,Higher Than State Average
+1066,08041006501,852.26,709.35,995.18,637.8,634.79,640.81,"Census Tract 65.01, El Paso County, Colorado",EL PASO,Higher Than State Average
+1067,08041006400,1018.51,900,1137.02,637.8,634.79,640.81,"Census Tract 64, El Paso County, Colorado",EL PASO,Higher Than State Average
+1068,08041005601,547.5,437,658.01,637.8,634.79,640.81,"Census Tract 56.01, El Paso County, Colorado",EL PASO,Not Different Than State Average
+1069,08041005400,1255.82,1097.92,1413.72,637.8,634.79,640.81,"Census Tract 54, El Paso County, Colorado",EL PASO,Higher Than State Average
+1070,08041005300,1196.54,1045.59,1347.49,637.8,634.79,640.81,"Census Tract 53, El Paso County, Colorado",EL PASO,Higher Than State Average
+1071,08041005201,1354.25,1167.65,1540.85,637.8,634.79,640.81,"Census Tract 52.01, El Paso County, Colorado",EL PASO,Higher Than State Average
+1072,08041004800,680.03,574.34,785.72,637.8,634.79,640.81,"Census Tract 48, El Paso County, Colorado",EL PASO,Not Different Than State Average
+1073,08041002700,1117.03,955.04,1279.01,637.8,634.79,640.81,"Census Tract 27, El Paso County, Colorado",EL PASO,Higher Than State Average
+1074,08041002501,400.67,302.38,498.96,637.8,634.79,640.81,"Census Tract 25.01, El Paso County, Colorado",EL PASO,Lower Than State Average
+1075,08041002502,645.4,532.89,757.92,637.8,634.79,640.81,"Census Tract 25.02, El Paso County, Colorado",EL PASO,Not Different Than State Average
+1076,08041002400,832.78,722.23,943.34,637.8,634.79,640.81,"Census Tract 24, El Paso County, Colorado",EL PASO,Higher Than State Average
+1077,08041002200,1461.54,1244.22,1678.86,637.8,634.79,640.81,"Census Tract 22, El Paso County, Colorado",EL PASO,Higher Than State Average
+1078,08041002102,1112.61,967.17,1258.05,637.8,634.79,640.81,"Census Tract 21.02, El Paso County, Colorado",EL PASO,Higher Than State Average
+1079,08041003100,262.87,193.72,332.03,637.8,634.79,640.81,"Census Tract 31, El Paso County, Colorado",EL PASO,Lower Than State Average
+1080,08041002101,1191.21,1022.91,1359.52,637.8,634.79,640.81,"Census Tract 21.01, El Paso County, Colorado",EL PASO,Higher Than State Average
+1081,08041001400,756.69,612.68,900.69,637.8,634.79,640.81,"Census Tract 14, El Paso County, Colorado",EL PASO,Not Different Than State Average
+1082,08041001302,720.05,609,831.1,637.8,634.79,640.81,"Census Tract 13.02, El Paso County, Colorado",EL PASO,Not Different Than State Average
+1083,08041001104,644.94,523.88,766.01,637.8,634.79,640.81,"Census Tract 11.04, El Paso County, Colorado",EL PASO,Not Different Than State Average
+1084,08041000800,719.18,575.27,863.09,637.8,634.79,640.81,"Census Tract 8, El Paso County, Colorado",EL PASO,Not Different Than State Average
+1085,08041000700,890.65,741.8,1039.49,637.8,634.79,640.81,"Census Tract 7, El Paso County, Colorado",EL PASO,Higher Than State Average
+1086,08041000600,881.66,724.23,1039.09,637.8,634.79,640.81,"Census Tract 6, El Paso County, Colorado",EL PASO,Higher Than State Average
+1087,08041000500,793.79,620.62,966.97,637.8,634.79,640.81,"Census Tract 5, El Paso County, Colorado",EL PASO,Not Different Than State Average
+1088,08041000400,1074.83,863.12,1286.54,637.8,634.79,640.81,"Census Tract 4, El Paso County, Colorado",EL PASO,Higher Than State Average
+1089,08041007800,388,304.13,471.87,637.8,634.79,640.81,"Census Tract 78, El Paso County, Colorado",EL PASO,Lower Than State Average
+1090,08041000302,1135.01,994.52,1275.5,637.8,634.79,640.81,"Census Tract 3.02, El Paso County, Colorado",EL PASO,Higher Than State Average
+1091,08041007700,520.83,428.03,613.63,637.8,634.79,640.81,"Census Tract 77, El Paso County, Colorado",EL PASO,Lower Than State Average
+1092,08005083500,654.95,561.23,748.66,637.8,634.79,640.81,"Census Tract 835, Arapahoe County, Colorado",ARAPAHOE,Not Different Than State Average
+1093,08005082800,1150.36,975.77,1324.94,637.8,634.79,640.81,"Census Tract 828, Arapahoe County, Colorado",ARAPAHOE,Higher Than State Average
+1094,08005082400,761.91,639.64,884.18,637.8,634.79,640.81,"Census Tract 824, Arapahoe County, Colorado",ARAPAHOE,Not Different Than State Average
+1095,08005005630,546.96,449.5,644.41,637.8,634.79,640.81,"Census Tract 56.30, Arapahoe County, Colorado",ARAPAHOE,Not Different Than State Average
+1096,08005005631,573.22,457.47,688.97,637.8,634.79,640.81,"Census Tract 56.31, Arapahoe County, Colorado",ARAPAHOE,Not Different Than State Average
+1097,08005005628,554.32,469.5,639.13,637.8,634.79,640.81,"Census Tract 56.28, Arapahoe County, Colorado",ARAPAHOE,Not Different Than State Average
+1098,08005005632,518.35,408.09,628.6,637.8,634.79,640.81,"Census Tract 56.32, Arapahoe County, Colorado",ARAPAHOE,Lower Than State Average
+1099,08005005629,476.51,285.72,667.29,637.8,634.79,640.81,"Census Tract 56.29, Arapahoe County, Colorado",ARAPAHOE,Not Different Than State Average
+1100,08005084400,702.65,543.85,861.45,637.8,634.79,640.81,"Census Tract 844, Arapahoe County, Colorado",ARAPAHOE,Not Different Than State Average
+1101,08055960900,274.91,183.75,366.07,637.8,634.79,640.81,"Census Tract 9609, Huerfano County, Colorado",HUERFANO,Lower Than State Average
+1102,08055960600,793.1,522.27,1063.94,637.8,634.79,640.81,"Census Tract 9606, Huerfano County, Colorado",HUERFANO,Not Different Than State Average
+1103,08005005624,528.63,399.99,657.28,637.8,634.79,640.81,"Census Tract 56.24, Arapahoe County, Colorado",ARAPAHOE,Not Different Than State Average
+1104,08005005627,448.67,360.78,536.55,637.8,634.79,640.81,"Census Tract 56.27, Arapahoe County, Colorado",ARAPAHOE,Lower Than State Average
+1105,08005005614,627.67,502.51,752.82,637.8,634.79,640.81,"Census Tract 56.14, Arapahoe County, Colorado",ARAPAHOE,Not Different Than State Average
+1106,08005006707,534.41,433.07,635.75,637.8,634.79,640.81,"Census Tract 67.07, Arapahoe County, Colorado",ARAPAHOE,Not Different Than State Average
+1107,08005006708,441.42,343.25,539.6,637.8,634.79,640.81,"Census Tract 67.08, Arapahoe County, Colorado",ARAPAHOE,Lower Than State Average
+1108,08005006604,741.47,624.01,858.94,637.8,634.79,640.81,"Census Tract 66.04, Arapahoe County, Colorado",ARAPAHOE,Not Different Than State Average
+1109,08005006603,808.1,670.97,945.24,637.8,634.79,640.81,"Census Tract 66.03, Arapahoe County, Colorado",ARAPAHOE,Higher Than State Average
+1110,08005006705,470.2,272.55,667.86,637.8,634.79,640.81,"Census Tract 67.05, Arapahoe County, Colorado",ARAPAHOE,Not Different Than State Average
+1111,08005006601,1014.41,890.05,1138.78,637.8,634.79,640.81,"Census Tract 66.01, Arapahoe County, Colorado",ARAPAHOE,Higher Than State Average
+1112,08005005621,533.76,407.1,660.42,637.8,634.79,640.81,"Census Tract 56.21, Arapahoe County, Colorado",ARAPAHOE,Not Different Than State Average
+1113,08005005625,776.77,609.99,943.55,637.8,634.79,640.81,"Census Tract 56.25, Arapahoe County, Colorado",ARAPAHOE,Not Different Than State Average
+1114,08005006704,343.59,215.78,471.41,637.8,634.79,640.81,"Census Tract 67.04, Arapahoe County, Colorado",ARAPAHOE,Lower Than State Average
+1115,08005005620,544.37,406.27,682.47,637.8,634.79,640.81,"Census Tract 56.20, Arapahoe County, Colorado",ARAPAHOE,Not Different Than State Average
+1116,08005006709,297.13,207.06,387.19,637.8,634.79,640.81,"Census Tract 67.09, Arapahoe County, Colorado",ARAPAHOE,Lower Than State Average
+1117,08005005619,875.72,755.5,995.94,637.8,634.79,640.81,"Census Tract 56.19, Arapahoe County, Colorado",ARAPAHOE,Higher Than State Average
+1118,08005005633,595.05,455.29,734.82,637.8,634.79,640.81,"Census Tract 56.33, Arapahoe County, Colorado",ARAPAHOE,Not Different Than State Average
+1119,08005081700,474.04,338.36,609.72,637.8,634.79,640.81,"Census Tract 817, Arapahoe County, Colorado",ARAPAHOE,Lower Than State Average
+1120,08005015100,351.87,256.44,447.31,637.8,634.79,640.81,"Census Tract 151, Arapahoe County, Colorado",ARAPAHOE,Lower Than State Average
+1121,08005083900,699.07,537.57,860.56,637.8,634.79,640.81,"Census Tract 839, Arapahoe County, Colorado",ARAPAHOE,Not Different Than State Average
+1122,08005082900,675.5,567.46,783.54,637.8,634.79,640.81,"Census Tract 829, Arapahoe County, Colorado",ARAPAHOE,Not Different Than State Average
+1123,08005087300,572.77,484.9,660.64,637.8,634.79,640.81,"Census Tract 873, Arapahoe County, Colorado",ARAPAHOE,Not Different Than State Average
+1124,08005086900,775.41,564.17,986.66,637.8,634.79,640.81,"Census Tract 869, Arapahoe County, Colorado",ARAPAHOE,Not Different Than State Average
+1125,08005087100,1117.95,916.12,1319.78,637.8,634.79,640.81,"Census Tract 871, Arapahoe County, Colorado",ARAPAHOE,Higher Than State Average
+1126,08005007301,1320.8,1060.54,1581.05,637.8,634.79,640.81,"Census Tract 73.01, Arapahoe County, Colorado",ARAPAHOE,Higher Than State Average
+1127,08005006100,1204.38,971.58,1437.17,637.8,634.79,640.81,"Census Tract 61, Arapahoe County, Colorado",ARAPAHOE,Higher Than State Average
+1128,08005006300,866.01,677.5,1054.52,637.8,634.79,640.81,"Census Tract 63, Arapahoe County, Colorado",ARAPAHOE,Higher Than State Average
+1129,08005006706,452.04,359.23,544.85,637.8,634.79,640.81,"Census Tract 67.06, Arapahoe County, Colorado",ARAPAHOE,Lower Than State Average
+1130,08005006200,861.22,717.86,1004.58,637.8,634.79,640.81,"Census Tract 62, Arapahoe County, Colorado",ARAPAHOE,Higher Than State Average
+1131,08005005952,696.6,568.33,824.88,637.8,634.79,640.81,"Census Tract 59.52, Arapahoe County, Colorado",ARAPAHOE,Not Different Than State Average
+1132,08005005951,1039.12,901.13,1177.12,637.8,634.79,640.81,"Census Tract 59.51, Arapahoe County, Colorado",ARAPAHOE,Higher Than State Average
+1133,08005005800,684.94,527.23,842.65,637.8,634.79,640.81,"Census Tract 58, Arapahoe County, Colorado",ARAPAHOE,Not Different Than State Average
+1134,08005005612,664.38,544.09,784.68,637.8,634.79,640.81,"Census Tract 56.12, Arapahoe County, Colorado",ARAPAHOE,Not Different Than State Average
+1135,08005006400,725.25,593.69,856.82,637.8,634.79,640.81,"Census Tract 64, Arapahoe County, Colorado",ARAPAHOE,Not Different Than State Average
+1136,08005006000,1095.51,896.04,1294.97,637.8,634.79,640.81,"Census Tract 60, Arapahoe County, Colorado",ARAPAHOE,Higher Than State Average
+1137,08041000301,733.13,598.5,867.77,637.8,634.79,640.81,"Census Tract 3.01, El Paso County, Colorado",EL PASO,Not Different Than State Average
+1138,08041000203,726.44,603.67,849.22,637.8,634.79,640.81,"Census Tract 2.03, El Paso County, Colorado",EL PASO,Not Different Than State Average
+1139,08005080500,707.91,576.29,839.53,637.8,634.79,640.81,"Census Tract 805, Arapahoe County, Colorado",ARAPAHOE,Not Different Than State Average
+1140,08005083000,494.77,383.4,606.14,637.8,634.79,640.81,"Census Tract 830, Arapahoe County, Colorado",ARAPAHOE,Lower Than State Average
+1141,08005083200,650.05,543.09,757,637.8,634.79,640.81,"Census Tract 832, Arapahoe County, Colorado",ARAPAHOE,Not Different Than State Average
+1142,08005085900,628.86,520.32,737.4,637.8,634.79,640.81,"Census Tract 859, Arapahoe County, Colorado",ARAPAHOE,Not Different Than State Average
+1143,08005006855,504.1,288.12,720.07,637.8,634.79,640.81,"Census Tract 68.55, Arapahoe County, Colorado",ARAPAHOE,Not Different Than State Average
+1144,08005086400,466.88,303.51,630.26,637.8,634.79,640.81,"Census Tract 864, Arapahoe County, Colorado",ARAPAHOE,Lower Than State Average
+1145,08005086700,412.13,287.75,536.52,637.8,634.79,640.81,"Census Tract 867, Arapahoe County, Colorado",ARAPAHOE,Lower Than State Average
+1146,08005007103,658.74,467.77,849.72,637.8,634.79,640.81,"Census Tract 71.03, Arapahoe County, Colorado",ARAPAHOE,Not Different Than State Average
+1147,08005005700,676.44,538.59,814.28,637.8,634.79,640.81,"Census Tract 57, Arapahoe County, Colorado",ARAPAHOE,Not Different Than State Average
+1148,08005005622,611.21,452.3,770.12,637.8,634.79,640.81,"Census Tract 56.22, Arapahoe County, Colorado",ARAPAHOE,Not Different Than State Average
+1149,08005005611,642.22,544.59,739.84,637.8,634.79,640.81,"Census Tract 56.11, Arapahoe County, Colorado",ARAPAHOE,Not Different Than State Average
+1150,08005007400,1192.82,1037.37,1348.26,637.8,634.79,640.81,"Census Tract 74, Arapahoe County, Colorado",ARAPAHOE,Higher Than State Average
+1151,08005005553,887.08,751.93,1022.24,637.8,634.79,640.81,"Census Tract 55.53, Arapahoe County, Colorado",ARAPAHOE,Higher Than State Average
+1152,08005005626,629.01,515.47,742.56,637.8,634.79,640.81,"Census Tract 56.26, Arapahoe County, Colorado",ARAPAHOE,Not Different Than State Average
+1153,08005007600,1528,1335.34,1720.66,637.8,634.79,640.81,"Census Tract 76, Arapahoe County, Colorado",ARAPAHOE,Higher Than State Average
+1154,08041000202,739.14,616.86,861.42,637.8,634.79,640.81,"Census Tract 2.02, El Paso County, Colorado",EL PASO,Not Different Than State Average
+1155,08041007900,371.2,244.09,498.32,637.8,634.79,640.81,"Census Tract 79, El Paso County, Colorado",EL PASO,Lower Than State Average
+1156,08041000102,558.06,451.93,664.2,637.8,634.79,640.81,"Census Tract 1.02, El Paso County, Colorado",EL PASO,Not Different Than State Average
+1157,08041004701,708.89,555.97,861.81,637.8,634.79,640.81,"Census Tract 47.01, El Paso County, Colorado",EL PASO,Not Different Than State Average
+1158,08041005501,728.31,618.38,838.24,637.8,634.79,640.81,"Census Tract 55.01, El Paso County, Colorado",EL PASO,Not Different Than State Average
+1159,08041004901,766.7,629.3,904.1,637.8,634.79,640.81,"Census Tract 49.01, El Paso County, Colorado",EL PASO,Not Different Than State Average
+1160,08041004902,466.23,377.5,554.96,637.8,634.79,640.81,"Census Tract 49.02, El Paso County, Colorado",EL PASO,Lower Than State Average
+1161,08041004501,1321.66,1169.67,1473.65,637.8,634.79,640.81,"Census Tract 45.01, El Paso County, Colorado",EL PASO,Higher Than State Average
+1162,08041004008,984.06,584.39,1383.73,637.8,634.79,640.81,"Census Tract 40.08, El Paso County, Colorado",EL PASO,Not Different Than State Average
+1163,08041007000,457.33,358.63,556.04,637.8,634.79,640.81,"Census Tract 70, El Paso County, Colorado",EL PASO,Lower Than State Average
+1164,08041003702,511.87,413.78,609.96,637.8,634.79,640.81,"Census Tract 37.02, El Paso County, Colorado",EL PASO,Lower Than State Average
+1165,08041002800,1099.92,978.38,1221.46,637.8,634.79,640.81,"Census Tract 28, El Paso County, Colorado",EL PASO,Higher Than State Average
+1166,08041001301,987.16,783.69,1190.63,637.8,634.79,640.81,"Census Tract 13.01, El Paso County, Colorado",EL PASO,Higher Than State Average
+1167,08041003902,598.11,512.8,683.41,637.8,634.79,640.81,"Census Tract 39.02, El Paso County, Colorado",EL PASO,Not Different Than State Average
+1168,08041007300,446.04,380.49,511.6,637.8,634.79,640.81,"Census Tract 73, El Paso County, Colorado",EL PASO,Lower Than State Average
+1169,08005083700,574.34,471.02,677.65,637.8,634.79,640.81,"Census Tract 837, Arapahoe County, Colorado",ARAPAHOE,Not Different Than State Average
+1170,08005086100,559.31,451.79,666.83,637.8,634.79,640.81,"Census Tract 861, Arapahoe County, Colorado",ARAPAHOE,Not Different Than State Average
+1171,08005007107,416.6,348.87,484.34,637.8,634.79,640.81,"Census Tract 71.07, Arapahoe County, Colorado",ARAPAHOE,Lower Than State Average
+1172,08005085100,362.95,270.41,455.49,637.8,634.79,640.81,"Census Tract 851, Arapahoe County, Colorado",ARAPAHOE,Lower Than State Average
+1173,08005085600,586.95,448.96,724.93,637.8,634.79,640.81,"Census Tract 856, Arapahoe County, Colorado",ARAPAHOE,Not Different Than State Average
+1174,08005085500,612.74,512.8,712.68,637.8,634.79,640.81,"Census Tract 855, Arapahoe County, Colorado",ARAPAHOE,Not Different Than State Average
+1175,08005087000,826.76,628.12,1025.4,637.8,634.79,640.81,"Census Tract 870, Arapahoe County, Colorado",ARAPAHOE,Not Different Than State Average
+1176,08005086800,739.65,624.38,854.91,637.8,634.79,640.81,"Census Tract 868, Arapahoe County, Colorado",ARAPAHOE,Not Different Than State Average
+1177,08005005551,960.29,805.57,1115.01,637.8,634.79,640.81,"Census Tract 55.51, Arapahoe County, Colorado",ARAPAHOE,Higher Than State Average
+1178,08005007702,1028.1,890.21,1165.99,637.8,634.79,640.81,"Census Tract 77.02, Arapahoe County, Colorado",ARAPAHOE,Higher Than State Average
+1179,08005080100,1122.62,977.58,1267.66,637.8,634.79,640.81,"Census Tract 801, Arapahoe County, Colorado",ARAPAHOE,Higher Than State Average
+1180,08005084800,548.51,341.64,755.38,637.8,634.79,640.81,"Census Tract 848, Arapahoe County, Colorado",ARAPAHOE,Not Different Than State Average
+1181,08005007101,764.39,649.22,879.56,637.8,634.79,640.81,"Census Tract 71.01, Arapahoe County, Colorado",ARAPAHOE,Higher Than State Average
+1182,08005081900,1517.93,1383.24,1652.63,637.8,634.79,640.81,"Census Tract 819, Arapahoe County, Colorado",ARAPAHOE,Higher Than State Average
+1183,08005082000,782.88,625.45,940.31,637.8,634.79,640.81,"Census Tract 820, Arapahoe County, Colorado",ARAPAHOE,Not Different Than State Average
+1184,08005081400,1249.38,1092.96,1405.79,637.8,634.79,640.81,"Census Tract 814, Arapahoe County, Colorado",ARAPAHOE,Higher Than State Average
+1185,08005007202,1960.36,1500.8,2419.92,637.8,634.79,640.81,"Census Tract 72.02, Arapahoe County, Colorado",ARAPAHOE,Higher Than State Average
+1186,08041007500,567.94,487.84,648.03,637.8,634.79,640.81,"Census Tract 75, El Paso County, Colorado",EL PASO,Not Different Than State Average
+1187,08041003909,635.26,533.77,736.75,637.8,634.79,640.81,"Census Tract 39.09, El Paso County, Colorado",EL PASO,Not Different Than State Average
+1188,08041002300,3267.16,2792.38,3741.93,637.8,634.79,640.81,"Census Tract 23, El Paso County, Colorado",EL PASO,Higher Than State Average
+1189,08005087200,646.86,530.24,763.48,637.8,634.79,640.81,"Census Tract 872, Arapahoe County, Colorado",ARAPAHOE,Not Different Than State Average
+1190,08005085000,374.48,239.28,509.69,637.8,634.79,640.81,"Census Tract 850, Arapahoe County, Colorado",ARAPAHOE,Lower Than State Average
+1191,08005083800,670.11,521.19,819.03,637.8,634.79,640.81,"Census Tract 838, Arapahoe County, Colorado",ARAPAHOE,Not Different Than State Average
+1192,08005007105,957.92,822.05,1093.78,637.8,634.79,640.81,"Census Tract 71.05, Arapahoe County, Colorado",ARAPAHOE,Higher Than State Average
+1193,08005007104,541.35,417.85,664.85,637.8,634.79,640.81,"Census Tract 71.04, Arapahoe County, Colorado",ARAPAHOE,Not Different Than State Average
+1194,08005086000,681.19,528.75,833.62,637.8,634.79,640.81,"Census Tract 860, Arapahoe County, Colorado",ARAPAHOE,Not Different Than State Average
+1195,08005007106,713.82,553.16,874.47,637.8,634.79,640.81,"Census Tract 71.06, Arapahoe County, Colorado",ARAPAHOE,Not Different Than State Average
+1196,08005083100,784.63,663.76,905.51,637.8,634.79,640.81,"Census Tract 831, Arapahoe County, Colorado",ARAPAHOE,Higher Than State Average
+1197,08005080600,1267.23,1059.63,1474.84,637.8,634.79,640.81,"Census Tract 806, Arapahoe County, Colorado",ARAPAHOE,Higher Than State Average
+1198,08005007302,1618.62,1428.37,1808.87,637.8,634.79,640.81,"Census Tract 73.02, Arapahoe County, Colorado",ARAPAHOE,Higher Than State Average
+1199,08005080000,1143.02,954.07,1331.97,637.8,634.79,640.81,"Census Tract 800, Arapahoe County, Colorado",ARAPAHOE,Higher Than State Average
+1200,08005006854,617.54,467.32,767.76,637.8,634.79,640.81,"Census Tract 68.54, Arapahoe County, Colorado",ARAPAHOE,Not Different Than State Average
+1201,08005007201,788.85,651.3,926.39,637.8,634.79,640.81,"Census Tract 72.01, Arapahoe County, Colorado",ARAPAHOE,Higher Than State Average
+1202,08005083600,666.56,538.62,794.5,637.8,634.79,640.81,"Census Tract 836, Arapahoe County, Colorado",ARAPAHOE,Not Different Than State Average
+1203,08005086600,436.39,359.45,513.33,637.8,634.79,640.81,"Census Tract 866, Arapahoe County, Colorado",ARAPAHOE,Lower Than State Average
+1204,08005085300,642.65,467.51,817.8,637.8,634.79,640.81,"Census Tract 853, Arapahoe County, Colorado",ARAPAHOE,Not Different Than State Average
+1205,08005085200,491.88,306,677.77,637.8,634.79,640.81,"Census Tract 852, Arapahoe County, Colorado",ARAPAHOE,Not Different Than State Average
+1206,08005086500,593.55,494.88,692.23,637.8,634.79,640.81,"Census Tract 865, Arapahoe County, Colorado",ARAPAHOE,Not Different Than State Average
+1207,08005086300,256.35,181.64,331.07,637.8,634.79,640.81,"Census Tract 863, Arapahoe County, Colorado",ARAPAHOE,Lower Than State Average
+1208,08005006856,489.6,384.45,594.75,637.8,634.79,640.81,"Census Tract 68.56, Arapahoe County, Colorado",ARAPAHOE,Lower Than State Average
+1209,08005006857,292.36,188.89,395.82,637.8,634.79,640.81,"Census Tract 68.57, Arapahoe County, Colorado",ARAPAHOE,Lower Than State Average
+1210,08005006501,1194.09,910.81,1477.37,637.8,634.79,640.81,"Census Tract 65.01, Arapahoe County, Colorado",ARAPAHOE,Higher Than State Average
+1211,08005005623,470.37,380.18,560.55,637.8,634.79,640.81,"Census Tract 56.23, Arapahoe County, Colorado",ARAPAHOE,Lower Than State Average
+1212,08005006713,328.63,151.89,505.37,637.8,634.79,640.81,"Census Tract 67.13, Arapahoe County, Colorado",ARAPAHOE,Lower Than State Average
+1213,08005006858,681.14,547.37,814.91,637.8,634.79,640.81,"Census Tract 68.58, Arapahoe County, Colorado",ARAPAHOE,Not Different Than State Average
+1214,08005005635,619.7,514.93,724.47,637.8,634.79,640.81,"Census Tract 56.35, Arapahoe County, Colorado",ARAPAHOE,Not Different Than State Average
+1215,08005006712,604.7,383.7,825.69,637.8,634.79,640.81,"Census Tract 67.12, Arapahoe County, Colorado",ARAPAHOE,Not Different Than State Average
+1216,08005005636,716.94,228.29,1205.58,637.8,634.79,640.81,"Census Tract 56.36, Arapahoe County, Colorado",ARAPAHOE,Not Different Than State Average
+1217,08005004951,222.55,97.21,347.9,637.8,634.79,640.81,"Census Tract 49.51, Arapahoe County, Colorado",ARAPAHOE,Lower Than State Average
+1218,08005004952,531.72,337.11,726.33,637.8,634.79,640.81,"Census Tract 49.52, Arapahoe County, Colorado",ARAPAHOE,Not Different Than State Average
+1219,08005082700,701.54,571.47,831.61,637.8,634.79,640.81,"Census Tract 827, Arapahoe County, Colorado",ARAPAHOE,Not Different Than State Average
+1220,08005082200,953.35,834.19,1072.51,637.8,634.79,640.81,"Census Tract 822, Arapahoe County, Colorado",ARAPAHOE,Higher Than State Average
+1221,08005082500,1016.71,827.55,1205.87,637.8,634.79,640.81,"Census Tract 825, Arapahoe County, Colorado",ARAPAHOE,Higher Than State Average
+1222,08005081500,802.83,506.36,1099.31,637.8,634.79,640.81,"Census Tract 815, Arapahoe County, Colorado",ARAPAHOE,Not Different Than State Average
+1223,08005006502,922.06,765.27,1078.84,637.8,634.79,640.81,"Census Tract 65.02, Arapahoe County, Colorado",ARAPAHOE,Higher Than State Average
+1224,08005005552,1122.75,935.79,1309.71,637.8,634.79,640.81,"Census Tract 55.52, Arapahoe County, Colorado",ARAPAHOE,Higher Than State Average
+1225,08005007704,847.98,716.54,979.43,637.8,634.79,640.81,"Census Tract 77.04, Arapahoe County, Colorado",ARAPAHOE,Higher Than State Average
+1226,08005084100,786.19,639.27,933.1,637.8,634.79,640.81,"Census Tract 841, Arapahoe County, Colorado",ARAPAHOE,Not Different Than State Average
+1227,08005084500,880.93,709.52,1052.33,637.8,634.79,640.81,"Census Tract 845, Arapahoe County, Colorado",ARAPAHOE,Higher Than State Average
+1228,08005005634,453.82,329.42,578.23,637.8,634.79,640.81,"Census Tract 56.34, Arapahoe County, Colorado",ARAPAHOE,Lower Than State Average
+1229,08005084900,447.82,336.52,559.11,637.8,634.79,640.81,"Census Tract 849, Arapahoe County, Colorado",ARAPAHOE,Lower Than State Average
+1230,08005081100,1091.39,929.84,1252.94,637.8,634.79,640.81,"Census Tract 811, Arapahoe County, Colorado",ARAPAHOE,Higher Than State Average
+1231,08005081200,954.1,812.7,1095.5,637.8,634.79,640.81,"Census Tract 812, Arapahoe County, Colorado",ARAPAHOE,Higher Than State Average
+1232,08005084700,984.68,839.28,1130.08,637.8,634.79,640.81,"Census Tract 847, Arapahoe County, Colorado",ARAPAHOE,Higher Than State Average
+1233,08005084200,1384.05,980.62,1787.48,637.8,634.79,640.81,"Census Tract 842, Arapahoe County, Colorado",ARAPAHOE,Higher Than State Average
+1234,08005084300,766.93,575.25,958.61,637.8,634.79,640.81,"Census Tract 843, Arapahoe County, Colorado",ARAPAHOE,Not Different Than State Average
+1235,08005085800,692.56,507.87,877.24,637.8,634.79,640.81,"Census Tract 858, Arapahoe County, Colorado",ARAPAHOE,Not Different Than State Average
+1236,08005083400,752.16,641.72,862.59,637.8,634.79,640.81,"Census Tract 834, Arapahoe County, Colorado",ARAPAHOE,Higher Than State Average
+1237,08005081300,1124.08,862.41,1385.75,637.8,634.79,640.81,"Census Tract 813, Arapahoe County, Colorado",ARAPAHOE,Higher Than State Average
+1238,08005085400,731.21,581.89,880.54,637.8,634.79,640.81,"Census Tract 854, Arapahoe County, Colorado",ARAPAHOE,Not Different Than State Average
+1239,08005086200,561.47,454.99,667.95,637.8,634.79,640.81,"Census Tract 862, Arapahoe County, Colorado",ARAPAHOE,Not Different Than State Average
+1240,08005085700,915.89,769.66,1062.13,637.8,634.79,640.81,"Census Tract 857, Arapahoe County, Colorado",ARAPAHOE,Higher Than State Average
+1241,08005083300,860.97,732.95,988.99,637.8,634.79,640.81,"Census Tract 833, Arapahoe County, Colorado",ARAPAHOE,Higher Than State Average
+1242,08005084000,901.5,721.93,1081.06,637.8,634.79,640.81,"Census Tract 840, Arapahoe County, Colorado",ARAPAHOE,Higher Than State Average
+1243,08005007703,1218.29,1071.09,1365.5,637.8,634.79,640.81,"Census Tract 77.03, Arapahoe County, Colorado",ARAPAHOE,Higher Than State Average
+1244,08005082100,987.94,836.28,1139.6,637.8,634.79,640.81,"Census Tract 821, Arapahoe County, Colorado",ARAPAHOE,Higher Than State Average
+1245,08005081000,1190.07,1031.9,1348.24,637.8,634.79,640.81,"Census Tract 810, Arapahoe County, Colorado",ARAPAHOE,Higher Than State Average
+1246,08005080300,875.78,756.52,995.04,637.8,634.79,640.81,"Census Tract 803, Arapahoe County, Colorado",ARAPAHOE,Higher Than State Average
+1247,08005080400,880.14,757.48,1002.81,637.8,634.79,640.81,"Census Tract 804, Arapahoe County, Colorado",ARAPAHOE,Higher Than State Average
+1248,08005080800,730.22,587.18,873.27,637.8,634.79,640.81,"Census Tract 808, Arapahoe County, Colorado",ARAPAHOE,Not Different Than State Average
+1249,08005080900,960.7,835.09,1086.3,637.8,634.79,640.81,"Census Tract 809, Arapahoe County, Colorado",ARAPAHOE,Higher Than State Average
