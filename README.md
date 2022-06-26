@@ -1,2 +1,34 @@
-# Colorado_EnviroScreen_Data
-Input dataset for the Colorado EnviroScreen environmental justice mapping tool. 
+# Input Data for Colorado EnviroScreen
+
+The repository provideds the input datasets for the Colorado EnviroScreen Data Processing [repository](https://github.com/GeospatialCentroid/COEnviroScreen_dataProcessing). 
+
+**Intent**
+The goal is that users wishing to regenerate the Colorado EnviroScreen Score locally can copy and paste the context of this repository into the `data/input` folder created by the `createFolderStructure()` function within the COEnviroScreen_dataProcessing repository and quickly generate inth
+
+**Limitations and Considerations**
+
+The resources share here are not regularly updated and are not meant to be a primary or authoritative datasource for any of the input datasets. The structure and organization of the datasets within this repository may have been altered from the original source data to reflect the specific needs of this project. Allways attented to the specific source location reference within the Colorado EnviroScreen [Technical Document](https://drive.google.com/file/d/1aXfZiJtv2-6lfSQeQYfMupIICEXwidiC/view). 
+
+
+**Approximate Access Dates of datasets**
+| Dataset Folder      | Approximate Date of Access (yyyy/mm) |
+| ----------- | ----------- |
+| asthma      | 2021-08       |
+| CDC_Place   | 2022-04        |
+| drinkingWater      | 2022-01       |
+| drought  | 2022-04        |
+| EJScreen     | 2022-01       |
+| epa_cmaq   | 2021-08        |
+| floodPlains      | 2021-08       |
+| haps   | 2021-08        |
+| heartDisease      | 2021-08       |
+| heatDays  | 2022-04        |
+| lifeExpectency      | 2021-08       |
+| lowBirthWeight   | 2021-08        |
+| mining      | 2022-01       |
+| noise   | 2022-04       |
+| oilAndGas      | 2022-01       |
+| spatialLayers  | 2022-01        |
+| sufaceWater      | 2021-10      |
+| wildfire   | 2022-04        |
+
