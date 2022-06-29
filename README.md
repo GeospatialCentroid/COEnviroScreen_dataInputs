@@ -1,17 +1,17 @@
 # Input Data for Colorado EnviroScreen
 
-The repository provideds the input datasets for the Colorado EnviroScreen Data Processing [repository](https://github.com/GeospatialCentroid/COEnviroScreen_dataProcessing). 
+This repository provides the input datasets for the Colorado EnviroScreen [Data Processing Repository](https://github.com/GeospatialCentroid/COEnviroScreen_dataProcessing){:target="_blank"}. 
 
 **Intent**
-The goal is that users wishing to regenerate the Colorado EnviroScreen Score locally can copy and paste the context of this repository into the `data/input` folder created by the `createFolderStructure()` function within the COEnviroScreen_dataProcessing repository and quickly generate inth
+Users wishing to regenerate the Colorado EnviroScreen Score locally can copy and paste the context of this repository into the `data/input` folder created by the `createFolderStructure()` function within the COEnviroScreen_dataProcessing repository.
 
 **Limitations and Considerations**
 
-The resources share here are not regularly updated and are not meant to be a primary or authoritative datasource for any of the input datasets. The structure and organization of the datasets within this repository may have been altered from the original source data to reflect the specific needs of this project. Allways attented to the specific source location reference within the Colorado EnviroScreen [Technical Document](https://drive.google.com/file/d/1aXfZiJtv2-6lfSQeQYfMupIICEXwidiC/view). 
+The resources shared here are not regularly updated and are not intended to be a primary or authoritative data source for any of the input datasets. The structure and organization of the datasets within this repository may have been altered from the original source data to reflect the specific needs of this project. Specifics on data data providers are referenced within the Colorado EnviroScreen [Technical Document](https://drive.google.com/file/d/1aZfZnLeEPxvpFBILOFGpYGKLQbDxhMMF/view?usp=sharing){:target="_blank"}. 
 
 
-**Approximate Access Dates of datasets**
-| Dataset Folder      | Approximate Date of Access (yyyy/mm) |
+**Approximate Access Dates of Datasets**
+| Dataset Folder      | Approximate Date of Access (yyyy-mm) |
 | ----------- | ----------- |
 | asthma      | 2021-08       |
 | CDC_Place   | 2022-04        |
