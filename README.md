@@ -2,6 +2,12 @@
 
 This repository provides the input datasets for the Colorado EnviroScreen <a href="https://github.com/GeospatialCentroid/COEnviroScreen_dataProcessing" target="_blank">Data Processing Repository</a>
 
+*update 07-2022*
+
+We are currently unable to share all datasets via GitHub due to file size limitations.
+Please utilize the following <a href="https://github.com/GeospatialCentroid/COEnviroScreen_dataInputs.git" target="_blank">link to download</a> the current input datasets.
+
+
 **Intent**
 Users wishing to regenerate the Colorado EnviroScreen Score locally can copy and paste the context of this repository into the `data/input` folder created by the `createFolderStructure()` function within the COEnviroScreen_dataProcessing repository.
 
@@ -31,4 +37,3 @@ The resources shared here are not regularly updated and are not intended to be a
 | spatialLayers  | 2022-01        |
 | sufaceWater      | 2021-10      |
 | wildfire   | 2022-04        |
-

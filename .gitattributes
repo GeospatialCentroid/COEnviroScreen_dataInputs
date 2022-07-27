@@ -1,6 +1,0 @@
-. filter=lfs diff=lfs merge=lfs -text
-EJScreen/** filter=lfs diff=lfs merge=lfs -text
-floodPlains/** filter=lfs diff=lfs merge=lfs -text
-noise/** filter=lfs diff=lfs merge=lfs -text
-wildfire/** filter=lfs diff=lfs merge=lfs -text
-epa_cmaq/** filter=lfs diff=lfs merge=lfs -text
