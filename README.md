@@ -5,7 +5,7 @@ This repository provides the input datasets for the Colorado EnviroScreen <a hre
 *update 07-2022*
 
 We are currently unable to share all datasets via GitHub due to file size limitations.
-Please utilize the following <a href="https://github.com/GeospatialCentroid/COEnviroScreen_dataInputs.git" target="_blank">link to download</a> the current input datasets.
+Please utilize the following <a href="https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F1pqsqhwfhD-z1CnyiZQHqNcrZYjTcmimd%3Fusp%3Dsharing&data=05%7C01%7CDan.Carver%40colostate.edu%7C02c805ee63314d663d2808da64e46e8b%7Cafb58802ff7a4bb1ab21367ff2ecfc8b%7C0%7C0%7C637933229573600127%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=kdA4cNqaG2h5qJjQkzudxZsaJxjHrU5Btbv5QAxS%2F4c%3D&reserved=0" target="_blank">link to download</a> the current input datasets.
 
 
 **Intent**
